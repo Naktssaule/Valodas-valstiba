@@ -1355,12 +1355,12 @@ Reģistrs ---> Ierakstājs / [strāvekļsakaros] Pierakstlis / [infórmātikā] 
 Reģistratōrs (reģistrators) ---> Ieskaiteklis
 Reģistratūra ---> Pieteiktne [V-T1][V-T2], pierakstne
 
-Reize ---> Kārta, kārtus (ar izskaņu -us), lāgs (tēzaurā atzīmēts, kā novecojis; bieži lietots grāmatā „Dvēseļu putenis”), lāga [APVV-T​]
+Reize ---> Kārta, kārtus (ar izskaņu -us), lāgs (tēzaurā atzīmēts, kā novecojis; bieži lietots grāmatā „Dvēseļu putenis”), lāga [APVV-T]
 Vienreiz | vienu reizi, reizi ---> Vienkārt, vienlāg | Kārtu, lāgu
 Vienreizējs ---> Vienkārtējs, divlādzējs
 Divreiz, divas reizes ---> Divkārt, divlāg
 Divreizējs ---> Divkārtējs, divlādzējs
-Trīsreiz ---> Trīskārt, trijkārt [​V-T​], trīslāg, trijlāg
+Trīsreiz ---> Trīskārt, trijkārt [V-T], trīslāg, trijlāg
 Trīsreizējs ---> Trīskārtējs, trīslādzējs
 Pirmoreiz ---> Pirmokārt, pirmolāg
 Pirmreizējs ---> Pirmkārtējs, pirmlādzējs
@@ -1374,21 +1374,21 @@ Pēdējā reize ---> Galakārta, pastarā kārta, pēdējā kārta, pēdējkārt
 Šoreiz ---> Šokārt, šolāg
 Nākamreiz ---> Nākamkārt, nākamlāg / Citkārt {citkārt nopērc laikus!}
 Līdz nākamajai reizei! ---> Līdz atkal tiksimies!, līdz nākamkārtai!
-Citreiz ---> Citkārt [​V-T​], citad [​APVV-T​], citlāg, citulāg
-Citreizēj(ai)s ---> Citkārtēj(ai)s [​V-T​]
+Citreiz ---> Citkārt [V-T], citad [APVV-T], citlāg, citulāg
+Citreizēj(ai)s ---> Citkārtēj(ai)s [V-T]
 Pašreiz, patreiz, uz doto brīdi ---> Šobrīd, pašlaik, patlaban (jānoskaidro arba vārds nav radies citas valodas ietekmē)
-Pašreizēj(ai)s ---> Šobrīdēj(ai)s (pēc apvv. „tobrīdējs” parauga), patlabanējs [​V-T​] | Šībrīža [​V-T​]
+Pašreizēj(ai)s ---> Šobrīdēj(ai)s (pēc apvv. „tobrīdējs” parauga), patlabanējs [V-T] | Šībrīža [V-T]
 Toreiz ---> Tobrīd, tolaik
-Toreizēj(ai)s ---> Tobrīdēj(ai)s [​APVV-T​] | Tālaika (kas), tābrīža (kas)
+Toreizēj(ai)s ---> Tobrīdēj(ai)s [APVV-T] | Tālaika (kas), tābrīža (kas)
 Kādreiz, reiz ----> Kaut kad (satikties), citkārt (kaut ko padarīt) / Savulaik, savlaik, agrāk | Vienlaik, vienkārt (bija, dzīvoja X), kārtu (bija, dzīvoja X)
-Kādreizēj(ai)s ---> Citkārtēj(ai)s [​V-T​] | Bijušais (prezidents, priekšinieks)
+Kādreizēj(ai)s ---> Citkārtēj(ai)s [V-T] | Bijušais (prezidents, priekšinieks)
 Dažreiz ---> Dažkārt, šad tad, kārtumis (pēc vārda „reizumis” parauga) / Brīžiem, daž(u)brīd
-Reizēm ---> Dažkārt, lāgiem [​SVV-T​] / Brīžiem, daž(u)brīd
-Reižu reizēm ---> Lāgu lāgiem [​V-T​], kārtkārtumis | Brīžu brīžiem
-Vairākreiz, vairākas reizes ---> Vairākkārt [​V-T​], vairāklāg
+Reizēm ---> Dažkārt, lāgiem [SVV-T] / Brīžiem, daž(u)brīd
+Reižu reizēm ---> Lāgu lāgiem [V-T], kārtkārtumis | Brīžu brīžiem
+Vairākreiz, vairākas reizes ---> Vairākkārt [V-T], vairāklāg
 Katrreiz, katru reizi, ikreiz, ik reizi ---> Katrukārt, katrkārt, ikkārt, katrulāg
 Nevienu reizi, ne reizi ---> Nekad, pat vienkārt ne, ne kārtu, ne brīdi, ne lāgu
-Cikreiz, cik reizes ---> Cikkārt [​V-T​]
+Cikreiz, cik reizes ---> Cikkārt [V-T]
 Jau kuro reizi ---> Cikkārt jau
 Tādās reizēs ---> Tādos brīžos
 Kā (nu) kuru reizi ---> Kā (nu) kuru kārtu, kā (nu) kuru lāgu
@@ -1674,10 +1674,10 @@ Uzņēmējdarbība ---> Uzņeminiecība
 
 Ū
 V
-Vai ---> Arba [IZC-W], aba [V-T][V-LTG (nospiest pogu „piezīmes, avoti, paveidi”)][IZC-W], ab (novecojis [V-T]), ci [V-LTG1][V-LTG2], jeb (vǣlams atstāt tuvvārdu pieminēšanai) / Ar {ar nezini kas ar viņu notika?; ar nāksi?}, argi, a
+Vai ---> Arba [IZC-W], aba [V-T][V-LTG (nospiest pogu „piezīmes, avoti, paveidi”)][IZC-W], ab (novecojis [V-T]), ci [V-LTG1][V-LTG2], jeb (vǣlams atstāt tuvvārdu pieminēšanai) / Ar? {ar nezini kas ar viņu notika?; ar nāksi?}, argi?, arīgi?, arīg? ​[APVV-T]​[IZC-K1][IZC-K2][IZC-K-3], arīdz?, a? (apvv. „adzi?” 'ar dzirdi?'), ariģ [​APVV-T​ 'jautājuma partikula'], varig [APVV-T]
 Vai arī ---> Arba, citādi
 Vai nu X, vai Y ---> Arba X, arba Y [V-LIET]
-Vai tad? ---> Ar nu?, argi?
+Vai tad? ---> Argi?, arīdz?, arīgi?, arīg?
 
 Vajadzēt ---> Nākties (kā; tāpat kā ar vārdu „trūkt”)[V-T] {izdarīt kā nākas} | Pienākties {viņam pienākas dāvana} | Trūkt (kā, piem. trīs lapu) / [tas, ko ir jāizdara, kam jānotiek arba kā jābūt] Jā- {man jāzina} / [greizs lietojums] Gribēt {gribu zināt}
 Vajadzība ---> Nāksme (izskaņa -sme lietota kā izskaņa -šanās. sk. vārrdares sadaļu), nākums (ieteica Lauma), nācība
