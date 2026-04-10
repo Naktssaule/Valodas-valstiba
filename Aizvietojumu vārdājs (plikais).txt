@@ -1674,9 +1674,9 @@ Uzņēmējdarbība ---> Uzņeminiecība
 
 Ū
 V
-Vai ---> Arba [IZC-W], aba [V-T][V-LTG (nospiest pogu „piezīmes, avoti, paveidi”)][IZC-W], ab (novecojis [V-T]), ci [V-LTG1][V-LTG2], jeb (vǣlams atstāt tuvvārdu pieminēšanai) / Ar? {ar nezini kas ar viņu notika?; ar nāksi?}, argi?, arīgi?, arīg? ​[APVV-T]​[IZC-K1][IZC-K2][IZC-K-3], arīdz?, a? (apvv. „adzi?” 'ar dzirdi?'), ariģ [​APVV-T​ 'jautājuma partikula'], varig [APVV-T]
+Vai ---> Arba [IZC-W](neskaitot vārdu „aba” gan „ab”, partikula „​-ba​” ir arī vārdā „jeb”, „jebšu” (šeit arī partikula „-šu”), apvv. „jeba” gan vārdā „neba”), aba [V-T][V-LTG (nospiest pogu „piezīmes, avoti, paveidi”)][IZC-W], ab [​NOVCV-T​], ci [V-LTG1][V-LTG2], jeb (vǣlams atstāt tuvvārdu pieminēšanai) / Ar? {ar nezini kas ar viņu notika?; ar nāksi?}, argi?, arīg? ​[APVV-T]​[IZC-K1][IZC-K2][IZC-K-3], arīdz?, arīgi?, a? (apvv. „adzi?” 'ar dzirdi?'), arīdzan [NOVCV-T], ariģ [​APVV-T​ 'jautājuma partikula'], varig [APVV-T]
 Vai arī ---> Arba, citādi
-Vai nu X, vai Y ---> Arba X, arba Y [V-LIET]
+Vai nu X, vai Y ---> Arba X, arba Y [​V-LIET​]
 Vai tad? ---> Argi?, arīdz?, arīgi?, arīg?
 
 Vajadzēt ---> Nākties (kā; tāpat kā ar vārdu „trūkt”)[V-T] {izdarīt kā nākas} | Pienākties {viņam pienākas dāvana} | Trūkt (kā, piem. trīs lapu) / [tas, ko ir jāizdara, kam jānotiek arba kā jābūt] Jā- {man jāzina} / [greizs lietojums] Gribēt {gribu zināt}
