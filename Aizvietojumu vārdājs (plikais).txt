@@ -1675,11 +1675,11 @@ Uzņēmējdarbība ---> Uzņeminiecība
 Ū
 V
 Vai ---> Arba [IZC-W], aba [V-T][V-LTG (nospiest pogu „piezīmes, avoti, paveidi”)][IZC-W], ab (novecojis [V-T]), ci [V-LTG1][V-LTG2], jeb (vǣlams atstāt tuvvārdu pieminēšanai) / Ar {ar nezini kas ar viņu notika?; ar nāksi?}, argi, a
-Vai arī ---> Arba
+Vai arī ---> Arba, citādi
 Vai nu X, vai Y ---> Arba X, arba Y [V-LIET]
 Vai tad? ---> Ar nu?, argi?
 
-Vajadzēt ---> Nākties (kā; tāpat kā ar vārdu „trūkt”. jau æsoša nozīme) {izdarīt kā nākas} | Pienākties {viņam pienākas dāvana} | Trūkt (kā, piem. trīs lapu) / [tas, ko ir jāizdara, kam jānotiek arba kā jābūt] Jā- {man jāzina} / [greizs lietojums] Gribēt {gribu zināt}
+Vajadzēt ---> Nākties (kā; tāpat kā ar vārdu „trūkt”)[V-T] {izdarīt kā nākas} | Pienākties {viņam pienākas dāvana} | Trūkt (kā, piem. trīs lapu) / [tas, ko ir jāizdara, kam jānotiek arba kā jābūt] Jā- {man jāzina} / [greizs lietojums] Gribēt {gribu zināt}
 Vajadzība ---> Nāksme (izskaņa -sme lietota kā izskaņa -šanās. sk. vārrdares sadaļu), nākums (ieteica Lauma), nācība
 Vajadzīgs ---> Nāksmīgs, nācīgs
 Nevajadzīgs ---> Lieks, nenāksmīgs, nenācīgs
