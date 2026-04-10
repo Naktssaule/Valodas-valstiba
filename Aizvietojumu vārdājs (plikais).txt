@@ -47,7 +47,7 @@ Agresōrs (agresors) ---> Uzbrucējs, uzbrucīgais
 
 Aimbot, aim hacks, aim assistance ---> Paštēme, paštēmēšana
 
-Aina ---> Skats | Dabasskats, laukskats / [dramatiska sacerējuma vienība] vēlāk kaut ko pielikšu
+Aina ---> Skats | Dabasskats, laukskats / [dramatiska sacerējuma vienība] Ieskatinājums
 Atainot ---> Ieskatināt, ieskatot, atveidot
 Atainoties ---> Ieskatināties, atveidoties
 Atainojums ---> Ieskatinājums, atveidojums
@@ -64,7 +64,7 @@ Ak, dievs! ---> Ai/vai, dievs!
 Ak, vai! ---> Avai! [APVV-T] / [nepatīkamiem gadījumiem] Avui! [APVV-T]
 Ak, nē! ---> Vui, nē! [V-T], a nē! [V-LTG1][V-LTG2], ā ne! (šāds jau pastāvot)
 
-Aktieris, aktrise ---> Tǣlonis/-e (tēlonis)
+Aktieris, aktrise ---> Izliksminieks/-e (no neesoša vārda „izliksme” 'izlikšanās'), tǣlonis/-e (tēlonis), izlicinieks/-e (no vārda „izlikties”)
 
 Akumulatōrs (akumulators) ---> Sparakrājs (sk. aizvietojumu vārdam „enerģija”), uzkrājs, uzkrājeklis (termini.gov.lv piedāvā vārdu „sakrājējs”)
 
@@ -99,8 +99,8 @@ Mājas aptieka ---> Namu zālaviņa, namu zālnīte, namu zālenīte, namu dzied
 Aptiekārs ----> Zālavinieks, zālninieks, zāleninieks, dziedēkleniķis, dziedēkleninieks / Zālavas īpašinieks / Zālavvedis
 
 Attǣls (attēls) ---> Atveids [V-T]
-Attǣlot (attēlot) ---> Parādīt, atveidināt
-Attǣloties (attēloties) ---> Parādīties, atveidināties, atspoguļoties
+Attǣlot (attēlot) ---> Atveidināt, parādīt
+Attǣloties (attēloties) ---> Atveidināties, parādīties, atspoguļoties
 Attǣlojums (attēlojums) ---> Atveidinājums
 
 Atmósfēra (atmosfēra) ---> Gaisotne (vārds jau ietver divas aizguvuma nozīmes)
@@ -184,7 +184,7 @@ Apakšbikses ---> Apakšenes, [sarunvalodā] apenes / [stilbenes, ko velk zem ci
 Pældbikses (peldbikses) ---> Peldenes
 Zeķbikses ---> (sk. pie vārda „zeķe” aizvietojuma)
 
-Bilde, attǣls (attēls) ---> Atveids (jau æsošs vārds) / [aina] Skats {skats skaidrs}
+Bilde, attǣls (attēls) ---> Atveids [V-T] / [aina] Skats {skats skaidrs}
 (no)Bildēt ---> (no)Tvert
 
 Birka ---> Aprakstlis, aprakstenis, šķirenis / [pagātniskajai nozīmei] Burtkoks [V-T][IZC-K]
