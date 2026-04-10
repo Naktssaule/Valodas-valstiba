@@ -34,7 +34,7 @@ IZC-C = Izcelsme citā avotā
 Vārdu izcelsmju avoti:
 Kónstantīna Karuļa etimólōģijas vārdājs
 
-[​Izmaiņu žurnāls​]
+[Izmaiņu žurnāls]
 
 A
 Adjektīvs („īpašības vārds” īsāk) ---> Īpašībenis, īpašībis
@@ -48,9 +48,9 @@ Agresōrs (agresors) ---> Uzbrucējs, uzbrucīgais
 Aimbot, aim hacks, aim assistance ---> Paštēme, paštēmēšana
 
 Aina ---> Skats | Dabasskats, laukskats / [dramatiska sacerējuma vienība] vēlāk kaut ko pielikšu
-Atainot ---> Atveidot
-Atainoties ---> Atveidoties
-Atainojums ---> Atveidojums
+Atainot ---> Ieskatināt, ieskatot, atveidot
+Atainoties ---> Ieskatināties, atveidoties
+Atainojums ---> Ieskatinājums, atveidojums
 Ainava, peizāža landšafts (novecojis) ---> Dabasskats
 Asinsaina ---> Asinsskats
 Kopaina ---> Kopskats
@@ -59,7 +59,8 @@ Ainavzinātne ---> Dabasskatzinātne, laukskatzinātne, dabasskatu zinātne
 Ainavzinātnisks ---> Dabasskatzinātnisks, laukskatzinātnisks, ar dabasskatzinātni saistīts, ar dabasskatu zinātni saistīts
 Ainavórientācija (ainavorientācija) ---> Dabasskata órientācija, laukskata órientācija
 
-Ak ---> Ai!, vai! | [aiz kāda vārda, tā pastiprināšanai] Jel {atziedi jel! | ai, svētī jel to!}
+Ak ---> Ai!, vai! | [tieši nepatīkamiem gadījumiem] Vui! / [aiz kāda vārda, tā pastiprināšanai] Jel {atziedi jel! | ai, svētī jel to!}
+Ak, dievs! ---> Ai/vai, dievs!
 Ak, vai! ---> Avai! [APVV-T] / [nepatīkamiem gadījumiem] Avui! [APVV-T]
 Ak, nē! ---> Vui, nē! [V-T], a nē! [V-LTG1][V-LTG2], ā ne! (šāds jau pastāvot)
 
@@ -383,7 +384,7 @@ Dōzatōrs (dōzatōrs), dispensers, [LVAK vārdājā] dævdevis, izsniegtuvis -
 Drāts ---> Stieple [V-T] / [Ar kurpnieku piķi ievaskots stiprs (parasti linu) diegs apavu šūšanai, ko agrākos laikos lietoja kurpnieki] Vǣlāk kaut ko pielikšu / [Dzimumakts] Kniebšanās, piša
 Dzæloņdrāts (dzeloņdrāts) ---> Dzæloņstieple (dzeloņstieple)
 
-Driftēt, driftot ---> Sklenst [​APVV-T1​][APVV-T2][IZC-K], sānslīdināt (atvasināts no vārda „sānslīde”; 'likt slīdēt sānis')
+Driftēt, driftot ---> Sklenst [APVV-T1][APVV-T2][IZC-K], sānslīdināt (atvasināts no vārda „sānslīde”; 'likt slīdēt sānis')
 Drifts ---> Sklenšana, sānslīdināšana, (tīša) sānslīde | [pabeigta darbība] sklendiens
 
 A drop (skatāmrotaļas dota turta, ko rotaļātāja tǣls æsot kaujas laikā pacēlis, nocēlis, piemēram no pretinieka miroņa) ---> Atradums, celksnis [NOVCV-T]
