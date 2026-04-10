@@ -94,8 +94,8 @@ Aplausi ---> Plaukstošana, plaukšķi, plaukšoņa (apvv.; jau æsoša nozīme)
 Apmierināt ar pirkstu, to finger ---> Pirkstot [APVV-T]
 
 Aptieka ---> Zālava, zālne, zālene (iedvæsma no lietuvju vārda „vaistinė” 'aptieka'), dziedēklene (pamatā aizvietojums vārdam „medikaments”), zāļne (parasti atvasina nemīkstinātu. sal. ar vārdu „Olaine”, „Priedaine”), zāļene, zāļpārdotne
-Aptieciņa ---> Zālaviņa, zālnīte, zālenīte, dziedēklenīte
-Mājas aptieka ---> Namu zālaviņa, namu zālnīte, namu zālenīte, namu dziedēklenīte
+Aptieciņa ---> Zālaviņa, zālene, zālnīte, zālenīte, dziedēklenīte
+Mājas aptieka ---> Namu zālaviņa, namu zālene, namu zālnīte, namu zālenīte, namu dziedēklenīte
 Aptiekārs ----> Zālavinieks, zālninieks, zāleninieks, dziedēkleniķis, dziedēkleninieks / Zālavas īpašinieks / Zālavvedis
 
 Attǣls (attēls) ---> Atveids [V-T]
