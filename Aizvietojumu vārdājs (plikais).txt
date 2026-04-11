@@ -303,10 +303,10 @@ Bulciņa ---> Smalkmaizīte, smalkmaizele, smalkmaižuks
 Burtnīca ---> Rakstene {nošu rakstene}
 
 C
-Cilvēks ---> Ļaudietis, ļaudenis (abiem daudzuskaitam - ļaudis), ļaužs (jau æsošs apvidvārds)
+Cilvēks ---> Ļaudietis, ļaudenis (abu daudzuskaitam - ļaudis), ļaužs (jau æsošs apvidvārds), ļaudus
 
-Cipars ---> Skaišķis (apvv. ar nozīmi 'skaitlis, skaits'; sk. arī aizvietojumu vārdam „digitāls”), skaitenis, skaitlenis (ar izskaņas „-enis” nozīmi 'raksturīgs, piederīgs, saistīts' gan 'no kaut kā', tātad 'tas, no kā skaitlis sastāv), skaituks, skaituzis, skaitutis
-Ciparripa ---> Skaišķuripa
+Cipars ---> Skaitlenis (ar izskaņas „-enis” nozīmi 'saistīts, raksturīgs, piederīgs' gan 'no kaut kā', tātad 'tas, no kā skaitlis sastāv'), skaišķis (apvv. ar nozīmi 'skaitlis, skaits'; sk. arī aizvietojumu vārdam „digitāls”), skaitenis, skaituks, skaituzis, skaitutis
+Ciparripa ---> Skaitleņripa
 
 A cougar ---> Jauniešmediniece, jauno mediniece, jauniešķere, jaunoķere
 
@@ -317,20 +317,24 @@ A cougar ---> Jauniešmediniece, jauno mediniece, jauniešķere, jaunoķere
 
 Čempiōns (čempions), čempis ---> Uzvaronis
 
-Četri ---> Cæturi (ceturi; sal. ar vārdu „cæturtais”, „cæturksnis”, „cæturtdiena” gan lietuvju, žemaišu vārdu), cætri (apvv.)
-Četrinieks ---> Cæturinieks (ceturinieks)
+Četri ---> Cæturi (ceturi; sal. ar vārdu „cæturtais”, „cæturksnis”, „cæturtdiena” gan lietuvju, žemaišu, prūšu vārdu), cætri [​APVV-T​]
+Četrinieks ---> Cæturenis (ceturinieks), cæturinieks
 Četratā ---> Cæturatā (ceturatā)
 Četrarpus ---> Puspieci, cæturarpus (ceturarpus), cæturi ar pusi
-Četrciparu (kas) ---> Cæturskaišķu (kas)
+Četrciparu (kas) ---> Cæturskaitleņu (kas)
 Četrcēlienu (kas) ---> Cæturcēlienu (kas)
 
-Čóms (čoms) ---> Savinieks, sebris [1][2][3][4][5 (savs, svešs)], savris
+Čóms (čoms) ---> Savinieks, sebris [​APVV-T​][​IZC-K1​][​IZC-K2​][​IZC-K3​][IZC-K4 (savs, svešs)], savris
 
 D
 Dabūt ---> (Ie)gūt (vārtus, kurpes, vietu, redzēt, dzirdēt), tikt pie (lielas naudas) | (Ie)gūt, saņemt (pa sāniem/purnu)
 
 Datōrs (dators) ---> Skaitļoklis (jau æsošais vārds „skaitļotājs”, bet ar rīka, nevis darītāja (dzīva) izskaņu)
 Lieldatōrs ---> Lielskaitļoklis, skaitļotne, skaitļotava
+
+Datums ---> Mēnešdiena, gadmēnešdiena, dienojums (šādi saka velsieši gan ​somi​. kórejieši saka 'dienas'), dienpieraksts, dienpiezīme, dienskaitļi, dienasmiņa / Diena {septītajā mēneša dienā; otrajā ziedoņa dienā; kurā (mēneša) dienā?; kura tagad diena?; kura diena šoden (ir)?; no desmitās (mēneša) dienas; no desmitās mēnešdienas}
+Datēt ---> Atdienot
+Datējums ---> Atdienojums
 
 Davai! ---> Aidā!, aiziet!, [sarunvalodai] pišam (vaļā)!, maucam!, šaujam! | ['ejam!'] Pišam (vaļā)!, maucam, laižam, jožam!, šļūcam!, brāžam!, kātojam!, pǣdojam!, cipājam!, kukšojam!, šaujam!
 
@@ -351,11 +355,11 @@ Dienæsta (kas) ---> Darba (kas, piem. tālrunis, sparabrauks) / Darbinieku (kas
 Dienēt ---> Klausmēt, klausmot, klausīt
 Dienæsta stāvoklis ---> Iestādība, iestādatne, iestādiskais stāvoklis
 
-Digitāls, cipar-(kamera, ieraksts, paraksts, sertifikāts, saskarne) ---> Skaišķæns (skaišķens), skaišķīgs, skaitlenišķs, skaitlenīgs, skaitenīgs, skaituzæns (skaituzens), skaitukans
-Digitalizēt ---> Skaišķænot (skaišķenot; iedvæsma no LVAK vārdāja apbilduma, kurā ieteica vārdu „ieciparot”), skaišķīgot, skaitlenīgot, ieskaišķiskot
-Digitalizācija ---> Skaišķænošana (skaišķenošana), skaišķīgošana, skaitlenīgošana
-Digitālā kamera, ciparkamera ---> Skaišķænais skattveris
-Digitālieraksts, ciparieraksts ---> Skaišķæns ieraksts
+Digitāls, cipar-(kamera, ieraksts, paraksts, sertifikāts, saskarne) ---> Skaitlenišķs (sk. aizvietojumu vārdam „cipars”), skaišķæns (skaišķens), skaišķīgs, skaitlenīgs, skaitenīgs, skaituzæns (skaituzens), skaitukans
+Digitalizēt ---> Skaitlenišķot, skaišķænot (skaišķenot; iedvæsma no LVAK vārdāja apbilduma, kurā ieteica vārdu „ieciparot”), skaišķīgot, skaitlenīgot, ieskaišķiskot
+Digitalizācija ---> Skaitlenišķošana, skaišķænošana (skaišķenošana), skaišķīgošana, skaitlenīgošana
+Digitālā kamera, ciparkamera ---> Skaitlenišķais skattveris, skaišķænais skattveris
+Digitālieraksts, ciparieraksts ---> Skaitlenišķs ieraksts, skaišķæns ieraksts
 
 Displejs ---> atveidradis, attǣlradis (attēlradis)
 
@@ -410,6 +414,8 @@ Ekrāns ---> Atveidne, atveidene, uzrādne, rādne, skatne
 Ekrānuzņēmums, ekrānšāviņš ---> Atveidnestvǣrums (atveidnestvērums), atveidnestværs (atveidnestvers), uzrādnestværs (uzrādnestvers), rādnestvǣrums (rādnestvērums), rādnestværs (rādnestvers), skatnestvǣrums (skatnestvǣrums)
 Veikt ekrānuzņēmumu ---> (no)tvert atveidni
 Skārienekrāns ---> Skārienatveidne, skārienrādne, skārienuzrādne
+
+Eldritch ---> Dairs [NOVCV-T][NOVCPPV-T][IZC-K1][IZC-K2], savādbaigs, savādbaiss
 
 Elektrība ---> Strāveklis
 Elektrisks ---> Strāveklisks / strāvekli radošs
@@ -530,7 +536,7 @@ Gāzmaska ---> Gaisļassejene, gaisņassejene
 
 GG (good game!) ---> Paldies par sacentienu! (PPS!)
 GGWP (good game, well played!) ---> Labi rotaļāts, paldies par sacentienu! (LRPPS!), labi rotņāts!, [sarunvalodai] labi kapāts!, labi rukāts! / Labi sacentāties!, labi sacentāmies!
-GGEZ (good game. easy!) ---> Citārt pacentieties!; pat neiespringu/-ām, paldies par sacentienu!; Kā pa taukiem! Paldies par uzvaru! (KPT! PPU!); Kā pa sviestu/sliedēm! Paldies par uzvaru! (KPSPPU!; KPS, PPU!)
+GGEZ (good game. easy!) ---> Citkārt pacentieties!; Kā pa taukiem! Paldies par uzvaru! (KPT! PPU!); Kā pa sviestu/sliedēm! Paldies par uzvaru! (KPSPPU!; KPS, PPU!), pat neiespringu/-ām, paldies par uzvaru!
 
 Giljótīna (giljotīna) ---> Galvascirstne, galvascirslis, atgalvoklis, atgalvotne, nocirslis, nocirstuve
 
@@ -574,7 +580,7 @@ Grāmat(i)niecība ---> Burtniniecība
 Grāmatvedība ---> Burtņvedība
 Grāmatvedis ---> Burtņvedis
 
-Grebene ---> Sekstenis, sekstmati, sekste
+Grebene ---> Sekstenis, plošņusekste, kaujassekste, sekstmati, sekste
 
 Grǣda (grēda) ---> (akmeņu, malkas) Krāvums, stirpa | (Mākoņu) gubas /
 Kalnu grǣda ---> Kalnukores, kalnu koriene, kalnu korojums, kalnu kosa [V-T]
@@ -672,6 +678,9 @@ Driftertīklu jeda ---> Pludiņtīklu virtene/virkne
 Jēzus, marija!, jesus christ! ---> Saule, Pǣrkon! (saule, pērkon!)
 
 K
+Kalendārs ---> Dienlapis, dienrādis [V-T], dienenis
+Kalendārs (saistīts ar kalendāru) ---> Dienlapisks, dienrādisks, dienenisks
+
 Kalpot  ---> Aizklausīt ('klausīt kāda labad', priedēkļa nozīme kā vārdam „aizdars“ gan „aizdarīt”)[APVV-T], klausīt [V-T], klausmēt (no vārda „klausme” 'klausīšana'; aizvietojums vārdam „dienēt”), klausiniekot, būt (kāda) klausiniekam
 Izkalpot ---> Izklausīt, izklausmēt
 Izkalpoties ---> Izklausīt, izklausmēt / Izpelnīties [V-T]
@@ -715,7 +724,9 @@ Kardiólōģija (kardioloģija) ---> Sirdiniecība
 Kardiōķirurgs ---> Sirds ķirurgs
 Kardiōķirurģisks (kardioķirurģisks) --->
 Kardiōķirurģija (kardioķirurģija) --->
-Elektrōkardiōgramma (elektrokardiogramma), kardiōgramma (kardiogramma) --->
+Elektrōkardiōgrāfs (elektrokardiogrāfs) ---> Sirdsrakstlis
+Elektrōkardiōgrāfija (elektrokardiogrāfija) ---> Sirdsrakstošana
+Elektrōkardiōgramma (elektrokardiogramma), kardiōgramma (kardiogramma) ---> Sirdsraksts
 
 Kariete ---> Græznrati (greznrati), smalkrati
 
@@ -849,16 +860,20 @@ Krunkot ---> Raukt, grumbot
 Krunkoties ---> Raukties, grumboties
 Krunkots ---> Grumbots
 
+Krūze ---> Dzersle [APVV-T]
+
 Kuģis ---> Jūrene, jūravs, jūrbrauks
 Kósmósa kuģis (kosmosa kuģis) ---> Visumlidotne (sk. aizvietojumu vārdam „lidmašīna”)
+
+Kupōls (kupols) ---> Jumols [V-T], pārvāznis [V-T]
 
 Kurjers ---> Piegādinieks
 
 Kvadricikls, četrriteņu mótócikls (četrriteņu motocikls) ---> Cæturritenis (ceturritenis; pēc lietuvju vārda „keturratis” parauga)
 
-Kvalitāte ---> Kādība [V-T], kādums [NOVCV-T], kācība (laikam saistīts ar lietuvju vārdu „kokybė” 'kvalitāte, kādība, labums')[APVV-T] / [kādības pakāpe] Labums [V-T], kādība {labas kādības}, kādums {laba kāduma}, raudze (pārn. noz.)[V-T] / [šaha sacentienā] Vǣlāk kaut ko pielikšu
+Kvalitāte ---> Kādība [V-T], kādums [NOVCV-T], kācība (laikam saistīts ar lietuvju vārdu „kokybė” 'kvalitāte, kādība, labums')[APVV-T] / [kādības pakāpe] Labums [V-T], kādība {labas kādības}, kādums {laba kāduma}, raudze (pārn. noz.)[V-T] {labas raudzes} / [šaha sacentienā] Vǣlāk kaut ko pielikšu
 Kvalitatīvs ---> Kādībisks, kādumisks | Kādības (kas, piem. īpašībenis, apstāklenis, kādības analīze), kāduma (kas) / [tāds, kam ir laba kādība] Labatnīgs, labas kādības, laba kāduma, labas raudzes, labatnišķs, labatnes (kas), labumīgs, labumišķs, labums
-Kvalitatīvums, kvalitatīvitāte, kvalitativitāte ---> Labatne ('laba kādība, kādums' vārdam „labība” jau ir cita nozīme)
+Kvalitatīvums, kvalitatīvitāte, kvalitativitāte, kvalitāte ('laba kādība') ---> Labatne ('laba kādība, kādums' vārdam „labība” jau ir cita nozīme)
 
 Ķ
 Ķeceris ---> Viltticīgais, viltticis, svešticīgais, ļaunticīgais, apalotais [APVV-T][V-K][IZC-K1][IZC-K2][IZC-K3]
@@ -1252,7 +1267,7 @@ Pavārs ---> Virinieks, virtuvenis (jau æsošs), ēdientaisis, ēsttaisis, [sar
 Šefpavārs ---> Galvænviris (galvenviris; daudzuskaitam: galvænvirji, kā piemēram vārdam „gulbji”, „cirvji”), galvænvirinieks (galvenvirinieks)
 Pavārnīca ---> Smeļamkauss, smeļamkarote, vārāmkarote, viramkarote
 
-Pāris ---> Divums, otriniekatne, otriniekiens, otriniecība, otriniekājs / Daži
+Pāris ---> Divums, otriniekatne, otrinieciens, otriniekiens, otriniecība, otriniekājs / Daži
 Pārītis ---> Divumiņš
 Pārinieks ---> Divuminieks, otrinieks [APVV-T]
 Pārskaitlis ---> Līdzskaitlis (pēc leišu apzīmējuma („lyginis skaičius“) parauga)
@@ -1283,8 +1298,8 @@ Plīts ---> Virekle (pēc lietuvju vārda („viryklė”) parauga), virene, sil
 
 Postīt ---> Graut, ārdīt, nīcināt | [ilgstoši, vairākās vietās] Graustīt
 Postīgs, postošs ---> Ārdošs, nīcinošs
-Nopostīt ---> Noārdīt, nonīcināt (apvv.)
-Sapostīt --> Sagraut, saārdīt, sanīcināt (apvv.)
+Nopostīt ---> Noārdīt, nonīcināt [​APVV-T​]
+Sapostīt --> Sagraut, saārdīt, sanīcināt [​APVV-T​]
 Izpostīt ---> Izārdīt, iznīcināt
 Postījums ---> Ārdījums, nīcinājums
 Postītājs ---> Ārdītājs, nīcinātājs
@@ -1309,7 +1324,7 @@ Rokaspulkstenis ---> Rokas laikrādis
 Pulksteņtaisītājs, pulksteņmeistars ---> Laikrādinieks, laikrāžtaisis
 Pulksten ---> Laikā {Laikā trijos piecdesmit}
 Pulkstenīte --->
-Sniegpulkstenīte ---> Sniedzene (apvv.)
+Sniegpulkstenīte ---> Sniedzene [​APVV-T​]
 
 Pulveris ---> Milums (tas, kas ir samilts, jeb sīki samalts. Sīks malums), mila, miltišķi ('tie, kas ir kā milti/tie, kas ar miltiem saistīti'. izskaņas „-išķis” pamatā ir „-išķs”. abas saistītas ar izskaņu „-isks” gan „-iskis”), milteņi
 Pulverveidīgs | pulverveida ---> Milumveidīgs, milasveidīgs | milumveida, milasveida
@@ -1369,7 +1384,7 @@ Reģistrs ---> Ierakstājs / [strāvekļsakaros] Pierakstlis / [infórmātikā] 
 Reģistratōrs (reģistrators) ---> Ieskaiteklis
 Reģistratūra ---> Pieteiktne [V-T1][V-T2], pierakstne
 
-Reize ---> Kārta, kārtus (ar izskaņu -us), lāgs (​tēzaurā atzīmēts, kā novæcojis​; bieži lietots grāmatā „Dvēseļu putenis”), lāga [APVV-T]
+Reize ---> Kārta, kārtus (ar izskaņu -us. lietuvji gadījumus skaita ar vārdu vīriešu dzimtē („kartas”), bet slāņa nozīmei lieto sieviešu dzimti(„karta”. pieņemu, ka agrāk - kad no galotnes -as nebija vēl izzudis a burts - tā darījām arī mēs)), lāgs (​tēzaurā atzīmēts, kā novæcojis​; bieži lietots grāmatā „Dvēseļu putenis”), lāga [APVV-T]
 Vienreiz | vienu reizi, reizi ---> Vienkārt, vienlāg | Kārtu, lāgu
 Vienreizējs ---> Vienkārtējs, divlādzējs
 Divreiz, divas reizes ---> Divkārt, divlāg
@@ -1573,6 +1588,10 @@ Spēļu kārtis ---> Kavējamās kārtis, kavējamkārtis, rotaļkārtis, sacens
 Likt uz spēles ---> Likt uz kārts [PPV-T]
 Ģitārspēle ---> Ģitārskande, ģitārskandināšana
 Spēlfilma, mākslas filma ---> Mākslas skatāmlente (sk. aizvietojumu vārdam „filma”), [sarunvalodai] mākslas lente
+
+Spærma (sperma) ---> (Dzimum)sǣkla (dzimumsēkla)[V-T], (bǣrn)sǣkla (bērnsēkla), [sarunvalodai] pisākļi, pisākli [APVV-T]
+Spærmatózóīds (spermatozoīds), spærmatózójs (spermatozojs), spermijs (2. nozīme) ---> Dzimumǣklis (dzimumsēklis), dzimumsēklis, dzimumsǣkliņš (dzimumsēkliņš), dzimumsǣklenis (dzimumsēklenis), dzimumsēklenis, dzimumsēkliņš, dzimumsǣklietis (dzimumsēklietis)
+Vīrišķdzimumšūna, vīrišķššūna, vīrišķā šūna
 
 Spics ---> Smails / [sarunvalodas nozīme; 'atjautīgs; izmanīgs'] Vǣlāk ko pielikšu / [sarunvalodas nozīme; 'ļoti labs, piesaistošs'] Vǣlāk ko pielikšu
 Spicēt ausis ---> Ausīties [V-T], pacelt/pastatīt ausis (otrais pēc lietuvju parauga), smailināt ausis, smailēt ausis [V-T]
