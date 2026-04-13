@@ -143,14 +143,14 @@ Kaujas āmurs ---> Belzeklis, belzlis, kaujasbelznis, belznis, kaujas kaleklis, 
 Ārstēt ---> Dziedēt, dziedināt, veseļot
 
 B
-To bait (Counter-strike termins) ---> ǣsmināt (ēsmināt; 'padarīt par ēsmu'), izkārt, izklikt
+To bait (Counter-strike termins) ---> Ǣsmināt (ēsmināt; 'padarīt par ēsmu'), izkārt, izklikt
 
 Bagāts ---> Turtīgs (sk. aizvietojumu vārdam „manta”), naudīgs [V-T], naudæns (naudens)[APVV-T], [sarunvalodai] biezs [V-T] / Kupls [V-T], saturīgs [V-T]
 Nopælniem bagāts ---> Nopælnains (nopelnains), sapelnījies
 Bagātums ---> Turtīgums, naudīgums, naudænums (naudenums), [sarunvalodai] biezums / Kuplums, saturīgums
 Bagātība ---> Turtība / Pārpilnība, [dzejiski] pārpilne
 Bagāt(i)nieks ---> Turtīginieks, turtīgais, naudīgais, naudænais (naudenais), naudinieks, turtīgnis, turtainis, [sarunvalodai] biezais, naudasmaiss
-Bagātīgs ---> Saturīgs, devīgs (pārnæstā nozīmē; jau æsošss) / Kupls
+Bagātīgs ---> Saturīgs, devīgs [V/PĀRNN-T] / Kupls
 Bagātīgums ---> Saturīgums, kuplums
 Bagātināt ---> Kuplināt (valodu, izteiskmes līdzekļus) / [sastāvdaļāmi] Papildināt
 Bagātinātājs ---> Kuplinātājs / Papildeklis, papildiņš | [ļaudietis] Papildinātājs
@@ -1269,7 +1269,7 @@ Pavārnīca ---> Smeļamkauss, smeļamkarote, vārāmkarote, viramkarote
 Pāris ---> Divums, otriniekatne, otrinieciens, otriniekiens, otriniecība, otriniekājs / Daži
 Pārītis ---> Divumiņš
 Pārinieks ---> Divuminieks, otrinieks [APVV-T]
-Pārskaitlis ---> Līdzskaitlis (pēc leišu apzīmējuma („lyginis skaičius“) parauga)
+Pārskaitlis ---> Līdzskaitlis (pēc lietuvju apzīmējuma („lyginis skaičius“) parauga)
 Nepārskaitlis, nepāra skaitlis ---> Nelīdzskaitlis
 Pāra (kas) ---> Līdzskaitļa (kas)
 Nepāra (kas) ---> Nelīdzskaitļa (kas)
@@ -1306,7 +1306,7 @@ Posts ---> Zudība, nīcība / Nelaime
 Nelaime un posts ---> Nelaime gan zudība/nīcība
 (Aiz)iet postā ---> (Aiz)iet zudībā/zudumā | [tikai par ļaudieti] (Iz)dzist
 
-Pólicists (policists) ---> Kārtībsargs/-ene, kārtībinieks, likumsargs (visi trīs jau æsoši [1][2][3])
+Pólicists (policists) ---> Kārtībsargs/-ene [V-T], kārtībinieks [V-T], likumsargs [V-T 'tiesībsargājošās iestādes (parasti kārtībsaradzes) darbinieks']
 Pólicija (policija) ---> Kārtībsardze, kārtībiniecība
 
 Presēt ---> Spaidīt, slogot, slodzināt
