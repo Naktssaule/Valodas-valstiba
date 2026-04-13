@@ -1020,10 +1020,10 @@ Māja ---> Nams
 Mājas ---> Nami, miteklis / Lauksǣta, lauku sǣta (lauksēta, lauku sēta), sǣta, nami / Dzimtene, dzimtā vieta
 Mājinieks ---> Miteklinieks
 Naktsmājas ---> Naktsnami
-Iet mājās ---> Namup, uz namiem
+Iet mājās ---> Iet namup, iet uz namiem
 Mājupceļš ---> Namupceļš
 Mājot ---> Mist {tur mīt divi vilki}
-Mājoklis ---> Miteklis (jau æsošs)
+Mājoklis ---> Miteklis [V-T]
 Mājvieta ---> Dzīvesvieta, pajumte (jau æsoši)
 Dot mājvietu ---> Dot pajumti/patvǣrumu
 Mājturība ---> Namturība
@@ -1470,30 +1470,38 @@ Satelīts, mākslīgais pavadonis ---> Pavadīklis, pavadeklis, pavadoklis
 Satelītiekārta ---> Pavadīklis, pavadošā iekārta
 Satelītattǣls (satelītattēls) ---> Pavadīkļatveids (sk. aizvietojumu vārdam „attǣls”)
 
-Sekss, dzimumakts ---> Miesla [APVV-T][IZC-K], mieslības ('mieslošanās', izskaņa kā piemēram vārdam „viesības” 'viesošanās'), miesle [APVV-T], [sarunvalodai] kniebšanās, pisiens, piša
-Seksuāls ---> Mieslisks / Miesls [APVV-T], mieslišķs, dzimumtieksms (izskaņa kā piemēram vārdam „līksms”, „drausms”, „baisms”), mieslisks
-Seksualitāte, seksualisms ---> Mieslība {mieslības  kómercializācija}, mieslišķība, dzimumtieksme | dzimumtieksmes veids
+Sekss, dzimumakts ---> Miesla [APVV-T][IZC-K], mieslības ('mieslošanās', izskaņa kā piemēram vārdam „viesības” 'viesošanās'), miesle [APVV-T], [sarunvalodai] miesojiens, kniebiens, pisiens, piša | [nepabeigta darbība] Miesošanās, kniebšanās, pišanās
+Seksuāls ---> Mieslisks / Miesls [APVV-T], mieslišķs, mieslīgs, dzimumtieksms (izskaņa kā piemēram vārdam „līksms”, „drausms”, „baisms”), mieslisks
+Seksualitāte, seksualisms ---> Mieslība {mieslības kómercializācija}, dzimumtieksme, mieslišķība | Dzimumtieksmes veids, mieslības veids, mieslība
 Seksīgs ---> Mieslinošs, uzbudinošs
-Nodarboties ar seksu, veikt dzimumaktu, [sarunvalodā] seksoties ---> Miesloties [NOVCV-T], [sarunvalodai] miesoties [APVV-T]
+Nodarboties ar seksu, veikt dzimumaktu, [sarunvalodā] seksoties ---> Miesloties [NOVCV-T], [sarunvalodai] miesoties [APVV-T], kniebties [SARVV-T], pisties, sabīdīt mīžamos [SARVV-T], nodurt kurmi [SARVV-T]
 Aseksuālis, aseksuālists ---> Nemieslis, nemieslinieks, dzimumnetiecis
-Aseksuāls ---> Nemiesls, nemieslišķs, dzimumnetiecošs / Bez dzimuma | Bezdzimuma
-Aseksualitāte, aseksualisms ---> Nemieslība, nemieslišķība, dzimumnetieksme
-Hómōseksuālis, hómōseksuālists (homoseksuālis, homosesksuālists), gejs ---> Savdzimumtieciks, savdzimumtiecis, savdzimttiecis, pašdzimumtiecis, pašdzimumtieķis, pašdzimumtieciks
+Aseksuāls ---> Nemiesls, nemieslišķs, nemieslīgs, dzimumnetiecošs / Bez dzimuma | Bezdzimuma
+Aseksualitāte, aseksualisms ---> Nemieslība, nemieslišķība, nemieslænība (mieslenība), dzimumnetieksme
+Hómōseksuālis, hómōseksuālists (homoseksuālis, homosesksuālists), gejs ---> Savdzimumtiecis, savdzimumtieciks, savdzimttiecis, pašdzimumtiecis, pašdzimumtieķis, pašdzimumtieciks
 Hómōseksuāls (homoseksuāls), [sarunvalodā] gejisks ---> Savdzimumtiecošs/-a, savdzimttiecošs/-a, pašdzimumtiecošs/-a
-Hómōseksualitāte, hómōseksualisms (homoseksualitāte, homoseksualisms) ---> Savdzimumtieksme / [tikai par vīriešiem] Savdzimumtiecikība, savdzimumtiecība
+Hómōseksualitāte, hómōseksualisms (homoseksualitāte, homoseksualisms) ---> Savdzimumtieksme | [tikai par vīriešiem] Savdzimumtiecība, savdzimumtiecikība
 Hómōrómantiķis (homoromantiķis) ---> Savdzimummīlis, pašdzimummīlis, pašdzimtmīlis
 Hómōrómantisks (homoromantisks) ---> Savdzimummīlisks, pašdzimummīlisks, pašdzimtmīlisks
 Hómōrómantika (homoromantika) ---> Savdzimummīla, pašdzimummīla, pašdzimtmīla
-Hómófōbs (homofobs) ---> Pretsav(dzimum)tiecis, Pretpaš(dzimum)tiecis, paš(dzimum)tieču pretinieks
+Hómófōbs (homofobs) ---> Pretsavtiecinieks, pretsav(dzimum)tiecis, Pretpaš(dzimum)tiecis, paš(dzimum)tieču pretinieks
 Hómófōbisks (homofobisks) ---> Pretsav(dzimum)tiecisks, paš(dzimum)tieču pretiniecisks
-Hómófōbija (homofobija) ---> Pretsav(dzimum)tiecība, paš(dzimum)tieču pretiniecība
-Lesbiete, lezbiete, [sarunvalodā] lezbe ---> Savdzimumtiece, savdzimumtiecene, [sarunvalodai] savdzimumtieča (savdzimumtiecošu sieviešu lietošanai savā starpā)
-Lesbisks, lezbisks ---> Savdzimumtiecisks, savdzimumtiecenisks
-Lesbisms, lezbisms ---> Savdzimumtiecība, savdzimumtiecenība
-Heterōseksuālis (heteroseksuālis) ---> Pretējdzimumtieciks/-ķe, pretējdzimumtieciks/-e, iretējdzimumtiecis/-ene
-Heterōseksuāls (heteroseksuāls) --->
-Heteroseksualitāte, heterōseksualisms (heteroseksualitāte, heteroseksualisms) --->
-
+Hómófōbija (homofobija) ---> Pretsavtieciniecība, pretsav(dzimum)tiecība, paš(dzimum)tieču pretiniecība
+Lesbiete, lezbiete, [sarunvalodā] lezbe ---> Savdzimumtiece, savdzimumtiecene, savdzimuminiece, savdzimtiniece, [sarunvalodai] savdzimumtieča (savdzimumtiecošu sieviešu lietošanai savā starpā)
+Lesbisks, lezbisks ---> Savdzimumtiecenisks, savdzimumtiecisks
+Lesbisms, lezbisms ---> Savdzimumtiecenība, savdzimumtiecība
+Heterōseksuālis, heterōseksuālists (heteroseksuālis, heteroseksuālists) ---> Pretējdzimumtiecis/-e, pretējdzimumtieciks/-ķe, pretējdzimumtieciks/-e, pretējdzimumtiecis/-ene
+Heterōseksuāls (heteroseksuāls) ---> Pretējdzimumtiecošs
+Heterōseksualitāte, heterōseksualisms (heteroseksualitāte, heteroseksualisms) ---> Pretējdzimumtieksme
+Biseksuālis, biseksuālists ---> Abdzimumtiecis/-e, [sarunvalodai] abpisis/-e, [tikai par sievieti] abdzimumtieča
+Biseksuāls ---> Abdzimumtiecošs, [sarunvalodai] abpisīgs
+Biseksualitāte ---> Abdzimumtieksme, [sarunvalodai] abpisība
+The bi-cycle ---> Ab(dzimum)tieča rats, ab(dzimum)tieča grieži, ab(dzimum)tieča svārstes, ab(dzimum)tieča svārstības
+Panseksuālis ---> Visdzimštiecis/-e, visdzimttiecis
+Panseksuāls ---> Visdzimštiecošs, visdzimttiecošs
+Panseksualitāte, panseksualisms ---> Visdzimštieksme, visdzimttieksme
+Andrōgīnija, andrōginija (androgīnija, androginija) ---> Abdzimums / [ārējais izskats] Jauktdzimtība, jauktdzimte, jaukta dzimte
+Interseksualitāte, interseksualisms, hermafródītisms (hermafrodītisms) ---> Starpdzimums / [andrōgīnija] Sk. vārda aizvietojumu / [biseksualitāte] Sk. vārda aizvietojumu
 Seksists --->
 Seksistisks --->
 Seksisms --->
@@ -1617,8 +1625,7 @@ Likt uz spēles ---> Likt uz kārts [PPV-T]
 Spēlfilma, mākslas filma ---> Mākslas skatāmlente (sk. aizvietojumu vārdam „filma”), [sarunvalodai] mākslas lente
 
 Spærma (sperma) ---> (Dzimum)sǣkla (dzimumsēkla)[V-T], (bǣrn)sǣkla (bērnsēkla), [sarunvalodai] pisākļi, pisākli [APVV-T]
-Spærmatózóīds (spermatozoīds), spærmatózójs (spermatozojs), spermijs (2. nozīme) ---> Dzimumǣklis (dzimumsēklis), dzimumsēklis, dzimumsǣkliņš (dzimumsēkliņš), dzimumsǣklenis (dzimumsēklenis), dzimumsēklenis, dzimumsēkliņš, dzimumsǣklietis (dzimumsēklietis)
-Vīrišķdzimumšūna, vīrišķššūna, vīrišķā šūna
+Spærmatózóīds (spermatozoīds), spærmatózójs (spermatozojs), spermijs (2. nozīme) ---> Dzimumǣklis (dzimumsēklis), dzimumsēklis, dzimumsǣkliņš (dzimumsēkliņš), dzimumsǣklenis (dzimumsēklenis), dzimumsēklenis, dzimumsēkliņš, dzimumsǣklietis (dzimumsēklietis), vīrišķdzimumšūna, vīrišķššūna, vīrišķā šūna
 
 Spics ---> Smails / [sarunvalodas nozīme; 'atjautīgs; izmanīgs'] Vǣlāk ko pielikšu / [sarunvalodas nozīme; 'ļoti labs, piesaistošs'] Vǣlāk ko pielikšu
 Spicēt ausis ---> Ausīties [V-T], pacelt/pastatīt ausis (otrais pēc lietuvju parauga), smailināt ausis, smailēt ausis [V-T]
