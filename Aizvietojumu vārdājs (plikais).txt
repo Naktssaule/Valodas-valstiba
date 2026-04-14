@@ -1158,8 +1158,17 @@ Medicīna ---> Kaišzinātne, liginiecība, ligzinātne
 Medicīnisks ---> Kaišzinātnisks, liginiecisks | Kaišziņa (kas, piem. palīdzība) / Dziediniecisks, dziedinošs, dziedējošs
 Medikaments, drapes ---> Dziedēklis, zāles
 
+Mehāniķis ---> Iekārtinieks, iekārtiķis / [fizikā] Mijiedarbinieks, mijiedarbiķis
+Mehānika ---> Iekārtiniecība / Mijiedarbinieks, mijiedarbiķis
+Mehānisks ---> Mijiedarbisks / [pārējām nozīmēm vǣlāk kaut ko pielikšu]
+Mehānisms --->
+Mehānicists --->
+Mehānistisks --->
+Mahānicisms --->
+
 Meistars ---> Dižpratis, izpratis, izpratējs, izcilinieks / [augstākā amatinieku pakāpe] Dižræmæsis (dižremesis; sk. aizvietojumu vārdam „amatinieks“), / [tiešais vadītājs] Tiešvadis, priekšinieks
-Meistarīgs, meistarisks (īpašība) ---> Dižpratīgs, dižprotošs
+Meistarīgs, meistarisks (īpašība) ---> Dižpratīgs, dižpratišķs, dižpratæns (dižpratens), dižprotošs
+
 Meistarīgums, meistariskums ---> Dižpratīgums
 Meistarība ---> Dižpratība
 Meistardarbs, meistarstiķis, šedevrs ---> Diždarbs [APVV-T]
@@ -1455,7 +1464,7 @@ Pulvermuca ---> Milummuca, milasmuca, miltišķmuca
 Pulverizēt ---> Smidzināt
 Pulverizatōrs (pulverizatōrs) ---> Smidzeklis
 
-Punkts ---> Tašķis [APVV-T1][APVV-T2][APVV-T3][APVV-T4][APVV-T5](iedvæsma no lietuvju vārda „taškas” 'punkts' gan tiem mūsu apvidvārdiem. žemaitiski - „poškis”) {sākuma, izejas, atbalsta, kulminācijas, pagrieziena, augstākais, vārīšanās tašķis, lietisku tašķu sistēma (materiālu punktu sistēma)}, zirņuks, zirnulis, galazīme, galeklis, galis, beiglis / [snieguma svēršanas vienība sacensībās g. tml.] Tašķis (šai nozīmei lieto lietuvji), pelnelis, pelnulis, pelnenis, pælnvienība / Vieta | [tieša, tieši noskaidrota] Vietiņa {...kur upes saplūst vienā vietiņā; vietiņa, kur varam nodibināt sakarus ar viņu jūreni}, vietele, kur tieši {noskaidrosim kur tieši sākas Urāli}, vietuks, vietīna / [iekārtota celtne, tælpa, vieta kādam nolūkam] Novietne {pārsiešanas, iesaukšanas, novǣrošanas novietne} / [Cǣlonis, iemesls] Pamats {lūzuma, atspēriena pamats}[V-T] / [Maiņas robeža] (rasas, nulles) Mainoklis / [strāvekliskās ķēdes elementu savienojumu vieta] Mæzgls (mezgls)[V-T]
+Punkts ---> Tašķis [APVV-T1][APVV-T2][APVV-T3][APVV-T4][APVV-T5](iedvæsma no lietuvju vārda „taškas” 'punkts' gan tiem mūsu apvidvārdiem. žemaitiski - „poškis”) {sākuma, izejas, atbalsta, kulminācijas, pagrieziena, augstākais, vārīšanās tašķis, lietisku tašķu sistēma (materiālu punktu sistēma)}, zirņuks, zirnulis, galazīme, galeklis, galis, beiglis / [snieguma svēršanas vienība sacensībās g. tml.] Tašķis (šai nozīmei lieto lietuvji), pelnelis, pelnulis, pelnenis, pælnvienība / Vieta | [tieša, tieši noskaidrota] Vietiņa {...kur upes saplūst vienā vietiņā; vietiņa, kur varam nodibināt sakarus ar viņu jūreni}, vietele, kur tieši {noskaidrosim kur tieši sākas Urāli}, vietuks, vietīna / [iekārtota celtne, tælpa, vieta kādam nolūkam] Novietne {pārsiešanas, iesaukšanas, novǣrošanas novietne} / [cǣlonis, iemesls] Pamats {lūzuma, atspēriena pamats}[V-T] / [Maiņas robeža] (rasas, nulles) Mainoklis / [strāvekliskās ķēdes elementu savienojumu vieta] Mæzgls (mezgls)[V-T]
 Daudzpunkte ---> Daudztašķe
 Punktēt ---> Tašķot
 Punktǣts (punktēts) ---> Tašķots
@@ -1870,6 +1879,9 @@ Tósteris (tosteris), grauzdǣtājs (grauzdētājs) ---> Grauzdeklis
 To trade (Counter-strike termins) ---> Atriebt (kādu), mīt nāves (pēc vārdu savienojuma „mīt grædzænus” parauga)/ Veikt prečmaiņu, prečmaiņot
 A trade ---> Prečmaiņa
 A trade-kill ---> Atriebiens, atriebe, nāvjumija
+
+Tramplīns, batuts ---> Palēklis, lakstīkla (no vārda „lakstīt” 'lǣkāt')
+Tramplīna lēcējs ---> Palēklinieks
 
 Tramvajs ---> Ielvilciens
 
