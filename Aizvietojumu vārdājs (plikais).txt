@@ -97,7 +97,10 @@ Animatōrs (animators) ---> Kustænonis (kustenonis), kustišķonis, kustišķot
 Analfabēts ---> Burtnepratis
 Analfabētisms ----> Burtnepratība, burtneprasme
 
-Angārs ---> Lideklene (vieta, kur novieto lidekļus), lideklava, lidglabātne, lidnojume | [visam, kas nav lideklis] (Lideklenveida) noliktava / [vingrošanai] Vǣlāk kaut ko pielikšu
+Angārs ---> Lideklava (vieta, kur novietu lidekļus), lideklene, lidglabātne, lidnojume | [visam, kas nav lideklis] (Lideklavveida) noliktava / [vingrošanai] Vǣlāk kaut ko pielikšu
+
+Aparāts ---> Veiceklis {kaut kas, kas veic kādu(s) noteiktu(s) uzdævumu(s) arba kaut ko veicina; dzirdes veiceklis}, veiklis / Iekārta
+Aparatūra ---> Veiceklājs, veicekliens, [sarunvalodai] dzelži [SARVV-T]
 
 Aplaudēt ---> Plaukstot, plaukšķināt (kā latgaliski gan lietuviski)
 Aplausi ---> Plaukstošana, plaukšķi, plaukšoņa [APVV-T]
@@ -417,7 +420,10 @@ Digitalizācija ---> Skaitlenišķošana, skaišķænošana (skaišķenošana), 
 Digitālā kamera, ciparkamera ---> Skaitlenišķais skattveris, skaitlenišķais atveideklis, skaišķænais skattveris
 Digitālieraksts, ciparieraksts ---> Skaitlenišķs ieraksts, skaišķæns ieraksts
 
-Displejs ---> atveidradis, attǣlradis (attēlradis)
+Displejs ---> Atveidradis
+
+Dīķis ---> Ūdensklans [APVV-T „klans” 'peļķe, palts; dīķis'][IZC-K], mārks (no vārda „​mērkt​”)[V-T], mārga [APVV-T], mārka [APVV-T]
+Dīķkopis ---> Ūdensklaninieks
 
 Domāt ---> Pierēt, menēt, gudrot | gādāt, rūpēties (par naciónālo drošību) / Uzskatīt | -prāt {manuprāt; viņaprāt; Endzelīnaprāt; Mārasprāt} / Šķist, [sarunvalodā] likties
 Es nedomāju jūs, bet viņu ---> Man prātā bija viņš, ne jūs
@@ -857,16 +863,18 @@ Kartupelis, tupenis ---> Pampālis, pampalis (labi pazīti apvidvārdi), rācīn
 Kapitāls ---> Pelneklis ('tas, ar ko pælna') / [naudas summa] nauda / [vērtība] sk. vārda aizvietojumu
 Kapitālists ---> Pelneklinieks, naudinieks (no LVAK naujvārdu vārdnes, bet ar taisnu izskaņu -inieks)
 Kapitālisms ---> Pelnekliniecība
-Kapitāls (īpašībenis) ---> Galvenais {ǣkas galvænā siena}; būtisks; nozīmīgs / [vērtīgs] sk. vārda aizvietojumu / [tāds, kam nepieciešams daudz naudas arba darba] Liek(ai)s {lielā dzīvokļa labošana}, apmǣrīgs / [tāds, kas saistīts ar galvu] Galvas (kas), galvisks / [sarunvalodas nozīmēm] Svaigs, dižsvaigs, dižæns, dižs | [ļoti liels] milzonīgs
+Kapitāls (īpašībenis) ---> Galvænais {ǣkas galvænā siena}; būtisks; nozīmīgs / [vērtīgs] sk. vārda aizvietojumu / [tāds, kam nepieciešams daudz naudas arba darba] Liek(ai)s {lielā dzīvokļa labošana}, apmǣrīgs / [tāds, kas saistīts ar galvu] Galvas (kas), galvisks / [sarunvalodas nozīmēm] Svaigs, dižsvaigs, dižæns, dižs | [ļoti liels] milzonīgs
 
 Kaplogs (nav saistīts ar mūsvārdu „kaps”) ---> Vēdlodziņš [V-T] /
 Kaplodziņš ---> Vēdlodziņš / [acs] Blisene [V-T], blenzene, ačele [V-T], ačtele
 
-Kapuce ---> (Augšģērba, ģērba) galvdaļa, galvasdala, galvmetnis, galvasmetnis, galvdaļene, apgalvene
-Kapucietis, kapucīnis, kapucīnietis ---> Galvdaļietis, galvasdaļietis
+Kapuce ---> (Augšģērba, ģērba) galvdaļa, galvassedzis, galvsedzis, galvasdala, galvmetnis, galvasmetnis, galvdaļene, apgalvene
+Kapucietis, kapucīnis, kapucīnietis ---> Galvdaļietis, galvsasedzietis, galvasdaļietis
 Kapucīns ---> Vǣlāk kaut ko pielikšu
 
 Kamera ---> Skattveris, atveideklis, atveidtveris / [skatāmrotaļās, angļu vārda nozīmei] Skats
+
+Kanāls ---> Ūdensraka (iedvæsma no lietuvuju vārda „perkasas” 'kanāls, grāvis'), ūdensceļš [V-T 'ūdenstilpe, tās josla, ko lieto pārvadāšanai'](apzīmē gan mākslīgu gan dabīgu) | (Jūras) šaurums [V-T], jūrasšaurums / [pārn. nozīmei; lædū, klintī] Eja | [starp celtnēm] Starpeja / [Doba tælpa] (šautenes, ierīces) Dobums | [miesumā] Vads / [biežuma josla tālrādei, radijai] Raidjosla, raidene / [veidojums miesās infórmācijas pārraidei] Sazineklis, sakareklis | [ierīču, līdzekļu kopums (piem. tālruņa, tālrādes, radijas) sakariem arba spara pārvadei] Vǣlāk kaut ko pielikšu | [tikai par balss saziņas kanālu] Sazināsla, sazine, sazinātne / [lauktranzistōra struktūras daļa, kurā no izteces uz noteci pārvietojas strāvekļnesēji.] Vǣlāk kaut ko pielikšu
 
 Kanna ---> Lejene, ielejene
 Lejkanna, lejamkanna (novc.) ---> Laistene, laisteklis [APVV-T], laistīklis [APVV-T], laistīkla [APVV-T], laistīkle [APVV-T]
@@ -880,7 +888,7 @@ Kasieris ---> Maksātninieks, maksātnes darbinieks, māksātnenis
 
 Kazarma ---> Karinieknes, kariniecenes, kariniekavas, kareivenes (pēc lietuvju vārda („kareivinės”) parauga) / [pagātnišķajai nozīmei] Vǣlāk kaut ko pielikšu
 
-Kepōns (kepons) ---> Naģene (jau æsošs)
+Kepōns (kepons) ---> Naģene [​V-T​]
 
 Drópkiks (dropkiks), a dropkick ---> Krītamspēriens (spēriens, ko veic krītam, ko kāds veic krisdams), krisdamspēriens
 Drópkikot (dropkikot), to dropkick ---> (Ie)spert krisdams/krītam/kritienā
@@ -1060,7 +1068,8 @@ Lādēt ---> Piebāzt (šaujamieroci, aptveri, magazīnu), (pie)pildīt, pielikt
 Lādǣtājs (lādētājs) ---> Sparapildis, (spara) pildeklis {sparabrauka, Sparakrājs pildeklis}, sparapildeklis
 Uzlāde ---> Sparapilde, (spara) uzpilde
 Lādiņš ---> [šāviņā, zemessprāglī, izmæslā] Sprāgstpildiņš, sprāgstpilds | [miluma pildījums patrōnas čaulā] Milumpildiņš, milumpilds / [fizikā] Strāvekļpildiņš, strāvekļpilds, strāvekļsaturs, krāviņš
-Lejupielādēt, lejuplādēt ---> Nokraut (Avots; Aizvietojumu laikam izpierējis Ingmārs Zemzaris?), atsūtināt ('likt atsūtīt')
+Lādiņnesējs ---> Strāvekļnesējs, strāvekļnesis, strāvekļneselis, strāvekļpildenis
+Lejupielādēt, lejuplādēt ---> Nokraut (Avots; Aizvietojumu laikam izpierējis Ingmārs Zemzaris?; šādi saka arī lietuvji), atsūtināt ('likt atsūtīt')
 Lejupielāde, lejuplādē ---> Nokrāve, nokraušana, atsūtināšana / [tikai par darbības iznākumu] Nokrāvums, atsūtinājums
 Augšupielādēt, augšuplādēt ---> Uzkraut (avots tāds pats), uzsūtīt
 Augšupielāde, augšuplāde ---> Uzkrāve, uzkraušana, uzsūte, uzsūtīšana / Uzkrāvums, uzsūtījums
@@ -1484,7 +1493,8 @@ Nopostīt ---> Noārdīt, nonīcināt [APVV-T]
 Sapostīt --> Sagraut, saārdīt, sanīcināt [APVV-T]
 Izpostīt ---> Izārdīt, iznīcināt
 Postījums ---> Ārdījums, nīcinājums
-Postītājs ---> Ārdītājs, nīcinātājs
+Postaža ---> Noārda, izārda, noārdava, izārdava (izskaņa pēc apvv. „postava” 'postaža' parauga), noārdene, izārdene
+Postītājs, postaž(i)nieks ---> Ārdītājs, nīcinātājs
 Posts ---> Zudība, nīcība / Nelaime
 Nelaime un posts ---> Nelaime gan zudība/nīcība
 (Aiz)iet postā ---> (Aiz)iet zudībā/zudumā | [tikai par ļaudieti] (Iz)dzist
@@ -1496,6 +1506,14 @@ Presēt ---> Spaidīt, slogot, slodzināt
 Presǣtava (presētava) --->
 Prese ---> Spiedne [V-T], spiede
 Preses relīze, presrelīze, relīze, izvēsts (LVAK naujvārdu vārdājā) ---> Izziņojums ziņojums spiednei
+
+Prócesōrs (procesors) ---> Apdareklis (sk. aizvietojumu vārdam „apstrādāt”)
+
+Prógrammēt (programmēt) --->
+Prógrammēšana (programmēšana) ---> Lietotniniecība
+Prógrammǣtājs, prógrammists (programmētājs, programmists) ---> Lietotninieks, lietotņudaris
+Prógramma (programma) ---> Lietotne
+Prógrammatūra (programmatūra) ---> Lietotnājs, lietotniens
 
 Prótektōrs (protektors) ---> (Riteņvalka) aizsargdaļa, (Riteņvalka) sardzeklis, riteņvalksargs
 
@@ -1781,6 +1799,17 @@ Pasliktināt ---> Pavājināt (rædzamību)[V-T], pavārdzināt / Paļaunināt (
 Pasliktināties ---> Pavājināties, pavārdzināties / Paļaunināties, pagandēties, pamaitāties
 Nākt par sliktu ---> Kaitēt, nākt par ļaunu [V-T]
 
+Slims ---> Sasirdzis [V-T], sirgs [APVV-T], nevæsæls (nevesels)[V-T], [sarunvalodai] ligots
+Slimīgs  ---> Sirdzīgs [NOVCV-T], sirgans, [sarunvalodai] ligans [APVV-T 'vājš']
+Apslimt ---> Apsirgt [V-T], iesirgt [V-T 'kļūt sirgam']
+Saslimt ---> Sasirgt [V-T], iegūt (sirgumu), [sarunvalodai] saķert
+Saslimis ---> Sasirdzis
+Slimot ---> Sirgt [V-T], sirgot [APVV-T], [nievājoši] sirguļot [V-T], vārguļot [V-T], nīkuļot [V-T]
+Slimība ---> Sirgums [V-T], liga [V-T], kaite [V-T], neveselība [APVV-T], vaina [V-T], nelabums [V-T], sirga
+Slim(i)nieks, slimiķis ---> Sirdzējs [V-T], sasirgušais, sirgais, vājinieks [V-T], nevæsælais (neveselais), neveselis [APVV-T], [sarunvalodai] ligotais, ligatnis [APVV-T], [nievājoši] sirgulis [APVV-T], sirgaļa
+Slimokase, slimo kase ---> Sirgonaudne (sk. aizvietojumu vārdam „kase”), sirdzējnaudne
+Slimnīca ---> Sirgava, sirgne, dziedǣtava (dziedētava; pēc apvv. „​ārstǣtava​” parauga), sirgnams, sirdzējne, sirdzējene, sirdzējava
+
 Smērēt ---> [ko uz kā, piem. ievārījumu uz maizes] Ziest, triept, tept [APVV-T][IZC-K], svaidīt [APVV-T] / [Padarīt netīru] Traipīt, triept, [sarunvalodai] murīt [APVV-T][IZC-K1][IZC-K2]
 Smērēties ---> Ziesties, triepties / Traipīties, triepties
 Smērējums ---> Traips / [nievājoši par darbu, rakstījumu, atveidu g. tml.] Ķǣpājums (ķēpājums), zieža [APVV-T]
@@ -1869,7 +1898,8 @@ Apstrāde ---> Apdarīšana, apdarsme
 Izstrādāt ---> Izdirbt, izdarboties / Izdarīt / Izveidot, izdarināt, iztapināt, iztaisīt
 Izstrāde ---> Izveide, izdarināšana, izdarsme, iztaisīšana, iztaisme, iztaise
 Izstrādājums ---> Izveidojums, izdarinājums, iztapinājums, iztaisījums
-Izstrādātājs ---> Izveidotājs, izdarinātājs, iztapinātājs, iztaisītājs
+Izstrādātājs ---> Izveidotājs {rotaļas izveidotājs}, izdarinātājs, iztapinātājs, iztaisītājs
+Spēļu izstrādātājs ---> Rotaļveidonis, rotaļdaris (pēc vārda „namdaris”, „rotdaris”, „vīndaris”, „aldaris” gan citu parauga)
 Izstrādināt ---> Izdirbināt | Izverdzināt
 Atstrādāt ---> Atdirbt
 Pārstrādāt ---> Pārveidot, pārdarināt, pārtapināt, pārtaisīt
