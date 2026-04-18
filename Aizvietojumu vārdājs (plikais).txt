@@ -1804,11 +1804,11 @@ Slimīgs  ---> Sirdzīgs [NOVCV-T], sirgans, [sarunvalodai] ligans [APVV-T 'vāj
 Apslimt ---> Apsirgt [V-T], iesirgt [V-T 'kļūt sirgam']
 Saslimt ---> Sasirgt [V-T], iegūt (sirgumu), [sarunvalodai] saķert
 Saslimis ---> Sasirdzis
-Slimot ---> Sirgt [V-T], sirgot [APVV-T], [nievājoši] sirguļot [V-T], vārguļot [V-T], nīkuļot [V-T]
+Slimot ---> Sirgt [V-T], vārgt [V-T], sirgot [APVV-T], vaidēt [NOVCN-T], [sarunvalodai] ligāt [NOVCV-T], [nievājoši] sirguļot [V-T], vārguļot [V-T], nīkuļot [V-T], vājuļot [NOVCV-T], sǣrgaļāt (sērgaļāt)[NOVCV-T]
 Slimība ---> Sirgums [V-T], liga [V-T], kaite [V-T], neveselība [APVV-T], vaina [V-T], nelabums [V-T], sirga
 Slim(i)nieks, slimiķis ---> Sirdzējs [V-T], sasirgušais, sirgais, vājinieks [V-T], nevæsælais (neveselais), neveselis [APVV-T], [sarunvalodai] ligotais, ligatnis [APVV-T], [nievājoši] sirgulis [APVV-T], sirgaļa
 Slimokase, slimo kase ---> Sirgonaudne (sk. aizvietojumu vārdam „kase”), sirdzējnaudne
-Slimnīca ---> Sirgava, sirgne, dziedǣtava (dziedētava; pēc apvv. „​ārstǣtava​” parauga), sirgnams, sirdzējne, sirdzējene, sirdzējava
+Slimnīca ---> Sirgava, sirgne, sirgnams, sirdzējne, dziedǣtava (dziedētava; pēc apvv. „​ārstǣtava​” parauga), sirdzējene, sirdzējava
 
 Smērēt ---> [ko uz kā, piem. ievārījumu uz maizes] Ziest, triept, tept [APVV-T][IZC-K], svaidīt [APVV-T] / [Padarīt netīru] Traipīt, triept, [sarunvalodai] murīt [APVV-T][IZC-K1][IZC-K2]
 Smērēties ---> Ziesties, triepties / Traipīties, triepties
