@@ -206,7 +206,10 @@ Baterija ---> Sparaneslis, spǣknesis (spēknesis)[V-T]
 
 Baznīca ---> Dievnams [V-T]
 
-Bārs ---> Dzērienlete, dzirava, dzirlete, dzirdītne, dzirdinātne, [nievājoši] dzærtuve (dzertuve)[V-T]
+Bārs ---> Dzirava, dzirene, dzirlete, dzērienlete, [nievājoši] dzærtuve (dzertuve)[V-T]
+
+Beisbōls (beisbols) ---> Vǣzdbumba (vēzdbumba; sk aizvietojumu vārdam „nūja), vālene, vālenis, vālesbumba, vālbumba
+Beisbōlists (beisbolists) ---> Vǣzdbumbinieks (vēzdbumbinieks), vǣzdbumbis/-e (vēzdbumbis), vāleninieks
 
 Bēbis, bebis ---> Zīdainis, zīdulis [V-T], [sarunvalodai] vīstenis [V-T], pupzīdis [V-T], brǣkulis (brēkulis)[V-T], [nievājoši] pupzīdelis, pupzīža, pupzīdaļa
 
@@ -617,6 +620,10 @@ Fui!, fū!, fu!, fuj! (slāvisks paveids) ---> Tpū!, tpu!, pū! [APVV-T], pǣ! 
 
 Furgōns (furgons) ---> Piegādenis, piegādbrauks (sk. aizvietojumu vārdam „autōmašīna”)
 
+Futbōls (futbols), [sarunvalodā] futenis, futene, fucis, fucene, futis, fūzis, fuķis, fuķiks ---> Spærbumba (sperbumba), spærambumba (sperambumba), kājbumba [V-T], sperenes (pēc vārda „ķerenes” parauga), speratnes
+Futbōlists (futbolists) ---> Spærbumbinieks (sperbumbinieks), spærbumbis/-e (sperbumbis), spærambumbinieks (sperambumbinieks), kājbumbinieks, spereninieks, spereniķis
+Minifutbōls (minifutbols), futzāls ---> Iekšas spærbumba, tælpas spærbumba (telpas sperbumba)
+
 G
 Gaume - Garšizjūta, garša (novecojusi nozīme; šādi saka lietuvji)
 Gaumīgs ---> Garšizjutīgs, labas garšizjūtas (kas, piem. apģǣrbs), garšizjūtīgs | Laba garšizjūta {viņam ir laba garšizjūta}
@@ -717,6 +724,9 @@ Saimes istaba ---> (Saim)ļaužu notælpa (saimļaužu notelpa; sk. aizvietojumu
 
 H
 Halō! (halō!) ---> u-ū! (uzmanības pievēršanai, atgriešanai, lūdzot atbildēt gan tamlīdzīgi)
+
+Handbōls (handbols) ---> Mætbumba (metbumba), rokasbumba [V-T], [sarunvalodai] roķene [SARVV-T](sal ar lietuvju vārdu handbōlam - „rankinis”, jeb atveidojot latviski - „rocenis”)
+Handbōlists (handbolists), rokasbumbists ---> Mætbumbinieks (metbumbinieks), mætbumbis/-e (metbumbis), rokasbumbinieks
 
 Hei! ---> [lai pievērstu uzmanību] Eu! / [sveicināšanai] Væs! (ves!), svei!
 
