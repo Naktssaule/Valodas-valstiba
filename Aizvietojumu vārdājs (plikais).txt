@@ -98,7 +98,7 @@ Alucilvēks ---> Urvu ļaudietis/ļaudenis, urvietis
 Āliņģis ---> Akata (nav norādīts arīdz ira arīdz nav apvidvārds), lāsmenis [V-T1][V-T1[IZC-K1][IZC-K2][IZC-K3][IZC-K4], lasmenis [V-T]
 
 Albums (skaņdarbu) ---> Skaņdarbojums, skaņdarbenis, skaņdarbājs, skaņdarbiens
-Fótōalbums (fotoalbums) ---> Atveidājs, atveidene, atveidenis
+Fótōalbums (fotoalbums) ---> Skattvǣrumājs (skattvērumājs)
 
 Allatīvs ---> Virzienlocījums, virzienis, virzienloka, virzienloce
 
@@ -162,9 +162,11 @@ Astmōģenētisks (astmoģenētisks) ---> Aizdusinošs, ælptrūcinošs (elptrū
 Astmatōls (astmatols) ---> Aizdusmilums, ælpmilums (sk. aizvietojumu vārdam „pulveris”), ælpmila (elpmila)
 Astmōpents (astmopents) ---> Aizduszāles, ælptrūkzāles (elptrūkzāles)
 
-Ateists ---> Dievliedzis (no LVAK naujvārdu vārdāja, laikam Alunāna darināts), dievlieginieks, dievliedzinieks
-Ateistisks ---> Dievliedzisks, dievlieginiecisks
-Ateisms ---> Dievliedzība, dievliedzatne, dievliega, dievliedze
+Astrónauts (astronauts), kósmónauts (kosmonauts) ---> Visuminieks [SARVV-T]
+
+Ateists ---> Bezdievis [V-T], bezdievinieks [V-T], dievliedzis (no LVAK naujvārdu vārdāja, laikam Alunāna darināts)
+Ateistisks ---> Bezdievīgs [V-T], bezdievišķs, dievliedzisks, dievlieginiecisks
+Ateisms ---> Bezdievība [V-T], dievliegsme, dievliedzība, dievliedzatne
 
 Attǣls (attēls) ---> Atveids [V-T]
 Attǣlot (attēlot) ---> Atveidināt, parādīt
@@ -879,6 +881,15 @@ Hónólōģisks (hronoloģisks) ---> Laiksecīgs / Laiciniecisks
 Hrónólōģiskums (hronoloģiskums) ---> Laiksecīgums
 
 I
+Identisks, idents ---> Tāds pats [V-T], tāpatīgs [V-T], vienāds [V-T], tāpatæns (tāpatens), tāpatišķs
+Identiskums, identums ---> Tāpatība [V-T], vienādums [V-T]
+Identitāte, identība (novc.) ---> Tāpatība, vienādums / Pieskaitītība, tādība (iedvæsma no latgaļu vārda „taidojeiba”), pieskaitītatne, piederinātība | [tikai savuprāt] Pašpieskaitītība
+Identificēt ---> Saistīt (ar ko) | Pieskaitīt (ko/kādu kaut kam, piemǣram latvjiem, sievietēm), piederināt / Atpazīt [V-T], noskaidrināt
+Identificēties ---> Saistīt sevi (ar ko, piemǣram kādu vietu, abiem væcākiem arīdz prezidentu) | Pieskaitīties (kam), piederināties / Atpazināties, apliecināties, noskaidrināties
+Identifikācija, identificēšana ---> Saistīšanās / Atpazīšana / Apzīmēšana
+Identificējums ---> Atpazinums
+Identifikatōrs (identifikators), ID ---> Atpazīklis, apzīmējums | (Kā) numurs {lietotājnumurs „Steam”'ā}
+
 Ierēdnis ---> Iestādvedis, virsiestādenis
 Ierēd(i)niecisks ---> Iestādvedisks
 Ierēd(i)niecība ---> Iestādveži, iestādvædājs (iestādvedājs), iestādvedība, virsiestādenība
@@ -954,6 +965,11 @@ Jeda ---> Tīklvirtene, satīklenis, tīklenis, tīklainis / [nakts zvejas rīks
 Driftertīklu jeda ---> Pludiņtīklu virtene/virkne
 
 Jēzus, marija!, jesus christ! ---> Saule, Pǣrkon! (saule, pērkon!)
+
+Joks ---> Smīds, smīdenis, smīdeklis
+Jokot ---> Smīdot, smieties [V-T], smiet [V-T]
+Jokoties ---> Smīdoties, smieties, smiet
+Jocīgs, jokains ---> Smieklīgs, smīdinošs / [dīvains, savāds] Smieklīgs [V-T], pūkains [SARVV-T]
 
 K
 Kalendārs ---> Dienlapis, dienrādis [V-T], dienenis
