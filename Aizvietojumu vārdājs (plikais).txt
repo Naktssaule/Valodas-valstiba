@@ -135,12 +135,15 @@ Antena ---> Uztverklis (uztverklis; vārdu „uztvert” ir šito dærǣtu aizvi
 Aparāts ---> Veiceklis {kaut kas, kas veic kādu(s) noteiktu(s) uzdævumu(s) arīdz kaut ko veicina; dzirdes veiceklis}, veiklis / Iekārta
 Aparatūra ---> Veiceklājs, veicekliens, [sarunvalodai] dzelži [SARVV-T]
 
+Apjoms (darināts no mūsvārda „jemt” 'ņemt', bet tīši, lai līdzinātos krievu vārdam) ---> Apmǣrs (apmērs)[V-T], apkampe (tolaik apsvǣrtais krievu vārda tulkojums)
+
 Aplaudēt ---> Plaukstot, plaukšķināt (kā latgaliski ir lietuviski)
 Aplausi ---> Plaukstošana, plaukšķi, plaukšoņa [APVV-T]
 
 Apmierināt ar pirkstu, to finger ---> Pirkstot [APVV-T]
 
 Aptieka ---> Zālava, zālne, zālene (iedvæsma no lietuvju vārda „vaistinė” 'aptieka'), dziedēklene (pamatā aizvietojums vārdam „medikaments”), zāļne (parasti atvasina nemīkstinātu. sal. ar vārdu „Olaine”, „Priedaine”), zāļene, zāļpārdotne
+
 Aptieciņa ---> Zālaviņa, zālene, zālnīte, zālenīte, dziedēklenīte
 Mājas aptieka ---> Namu zālaviņa, namu zālene, namu zālnīte, namu zālenīte, namu dziedēklenīte
 Aptiekārs ----> Zālavinieks, zālninieks, zāleninieks, dziedēkleniķis, dziedēkleninieks / Zālavas īpašinieks / Zālavvedis
@@ -409,8 +412,18 @@ Bumbvedējs ---> Izmæslene (izmeslene), izmæsllaistuvis (izmesllaistuvis; sk. 
 
 Burtnīca ---> Rakstene {nošu rakstene}
 
-Būvēt --->
-Būvmateriāli ---> Tapināmlieteņi, tapināmlietoklas, tapināmpielieta
+Būvēt ---> Statīt [APVN-T](apvidnozīme; kā lietuviski), celt [V-T](līdzšinējais vārds, ko sāka mainīt pret vācu vārdu, jo mūsējā sakrāvām par daudz nozīmju), sliet [V-T], celstīt, tapināt, [sarunvalodai], taisīt, darināt, darīt / [ierīces, rīkus, iekārtas] Taisīt, darināt, darīt
+Uzbūvēt ---> Uzstatīt, uzcelt, uzsliet, uzcelstīt, [sarunvalodai] uztaisīt / Iztaisīt
+Būvēties ---> Statīties, celstīties, celties
+Uzbūve ---> Salikums | [miesu] Miesveids
+Iebūvēt ---> Ietaisīt
+Pārbūvēt ---> Pārtaisīt
+Pārbūve ---> Pārtaisme
+Būvǣtājs (būvētājs) ---> Statītājs, cēlējs, slējējs, celstītājs
+Būv(i)nieks, celt(i)nieks ---> Statinieks, celinieks, celstinieks, uztaisinieks, uztaisis, slejinieks
+Celt(i)niecība, būv(i)niecība ---> Statiniecība, celiniecība, m
+Būve, celtne ---> Statoklis, statījus / Statīšana, celsme [V-T]
+Būvmateriāli ---> Statlieteņi, celsteņi, celstekļi, cælstlieteņi (celstlieteņi),
 
 C
 Cæna (cena) ---> Kriens [APVV-T][IZC-K], kriena, krienis [APVV-T], maksa, dosla, tirdze [PPV/apvn-T][V-K]
@@ -1224,7 +1237,12 @@ Par ķīlu ---> Aizlikai
 Ķimikālijas, ķimikāti ---> Būkleņdari (vienaskaitā - būkleņdars), būkleniniekļi, būkleniniekali, būkleninieceņi
 
 L
+Lampa ---> Dæguze (deguze; izskaņa -uze pamazina kā vārdā „dzæguze”)[APVV-T „deguzīte” 'lampiņa'], gaismula, gaismuls / [kopā ar pārvāzni ir pārējo] Dæguzis (deguzis), gaismulis, dæguzene (deguzene),
+Galda lampa ---> Galda dæguzis, galddæguzene
+
 Lanólīns (lanolīns) ---> Vilntauki
+
+Latærna (laterna) ---> Gaismene
 
 Launags, launaglaiks ---> Pavakariņas (apvv.; sal. arī ar apvv. „pabrokastis”), pusvakariņas, pusvakars [APVV-T]
 
@@ -1308,9 +1326,15 @@ Lókatīvs (lokatīvs), vietulis (Mīlenbaha), ierādāmais (locījums; Jur(j)a 
 
 Luksófōrs (luksofors) ---> Mainugunis, [jau æsošs sarunvalodas vārds] trejugunis
 
+Lukturis ---> Rokasstarmetis / [tāds, kas kaut kamā ira ietaisīts] Iekšstarmetis / Svečturis | [svečturveida gaismkars] Svečkars
+Kabatas lukturis, kabatas latærna ---> Kabatstarmetis
+Lukturacs ---> Spīdacele
+
 Lupa, palielināmais stikls ---> Lielināmais (stikls), lieleklis
 
 Lustīgs (novæcojis, bet vēl dzirdams) ---> Līksms, līksmīgs
+
+Lustra ---> Gaismkars
 
 Lūrēt ---> Blenzt, žūrēt (apvv., sal. ar lietuvju vārdu. [1][2][3]), [nievājošāk] blenzelēt
 
@@ -1444,13 +1468,11 @@ Militārpærsōna (militārpersona) ---> Karinieks/-e | [ja nebināran] kariniek
 Militarizēt, militārizēt ---> Karinieciskot
 Militarizēties, militārizēties ---> Karinieciskoties
 Militarizācija, Militārizācija ---> Karinieciskošana | karinieciskošanās
-Militārists --->
-Militāristisks --->
-Militārisms --->
+Militārists ---> Vǣlāk kaut ko pielikšu
+Militāristisks ---> Vǣlāk kaut ko pielikšu
+Militārisms ---> Vǣlāk kaut ko pielikšu
 Militārrūp(i)niecisks ---> Kararūpiniecisks
 Militārpsihólōģija (militārpsiholoģija) ---> Kariniekpsihólōģija (kariniekpsiholoģija), Karapsihólōģija (karapsiholoģija)
-
-A mind flayer, a mindflayer, an illithid ---> Prātlaupis, [sarunvalodai] smadzeņēdis | [neitrāls vārds, kas atbilstu vārdam „illithid”] Prātvaldis
 
 Miskaste ---> Izmestne, atkritne (kā logu tulkojumā), [sarunvalodai] drazene / [sarunvalodas nozīmei] Izgāztuve
 
@@ -1463,7 +1485,7 @@ Mīnmetējnieks ---> Sprāgļmeslinieks
 Mīnēt ---> Zemessprāgļot
 Atmīnēt ---> Atsprāgļot
 
-Módelis (modelis), pōzǣtājs (pozētājs) ---> Raudzeknis [APVV-T1][APVV-T2], parauginieks | [nedzīvs] Raudzeklis [APVV-T] / [samazināts, tiekslišķs kādas lietas  atveidojums] Raudzeklītis, raudzeklelis, raudzeklutis, raudzekluzis, raudzeklīns, raudzekļkuks / Paraugs {sparabrauka paraugs}, paveids / [Darbības veids] Vǣlāk kaut ko pielikšu
+Módelis (modelis), pōzǣtājs (pozētājs) ---> Raudzeknis [APVV-T1][APVV-T2], parauginieks | [nedzīvs] Raudzeklis [APVV-T] / [samazināts, tiekslišķs kādas lietas atveidojums] Raudzeklītis, raudzeklelis, raudzeklutis, raudzekluzis, raudzeklīns, raudzekļkuks / Paraugs {sparabrauka paraugs}, paveids / [Darbības veids] Vǣlāk kaut ko pielikšu
 Módelēt (modelēt) --->
 Módelēšana (modelēšana) --->
 Módelējums (modelējums) --->
@@ -1680,6 +1702,8 @@ Pærsōnificēt (personificēt) ---> Īpatniskot, sevišķinieciskot / [iemiesot
 Pærsōnifikācija (personifikācija) ---> Īpatniskošana, sevišķinieciskošana
 Pærsōnificējums (personificējums) ---> Īpatniskojums, sevišķinieciskojums
 Transpærsōna (transpersona) ---> Sk. vārda aizvietojumu
+Pærsónāls (personāls) ---> Darbinieki, darbaspǣks (darbaspēks), darbiniekājs, darbiniecība
+Pærsónāldaļa (personāldaļa) ---> Darbiniekdaļa
 
 Pica ---> Plakansieris (daudzuskaitam: plakansierji, kā vārdā cirvji, gulbji, latvji, šķīvji), plātsieris [PPV-T1][PPV-T2][PPV-T3][APVV-T], plātssieris, apaļsieris, apaļsierene, siermīklis
 Picērija ---> Plakansierava, plātsierava, plātsierene, plātssierava, plakansierjene (parasti j burta nebūtu, bet atstāju, lai skaidrāk par ko iet runa)
@@ -1715,7 +1739,7 @@ Nopostīt ---> Noārdīt, nonīcināt [APVV-T]
 Sapostīt --> Sagraut, saārdīt, sanīcināt [APVV-T]
 Izpostīt ---> Izārdīt, iznīcināt
 Postījums ---> Ārdījums, nīcinājums
-Postaža ---> Noārda, izārda, noārdava, izārdava (izskaņa pēc apvv. „postava” 'postaža' parauga), noārdene, izārdene
+Postaža ---> Noārds, izārds, noārdava, izārdava (izskaņa pēc apvv. „postava” 'postaža' parauga), noārdene, izārdene
 Postītājs, postaž(i)nieks ---> Ārdītājs, nīcinātājs
 Posts ---> Zudība, nīcība / Nelaime
 Nelaime un posts ---> Nelaime ir zudība/nīcība
@@ -2189,10 +2213,10 @@ Sašņorēt ---> Sasiet (auklas), [sarunvalodai] saauklot
 Špricēt ---> Šļircināt ('likt šļirkt')[V-T]
 
 T
-Tabula ---> Lauciņājs, lauciņiens, lauciņotne, lauciņojums, lauciņene, lauciņenis, lauciņainis
-Tabulārs ---> Lauciņāja (kas)
-Tabulatūra ---> Skaņulapa, skandlapa, skaņsvītreles, skaņsvītrelājs, skaņsvītreliens, skaņsvītrelojums
-Tablō (tablo) ---> Vǣlāk kaut ko pielikšu
+Tabula ---> Lauciņojums, lauciņājs, lauciņiens
+Tabulārs ---> Lauciņojuma (kas)
+Tabulatūra ---> Skaņrindas,
+Tablō (tablo) ---> Ziņoklis
 
 Taimeris ---> Laikskaitis, noskaiteklis
 
