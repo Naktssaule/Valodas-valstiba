@@ -130,6 +130,9 @@ Angārs ---> Lideklava (vieta, kur novietu lidekļus), lideklene, lidglabātne, 
 
 Annāles ---> [sk. aizvietojumu vārdam „hrōnika”] / [ikgadējs izdævums] Gadaraksts, ikgadenis
 
+Anónīms (anonīms) ---> Bezvārda (kas)[V-T], bezvārdisks, bezradoņa (sk. aizvietojumu vārdam „autōrs”)
+Anónimitāte ---> Bezvārdība [APVV-T]
+
 Antena ---> Uztverklis (uztverklis; vārdu „uztvert” ir šito dærǣtu aizvietot) / [miesdaļa] Galvastausts
 
 Aparāts ---> Veiceklis {kaut kas, kas veic kādu(s) noteiktu(s) uzdævumu(s) arīdz kaut ko veicina; dzirdes veiceklis}, veiklis / Iekārta
@@ -219,8 +222,6 @@ Kaujas āmurs ---> Belzeklis, belzlis, kaujasbelznis, belznis, kaujas kaleklis, 
 Ātrijs ---> Virsgaismene, virsgaismava / [anatōmijā] Priekštælpa (priekštelpa)
 
 B
-To bait (Counter-strike termins) ---> Ǣsmināt (ēsmināt; 'padarīt par ēsmu'), izkārt, izklikt
-
 Bagāts ---> Turtīgs (sk. aizvietojumu vārdam „manta”), naudīgs [V-T], naudæns (naudens)[APVV-T], [sarunvalodai] biezs [V-T] / Kupls [V-T], saturīgs [V-T]
 Nopælniem bagāts ---> Nopælnains (nopelnains), sapelnījies
 Bagātums ---> Turtīgums, naudīgums, naudænums (naudenums), [sarunvalodai] biezums / Kuplums, saturīgums
@@ -414,18 +415,21 @@ Bumbvedējs ---> Izmæslene (izmeslene), izmæsllaistuvis (izmesllaistuvis; sk. 
 
 Burtnīca ---> Rakstene {nošu rakstene}
 
-Būvēt ---> Statīt [APVN-T](apvidnozīme; kā lietuviski), celt [V-T](līdzšinējais vārds, ko sāka mainīt pret vācu vārdu, jo mūsējā sakrāvām par daudz nozīmju), sliet [V-T], celstīt, tapināt, [sarunvalodai], taisīt, darināt, darīt / [ierīces, rīkus, iekārtas] Taisīt, darināt, darīt
-Uzbūvēt ---> Uzstatīt, uzcelt, uzsliet, uzcelstīt, [sarunvalodai] uztaisīt / Iztaisīt
-Būvēties ---> Statīties, celstīties, celties
+Būvēt ---> Sliet [V-T], celt [V-T](līdzšinējais vārds, ko sāka mainīt pret vācu vārdu, jo mūsējā sakrāvām par daudz nozīmju), statīt [APVN-T](apvidnozīme; kā lietuviski), celstīt, tapināt, [sarunvalodai], taisīt, darināt, darīt / [ierīces, rīkus, iekārtas] Taisīt, darināt, darīt
+Uzbūvēt ---> Uzsliet [V-T] uzcelt [V-T], uzstatīt, uzcelstīt, [sarunvalodai] uztaisīt / Iztaisīt
+Būvēties ---> Slieties, celties, statīties, [sarunvalodai] taisīties
 Uzbūve ---> Salikums | [miesu] Miesveids
 Iebūvēt ---> Ietaisīt
-Pārbūvēt ---> Pārtaisīt
-Pārbūve ---> Pārtaisme
-Būvǣtājs (būvētājs) ---> Statītājs, cēlējs, slējējs, celstītājs
-Būv(i)nieks, celt(i)nieks ---> Statinieks, celinieks, celstinieks, uztaisinieks, uztaisis, slejinieks
-Celt(i)niecība, būv(i)niecība ---> Statiniecība, celiniecība, m
-Būve, celtne ---> Statoklis, statījus / Statīšana, celsme [V-T]
-Būvmateriāli ---> Statlieteņi, celsteņi, celstekļi, cælstlieteņi (celstlieteņi),
+Izbūvēt ---> Izsliet, izstatīt, [sarunvalodai] iztaisīt | [dažos gadījumos arī] Iekārtot [V-T], ierīkot [V-T]
+Pārbūvēt ---> Pārsliet, pārcelstīt, [sarunvalodai] pārtaisīt
+Pārbūve ---> Pārsliesme, pārstate, [sarunvalodai] pārtaisme
+Būvǣtājs (būvētājs) ---> Slējējs, cēlējs, statītājs, celstītājs
+Būv(i)nieks, celtnieks ---> Slejinieks, celinieks, statinieks, celstinieks, uztaisinieks, uztaisis
+Būv(i)niecība, celtniecība ---> Slejiniecība, celiniecība, statiniecība
+Būvǣtava (būvētava) ---> Slietuve, taisītava, taisītne, cæltuve (celtuve), statītava
+Būve ---> Slejene, celtne, slejoklis, slietne, statoklis / Sliesme, celsme [V-T]
+Būvdarbi ---> Slejeņdarbi, celtnesdarbi, slejokļdarbi, slietnesdarbi
+Būvmateriāli ---> Slejlieteņi, ceļamlieteņi, ceļlieteņi, slejekļi, statlieteņi, celsteņi, celstekļi, cælstlieteņi (celstlieteņi),
 
 C
 Cæna (cena) ---> Kriens [APVV-T][IZC-K], kriena, krienis [APVV-T], maksa, dosla, tirdze [PPV/apvn-T][V-K]
@@ -600,20 +604,29 @@ Ekrānuzņēmums, ekrānšāviņš ---> Atveidnestvǣrums (atveidnestvērums), a
 Veikt ekrānuzņēmumu ---> (No)tvert atveidni
 Skārienekrāns ---> Skārienatveidne, skārienrādne, skārienuzrādne
 
+Ekstrēms, ekstremāls ---> Galējs
+Ekstrēms (lietv.) ---> Galējība [V-T]
+Ekstremāle ---> Vǣlāk kaut ko pielikšu
+Ekstrēmists ---> Galējinieks
+Ekstrēmistisks ---> Galējiniecisks
+Ekstrēmisms ---> Galējiniecība
+Ekstremitātes ---> Vǣlāk kaut ko pielikšu
+Ekstremófils (ekstremofils) ---> Galējgaisinieks
+
 Elektrība ---> Strāveklis
-Elektrisks ---> Strāveklisks / strāvekli radošs
-Elektrō- (elektro-) ---> Strāveklisk(ai)s {strāvekliskā atmatošana} / strāvekļa (kas, piem. tīkls), strāvekļ-(tīkls)
+Elektrisks ---> Strāveklisks / [strāvekli radošs] Strāveklišķs
+Elektrō- (elektro-) ---> Strāveklisk(ai)s {strāvekliskā atmatošana} / Strāvekļa (kas, piem. tīkls), strāvekļ-(tīkls)
 Elektriķis, elektrōtehniķis (elektrotehniķis) ---> Strāveklinieks
 Elektrificēt ---> Piestrāvināt, piestrāvekļot, strāvekļot
 Elektrifikācija ---> Piestrāvināšana; piestrāvekļot; strāvekļošana
 Elektrizēt ---> Iestrāvekļot, piestrāvekļot, iestrāveklināt
 Elektrizēties ---> Iestrāvekļoties, piestrāvekļoties, strāveklināties, (ie)gūt strāvekļsaturu
-Elektrizācija ---> Iestrāvekļošana, piestrāvekļošana / [aerōnautikā] apstrāvekļošanās
-Elektrōds (elektrods) --->
+Elektrizācija ---> Iestrāvekļošana, piestrāvekļošana / [aerōnautikā] Apstrāvekļošanās
+Elektrōds (elektrods) ---> Vǣlāk kaut ko pielikšu
 Elektrōšóka pistole (elektrošoka pistole) ---> Strāvekļšautuks (sk. aizvietojumu vārdam „pistole”), [sarunvalodai] strāveklene
 
 Elle ---> Ciestuve, ciestne, pazeme, vælnava (velnava)
-Ellīgs, ellišķīgs, ellišķs ---> Ciestuvīgs, ciestnīgs
+Ellīgs, ellišķīgs, ellišķs ---> Ciestuvišķs, ciestnišķs
 
 Emōcijas (emocijas) ---> Izjūtas [V-T]
 Emóciónāls (emocionāls) ---> [saistīts ar izjūtām] Izjūtisks {izjūtiskais saprāts, prātaspējas}, izjūtu (kas) / [īpašība] Izjūtīgs
@@ -654,10 +667,13 @@ Eskadriļa --->
 Eskadrōns (eskadrons) --->
 
 Eskalēt ---> Saasināt [V-T]
-Eskalācija ---> Saasināšana | [pabeigta] saasinājums
+Eskalācija ---> Saasināšana | [pabeigta] Saasinājums
 Eskalatōrs (eskalators) ---> Kustkāpnes, slīdkāpnes (apzīmējums „slīdošās kāpnes” jau pastāv)
 
 Ē
+Ētika ---> Tikumība / Tikuminiecība, tikumzinātne, tikummācība, raksturmācība (no grāmatas „Retōrika - runas māksla” tulkojuma)
+Ētisks ---> Tikumīgs / Tikumisks, tikumības (kas)
+
 F
 Faktōrs (faktors) ---> Ietekmenis, ietekmēklis, iedarbenis, iedarboklis (iedvæsma no lietuvju vārda („veiksnys” : „veikti”) parauga, ietekmeklis, skareklis | Iedarbe {ļaudiskā iedarbe}[V-T] / [reizinātājs] Sk. vārda aizvietojumu
 
@@ -970,6 +986,12 @@ Joks ---> Smīds, smīdenis, smīdeklis
 Jokot ---> Smīdot, smieties [V-T], smiet [V-T]
 Jokoties ---> Smīdoties, smieties, smiet
 Jocīgs, jokains ---> Smieklīgs, smīdinošs / [dīvains, savāds] Smieklīgs [V-T], pūkains [SARVV-T]
+
+Jurists ---> Tiesībinieks [V-T], tiesībzinātninieks [V-T „tiesībzinātnieks”], tiesībzinātniķis, likuminieks [NOVCV-T]
+Jurisprudence ---> Tiesībzinātne [V-T], tiesībiniecība
+Juridisks ---> Tiesisks [V-T]
+Juridizācija ---> Tiesiskošana
+Jurisdikcija ---> Tiesasvara
 
 K
 Kalendārs ---> Dienlapis, dienrādis [V-T], dienenis
@@ -2497,8 +2519,8 @@ Zupa ---> Vírums, vira (abi jau æsoši [1][2][3]), strǣba (apvv.; strēba), [
 Žǣl (žēl) ---> (Man) iesāpas, sirds iesāpas, (man) dzeļas {man par tevi dzeļas}[V-T1][V-T2], dzǣla (dzēla)[IZC-K] / Skumji
 Nav žǣl ---> Neiesāpas {man, viņam neiesāpas}, nedzeļas, nav dzǣlas
 Žǣlums (žēlums) ---> Iesāpsme, iesāpēšanās, dzǣlums (dzēlums) | Iesāpēties {uznāca žēlums ---> iesāpējās}
-Žēlīgs ---> Iesāpsmīgs, dzǣlīgs (dzēlīgs)
-Žēlīgums ---> Iesāpsmīgums
+Žēlīgs ---> Iesāpsmæns, saudzīgs, dzǣlīgs (dzēlīgs)
+Žēlīgums ---> Iesāpsmænums, saudzīgums
 Žǣlastība (žēlastība) ---> Iesāpsmība, iesāpsme, dzǣlastība (dzēlastība)[APVV-T]
 Žǣlsirdīgs (žēlsirdīgs) ---> Mīļsirdīgs [APVV-T][V-LTG]
 Žǣlsirdīgums (žēlsirdīgums) ---> Mīļsirdīgums
@@ -2509,7 +2531,7 @@ Nav žǣl ---> Neiesāpas {man, viņam neiesāpas}, nedzeļas, nav dzǣlas
 Žǣls (žēls) ---> Gaužs [V-T], gauds (novæcojis [V-T])
 Žǣlabas, žǣlas (žēlabas, žēlas) ---> Gaudulības, gaudulība
 Žǣlabains (žēlabains) ---> Gaudulīgs [V-T], gaudīgs [V-T], raudulīgs [V-T],
-Apžǣlot (apžēlot) ---> Pasaudzēt, atlaist sodu, piedot, apdzǣloties (apdzēloties)
+Apžǣlot (apžēlot) ---> Pasaudzēt, piedot, apdzǣloties (apdzēloties)
 Apžǣlošana (apžēlošana), žēlība ---> Pasaudzēšana
 Nožǣlot (nožēlot) ---> Atsāpēt [APVV-T], nodzǣlot (nodzēlot)
 Nožǣla (nožēla) ---> Atsāpsme, atsāpes [V-T],
