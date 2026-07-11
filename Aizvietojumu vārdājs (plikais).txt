@@ -901,6 +901,11 @@ Hónólōģisks (hronoloģisks) ---> Laiksecīgs / Laiciniecisks
 Hrónólōģiskums (hronoloģiskums) ---> Laiksecīgums
 
 I
+Ideja ---> Iedāša (vārdiem laikam tāda pati izcelsme kā piemǣram vārdam „dāsns”), iedaža [APVV-T], iedaša [NOVCV-T], iedāša [APVV-T], iedāža [PPV-T „iedāžāt”]
+Idejisks ---> Iedāšisks
+Idejiskums ---> Iedāšiskums
+Idejisms ---> Iedāškvēlība, iedāšiniecība
+
 Identisks, idents ---> Tāds pats [V-T], tāpatīgs [V-T], vienāds [V-T], tāpatæns (tāpatens), tāpatišķs
 Identiskums, identums ---> Tāpatība [V-T], vienādums [V-T]
 Identitāte, identība (novc.) ---> Tāpatība, vienādums / Pieskaitītība, tādība (iedvæsma no latgaļu vārda „taidojeiba”), pieskaitītatne, piederinātība | [tikai savuprāt] Pašpieskaitītība
@@ -1644,6 +1649,8 @@ Ogļhidrāti ---> Ogļūdeņi (tāpat kā lietuviski („angliavandeniai”))[NO
 Ókeāns (okeāns) ---> Ūdenājs ('ūdeņu kopums'; pēc lietuvju parauga), dižjūra [APVV-T], lieljūra [V-T]
 Ókeānisks (okeānisks) ---> Ūdenājisks
 Ókeanónīms (okeanonīms) ---> Ūdenājvārds
+Ókeanolōgs (okeanologs) --->
+Ókeanogrāfs (okeanogrāfs) --->
 
 Ókupēt (okupēt) ---> Sagrābt (zemi, valsti; jau æsoša nozīme), iegrābt (zemi, valsti; grābjot ievirzīt, iekļaut savā valdījumā)
 Ókupants (okupants) ---> Zemesgrābis, [nievājošāk] zemesgrābša, zemesgrābaļa
