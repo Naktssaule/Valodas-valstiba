@@ -109,8 +109,10 @@ Amat(i)nieks ---> Ræmæsis (remesis), ræmæsinieks (remesinieks)
 Amat(i)niecisks ---> Ræmæsisks (remesisks)
 Amat(i)niecība ---> Ræmæsība (remesība), ræmæsiniecība (remesiniecība)
 Amat(i)nieku skola ---> Ræmæšu mācītne, ræmæsinieku mācītne
-Amatu skola ---> Ræmæstu mācītne
+Amatu skola ---> Ræmæstmācītne
 Amata meistars ---> Aroda dižpratis, amata izpratējs
+
+Amulets, talismans ---> Laimeklis, laimlieta, sarglieta
 
 Analfabēts ---> Burtnepratis
 Analfabētisms ----> Burtnepratība, burtneprasme
@@ -960,6 +962,11 @@ Investōrs (investors), ieguldītājs ---> Ieguldinieks, ieguldnis
 
 Internets ---> Starptīkls
 
+Istaba, kambaris (novc.) ---> Notælpa (notelpa; 'atdalīta tælpa'. sk. priedēkļa nozīmes), iedalene, iedale
+Vienistabas (kas) ---> Viennotælpas (kas), vientælpas (kas)
+Jumtistaba ---> Jumttælpa, jumtnotælpa
+Istabene ---> Notælpene, tælpkope (telpkope),
+
 Izdoties ---> Izsekties (ar priedēkli „iz-”, lai nejauktos ar vārdu „pasegties”), izveikties, sekmēties, pasekties (apvv.), paveikties, pavīkties (apvv. [V-T1][V-T2]; šādi saka lietuvji)
 
 Izólēt (izolēt) ---> Nošķirt [V-T], atraut (no kā)[V-T]
@@ -1343,9 +1350,13 @@ Limitēt ---> Ierobežot
 Limitācija ---> Ierobežojums, ierobežs, ierobeža
 Limits ---> Robeža [V-T]
 
+Līderis ---> Vadonis [V-T], barvedis / Priekšgalinieks [APVV-T], vadošais [V-T]{vadošais ražošanas uzņǣmums, vadošais pretstāvinieks, pretstāves vadošais} | Vadībā {pārliecinošā vadībā}, priekšgalā
+Līderīgs ---> Vadonīgs, vadonišķs
+Līderība ---> Vadonība
+
 Līķis ---> Mironis [V-T], [īsāk dzejai] miron's, [sarunvalodai] stīvais [V-T],
 
-Līme ---> Lipeklis (jau æsoša nozīme)
+Līme ---> Lipeklis [V-T]
 Līmēt ----> Lipināt kopā
 Līmēties ---> Lipt kopā
 Salīmēt ---> Salipināt
@@ -1416,6 +1427,8 @@ Troņmant(i)nieks ---> Dižsǣstpārguvinieks (dižsēstpārguvinieks) godsǣstp
 Izmantot ---> Lietot | Pielietot (ļaudieti, spǣku, izdevību g. tml.) / [Pilnībā, tā ka vairs nav] Izlietot
 Izmantošana ---> Lietošana | (ļaužu, darbaspǣka, pieredzes) Pielietošana
 Izmantotājs ---> Pielietotājs
+
+Mape ---> Apvācis (pēc latgaļu parauga), apvācene, apliecene
 
 Mariónete (marionete) ---> Vadāmlelle | Aukliņlelle
 
@@ -1642,9 +1655,9 @@ O
 Ogļhidrāti ---> Ogļūdeņi (tāpat kā lietuviski („angliavandeniai”))[NOVCV-T]
 
 Ó
-Ófiss (ofiss) ---> Sadirbtuve (vieta, kur sadirbj, jeb dirbj kopā), sadirbtne
-Óficiāls (oficiāls) --->
-Óficiālums (oficiālums) --->
+Ófiss (ofiss) ---> Valde, vadītuve, vadītne, vadiniekājs / Iestāde | Nodaļa / Sadirbtuve (vieta, kur sadirbjas, jeb dirbj kopā), sadirbene, sadirbtne, darbveiktne | Darbatælpa (darbatelpa)
+Óficiāls (oficiāls) ---> Valdisks, iestādisks
+Óficiālums (oficiālums) ---> Valdiskums, iestādiskums
 
 Ókeāns (okeāns) ---> Ūdenājs ('ūdeņu kopums'; pēc lietuvju parauga), dižjūra [APVV-T], lieljūra [V-T]
 Ókeānisks (okeānisks) ---> Ūdenājisks
@@ -2277,6 +2290,8 @@ Tablō (tablo) ---> Ziņoklis
 
 Taimeris ---> Laikskaitis, noskaiteklis
 
+Talismans ---> Sk. aizvietojumu vārdam „amulets”
+
 Tastatūra, (skaitļokļa) klaviatūra ---> Taustiņājs, taustiņeklis, taustiņiens
 
 Tāfele ---> Rakstplāksne, (lietuvji dēvē par rakstāmo koklenti, jeb dēli), rakstāmplāksne
@@ -2415,6 +2430,10 @@ Vāze ---> Ziedulene (sk. aizvietojumu vārdam „puķe”), ziedultrauks, zieda
 Veikals ---> Pārdotne, pārdotava
 Lielveikals ---> Lielpārdotne, dižpārdotne
 
+Veģetārietis ---> Bezgaļinieks, bezgaļis
+Veģetārs ---> Bezgaļiniecisks, bezgaļisks, bez gaļas
+Veģetārisms ---> Bezgaļiniecība, bezgaļība
+
 Ventilēt --> Vēdināt [V-T]
 Ventilēties ---> Vēdināties
 Ventilācija ---> Vēdināšana, vēde [V-T] | vēdināšanās
@@ -2481,7 +2500,7 @@ Vraps ---> Tītenis (arī „maizes tītenis”)[V-C][V-T]
 
 Vulkāns ---> Ugunskalns [APVV-T], [sarunvalodai] ugunsvēmis [V-T], ugunsspļautne, ugunsvemtne, ugunsspļāvis, ugunsvemslis
 Vulkānisks ---> Ugunskalnisks | Ugunskalna (kas)
-Vulkānisms --->
+Vulkānisms ---> Vǣlāk kaut ko pielikšu
 Vulkanógēns (vulkanogēns) ---> Ugunskalnisks, ugunskalna izcelsmes
 Vulkanólōgs (vulkanologs) ---> Ugunskalninieks
 Vulkanólōģisks (vulkanoloģisks) ---> Ugunskalniniecisks
