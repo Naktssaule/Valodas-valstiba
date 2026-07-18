@@ -391,10 +391,7 @@ Bókseris (bokseris) ---> Cimdcīnis
 Bóksoties (boksoties) ---> Cimdoties
 Bóksa bikses (boksa bikses) ---> Cimdcīnenes
 
-A boss (skatāmrotaļās) ---> Galvænais (pretinieks), vadošais (pretinieks), virspretinieks, virsinieks, dižpretinieks
-A girlboss ---> Nosakone (tāda, kas nosaka kas ir kādi kaut kas notiks), noteicēja, noteice, noteiča, noteiciniece, vadone, vadošā, valdava
-To girlboss ---> Nosakonēt, nosakonot, noteičot, būt nosakonei, valdavot, noteiciniečot
-Like a boss ---> Kā nosakonis, nosakonišķi, noteiciniecišķi, kā noteicinieks, valdonišķi, kā valdonis, [sarunvalodai] kā pisējs, pisējišķi
+Bómba (bomba) ---> [ierīce] sk. aizvietojumu vārdam „bumba” / [sarunvalodas nozīmēm] Kodolene
 
 Bremze ---> Lēneklis (tēzaurā rakstīts, ka novæcojis)
 Bremzēt ---> Lēnināt, lēnekļot
@@ -590,6 +587,8 @@ Dreskōds, apģǣrba kōds (dreskods, apģērba kods) ---> Izskatnoteikumi, izsk
 
 Driftēt, driftot ---> Sklendināt ('likt sklenst')[APVV-T1][APVV-T2][IZC-K], sānslīdināt (atvasināts no vārda „sānslīde”; 'likt slīdēt sānis'), sklenst
 Drifts ---> Sklendināšana, (tīša) sānslīde, sklenšana | [pabeigta darbība] sklendinājums, sklendiens
+
+Duets, duō (duo) ---> Divveika, divveikums | Divskande | Divskanējums | [tikai par deju arī] Divdeja [V-T] / Divskandinieki, divskanži, divveicinieki
 
 Duša ---> Strūktuve, strūktne, šļāktuve, šļācene / [ūdensdziediniecības prócedūra] Strūcināšana
 
@@ -1232,6 +1231,10 @@ Kroka ---> Grumbulis [V-T] / [rieva, jeb krunka] Grumba [V-T]
 Krokains ---> Grumbuļains, červeļains [V-T]
 Smadzeņu krokas ---> Smadzeņu grumbuļi, smadzeņgrumbuļi, (smadzeņu) grumbstarpe
 Kroku kalni ---> Grumbuļkalni
+
+Kropls, kroplīgs ---> Sagreizis, sagreizināts, sašķībis, [sarunvalodai] sapists
+Kroplums ---> Sagreizums, gaudænums (gaudenums), sašķībums, [sarunvalodai] sapistums
+Kroplība ---> Sagreizība, gaudænība (gaudenība)[V-T], sagreizinātība, [sarunvalodai] sapistība
 
 Krunka ---> Grumba [V-T]
 Krunkains --->  Grumbains
@@ -2314,10 +2317,10 @@ Teltsvieta ---> Apklātenvieta
 Temperatūra ---> Siltme, siltums, siltība / [paaugstināta siltme] Pārsiltme
 Termōmetrs, termómetrs (termometrs) ---> Siltmesrādis
 
-Teniss ---> Bumbiņsite
-Tenisists ---> Bumbiņsitonis, bumbiņsitinieks
-Teniskrækls (teniskrekls) ---> Bumbiņsites krækls
-Tenisa kurpes ---> Bumbiņsitenes
+Teniss ---> Bumbiņsislene
+Tenisists ---> Bumbiņsislinieks,
+Teniskrækls (teniskrekls) ---> Bumbiņsislenes krækls
+Tenisa kurpes ---> Bumbiņsislenes kurpes
 Tenisa rakete ---> Bumbiņsislis, bumbiņsiteklis
 
 Termōģenēze (termoģenēze) ---> (Miesu) siltumrade
@@ -2373,11 +2376,18 @@ Trāpīgs ---> Skarošs, tiekslæns (tiekslens; pēc lietuvju tuvvārda parauga,
 Trāpīgums, trāpība ---> Skarošums, tiekslænums
 Trāpījums ---> Skārums | Ticiens
 
+Trenēt ---> Vingrināt [V-T]
+Trenēties ---> Vingrināties [V-T]
+Treneris ---> Spējraisis, vingrinātājs, vingrinātnis, vingrinātavis
+Trenažieris ---> Vingreklis
+Treniņtælpa ---> Vingrināmtælpa, vingrinātne, vingrinātava
+Treniņzāle ---> Vingrināmzāle, vingrinātne, vingrinātava
+
 Trepes, pieslienamās kāpnes ---> Kāpeklis, kāpnenis, kāptuves, rāpnes
 
-Tronis ---> Dižsǣsts (dižsēsts; ar apvv. „sǣsts” 'sēdeklis', pēc lietuvju vārda „sostas” 'tronis' parauga), godasǣsts (godasēsts), godakrǣsls (godakrēsls; pirms aizguvums mēs to dēvējām par „goda krēslu” [IZC-K1]][IZC-K2])
+Tronis ---> Dižsǣsts (dižsēsts; ar apvv. „sǣsts” 'sēdeklis', pēc lietuvju vārda „sostas” 'tronis' parauga), godasǣsts (godasēsts), godakrǣsls (godakrēsls; pirms aizguvuma mēs to dēvējām par „goda krēslu” [IZC-K1]][IZC-K2])
 
-Trófeja (trofeja) ---> Iegūsla {kara, sacensību iegūsla}, iegūslis, nopelnenis, nopælnenis
+Trófeja (trofeja) ---> Iegūsls {kara, sacensību iegūsls}, iegūslis, nopelnenis, nopælnenis
 
 U
 Un ---> Ir (nomainīt rakstību šobrīdējam, varbūt uz „ira” ir „iraid”. sal. ar vārdu latgaliski („irā”), lietuviski („yra”, jeb mūsu rakstībā - „īra”) ir žemaitiski („īr”); šo vārdu lietojām vēl pirms dažsimt gadu), er [APVV-T], gan / [piebilstot, papildinot] Ir [V-T]{Iekārtas sastāv no Ķīnas sīkdaļām ir Ukrainai tās tieši nepiegādā | ... ir līdztækus vēl jāmācās | Viņi nesen izdevuši savu albumu, ir tam ira izcili panākumi panākumi | Viņai palūdza nelentot ir viņa aizgāja | Ieej iekšā ir uzraksti!} / [uzsværot] Ir [V-T]{Ir nepierē!} / [vienlaicīgas darbības] -dam(ie)s {Viņš šāva skriedams | viņš ceļo pa pasauli piepelnīdamies ar ...} / [kopīgi] Ar {tǣvs ar dēlu gāja} / A {A jūs (ko darīsiet)?}
