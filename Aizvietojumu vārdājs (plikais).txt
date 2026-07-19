@@ -77,10 +77,12 @@ Akceptēt ---> Pieņemt (ko, kur) | [pieņemt kā labu] Atzīt / Piekrist (kam, 
 
 Aktieris, aktrise ---> Izliksminieks/-e (no neæsoša vārda „izliksme” 'izlikšanās'), tǣlonis/-e (tēlonis), izlicinieks/-e (no vārda „izlikties”)
 
-Aktīvs ---> Rosīgs, darbīgs / Iedarbināts, darbīgs [V-T], dirbjošs, veicošs (kā lietuviski) / [atveikas spējīgs] Atveicīgs / [grāmatvedībā] Vǣlāk kaut ko pielikšu
+Aktīvs ---> Rosīgs, darbīgs / Iedarbināts, darbīgs [V-T], dirbjošs, veicošs (kā lietuviski) / [spējīgs atveikties] Atveicīgs / [grāmatvedībā] Vǣlāk kaut ko pielikšu
+Hiperaktīvs ---> Pārrosīgs
 Aktīvs (lietvārds) ---> Rosmeskopa, rosmesmæzgls (rosmesmezgls), rosmestašķis (iekļauj aizvietojumu vārdam „punkts”), rosmescentrs, rosīgākie, darbīgākie / [ekónōmikā] Vǣlāk kaut ko pielikšu / [valodiniecībā] Vǣlāk kaut ko pielikšu
 Aktīvums ---> Rosīgums, darbīgums
 Aktivitāte ---> Rosība, rosme [V-T], darbība | [rosības pakāpe] Rosīgums, darbīgums / Atveicība
+Hiperaktivitāte ---> Pārrosība
 Aktivēt, aktivizēt ---> Iedarbināt / [palielināt rosīgumu] (Uz)rosinā́t
 Aktivēties, aktivizēties ---> Iedarbināties, iedarboties / (Uz)rosināties
 Aktivācija, aktivizācija ---> Iedarbināšana / Rosināšana | Rosināšanās
@@ -128,14 +130,14 @@ Animācija ---> Kustænojums (kustenojums), kustišķojums, kustīgojums
 Animācijas (kas) ---> Kustænot(ai)s {kustænotā skatāmlente}, kustišķot(ai)s, kustīgot(ai)s
 Animatōrs (animators) ---> Kustænonis (kustenonis), kustišķonis, kustišķotnis, kustišķotājs, kustīgotnis, kustænotājs (kustenotājs), kustīgotājs
 
-Angārs ---> Lideklava (vieta, kur novietu lidekļus), lideklene, lidglabātne, lidnojume | [visam, kas nav lideklis] (Lideklavveida) noliktava / [vingrošanai] Vǣlāk kaut ko pielikšu
+Angārs ---> Lideklene (vieta, kur novietu lidekļus), lideklava, lidglabātne, lidnojume | [visam, kas nav lideklis] (Lideklenveida) noliktava / [vingrošanai] Vǣlāk kaut ko pielikšu
 
 Annāles ---> [sk. aizvietojumu vārdam „hrōnika”] / [ikgadējs izdævums] Gadaraksts, ikgadenis
 
 Anónīms (anonīms) ---> Bezvārda (kas)[V-T], bezvārdisks, bezradoņa (sk. aizvietojumu vārdam „autōrs”)
 Anónimitāte ---> Bezvārdība [APVV-T]
 
-Antena ---> Uztverklis (uztverklis; vārdu „uztvert” ir šito dærǣtu aizvietot) / [miesdaļa] Galvastausts
+Antena ---> Uztverslis (uztverklis; vārdu „uztvert” ir šito dærǣtu aizvietot) / [miesdaļa] Galvastausts
 
 Aparāts ---> Veiceklis {kaut kas, kas veic kādu(s) noteiktu(s) uzdævumu(s) arīdz kaut ko veicina; dzirdes veiceklis}, veiklis / Iekārta
 Aparatūra ---> Veiceklājs, veicekliens, [sarunvalodai] dzelži [SARVV-T]
@@ -1234,13 +1236,13 @@ Krokains ---> Grumbuļains, červeļains [V-T]
 Smadzeņu krokas ---> Smadzeņu grumbuļi, smadzeņgrumbuļi, (smadzeņu) grumbstarpe
 Kroku kalni ---> Grumbuļkalni
 
-Kropls, kroplīgs ---> Sagreizis, sagreizināts, sašķībis, [sarunvalodai] sapists
-Kroplums ---> Sagreizums, gaudænums (gaudenums),[ sašķībums, [sarunvalodai] sapistums
-Kroplība ---> Sagreizība, gaudænība (gaudenība)[V-T], sagreizinātība, [sarunvalodai] sapistība
+Kropls, kroplīgs ---> Sagreizis, sagreizināts, sašķībis, tizls [NOVCN-T], [sarunvalodai] sapists
+Kroplums ---> Sagreizinātums, sagreizums, gaudænums (gaudenums)[V-T], [sarunvalodai] sapistums
+Kroplība ---> Sagreizinātība, sagreizība, gaudænība (gaudenība)[V-T], [sarunvalodai] sapistība
 Kropļot ---> Greizināt, krupināt [APVV-T], gaudænot (gaudenot), [sarunvalodai] šķībināt, pist kopā
-Sakropļot ---> Sagreizināt, sagaudænot, [sarunvalodai] sašķībināt, sapist
-Kropļojums --->Greizinājums, gaudænojums, [sarunvalodai] šķībinājums, sapisums
-Kroplis ---> Sagreizušais, sagreizenis, greizmiesis, gaudenis [NOVC-T], [sarunvalodai] sagreizenis, šķībulis [SARVV-T], greizulis [SARVV-T], sapistenis, tizlis [V-T]
+Sakropļot ---> Sagreizināt, sagaudænot (sagaudenot), [sarunvalodai] sašķībināt, sapist
+Kropļojums ---> Greizinājums, gaudænojums, [sarunvalodai] šķībinājums, sapisums
+Kroplis ---> Sagreizušais, greizmiesis, gaudenis [NOVC-T], [sarunvalodai] sagreizenis, šķībulis [SARVV-T], greizulis [SARVV-T], sapistenis, tizlis [V-T]
 
 Krunka ---> Grumba [V-T]
 Krunkains --->  Grumbains
@@ -1251,7 +1253,7 @@ Krunkots ---> Grumbots
 Krūze ---> Dzersle [APVV-T]
 
 Kuģis ---> Jūrene, jūravis, valte [V-T 'liela laiva'][IZC-W](lietuvji šādi dēvē laivas)
-Gaisakuģis, gaisa kuģis ---> Gaisalidotne, gaisa lidotne, gaisavalte, [sarunvalodai] gaisene
+Gaisakuģis, gaisa kuģis ---> Gaisene, gaisalidotne, gaisa lidotne, gaisavalte
 Kósmósa kuģis (kosmosa kuģis) ---> Visumlidotne, [sarunvalodai] visumene
 
 Kupōls (kupols) ---> Jumols [V-T], pārvāznis [V-T]
@@ -1664,6 +1666,8 @@ O
 Ogļhidrāti ---> Ogļūdeņi (tāpat kā lietuviski („angliavandeniai”))[NOVCV-T]
 
 Ó
+Ódekólōns (odekolons) ---> Smaržūdens [V-T]
+
 Ófiss (ofiss) ---> Valde, vadītuve, vadītne, vadiniekājs / Iestāde | Nodaļa / Sadirbtuve (vieta, kur sadirbjas, jeb dirbj kopā), sadirbene, sadirbtne, darbveiktne | Darbatælpa (darbatelpa)
 Óficiāls (oficiāls) ---> Valdisks, iestādisks
 Óficiālums (oficiālums) ---> Valdiskums, iestādiskums
@@ -1861,6 +1865,12 @@ Prógrammatūra (programmatūra) ---> Lietotnājs, lietotnes, lietotniens
 
 Prótektōrs (protektors) ---> Sardzeklis {ierīces, riteņvalka sardzeklis} | (Riteņa) valkasargs/valksargs, (riteņvalka) sardzeklis
 
+Puisis ---> Dǣlenis (dēlenis; iedvæsma no vārda „meitene”), dǣlietis (dēlietis; iedvæsma no vārda „vīrietis” ir „sieviete”)[SARVV-T], dǣlišķis (dēlišķis)[APVV-T], jaunis, jaunulis
+Puisietis ---> Tāpat kā rindu augstāk / [daudaliņš] Knauķis [V-T] / [pusaudzis] Vasaraudzis [V-T], vasarauģis [V-T]
+Puisǣns, puisītis ---> Sk. aizvietojumu vārdam „zǣns”
+Puišelis, puiškans ---> Auģelis, daudelis (aizvietojums vārdam „zēns” ar izskaņu -elis), audzelis, knauķis
+Puiķelis, zeņķis ---> Auģelis, audzelis
+
 Puķe ---> Ziedule, ziedala (var traucēt vārda jau esošā nozīme - 'raiba govs'), ziedals, ziedenis
 
 Pulkstenis ---> Laikrādis (jau æsošs; tāpat kā lietuviski)
@@ -1899,8 +1909,8 @@ Randiņš ---> Saticiņš (izskaņa piemēram pēc vārda „šāviņš” parau
 Rase ---> (ļaužu) Izskatšķira, izskata šķira | [tikai par ādas plauku] Ādas plauka
 
 Raunds ---> Piegājiens [V-T], pieiets, piegāja, piegājš (izskaņa kā piemēram vārdam „vējš”), piegājus, gājums
-Eco round ---> Taupene
-Full eco round ---> Nepircene
+An eco round ---> Taupene
+A full eco round ---> Nepircene
 
 Reaģēt ---> Veikties pretī, darboties pretī, atveikties, atdarboties
 Noreaģēt ---> Atveikties [APVV-T], atdarboties [APVV-T]
@@ -2398,6 +2408,8 @@ Tronis ---> Dižsǣsts (dižsēsts; ar apvv. „sǣsts” 'sēdeklis', pēc liet
 
 Trófeja (trofeja) ---> Iegūsls {kara, sacensību iegūsls}, iegūslis, nopelnenis, nopælnenis
 
+Tualete ---> Ateja [V-T], noietne [APVV-T], koptuve, [sarunvalodai] labierīcības [V-T], maznamiņš (vārds „mazmājiņa”, bet bez aizguvuma), rakstinieku namiņš [SARVV-T]
+
 U
 Un ---> Ir (nomainīt rakstību šobrīdējam, varbūt uz „ira” ir „iraid”. sal. ar vārdu latgaliski („irā”), lietuviski („yra”, jeb mūsu rakstībā - „īra”) ir žemaitiski („īr”); šo vārdu lietojām vēl pirms dažsimt gadu), er [APVV-T], gan / [piebilstot, papildinot] Ir [V-T]{Iekārtas sastāv no Ķīnas sīkdaļām ir Ukrainai tās tieši nepiegādā | ... ir līdztækus vēl jāmācās | Viņi nesen izdevuši savu albumu, ir tam ira izcili panākumi panākumi | Viņai palūdza nelentot ir viņa aizgāja | Ieej iekšā ir uzraksti!} / [uzsværot] Ir [V-T]{Ir nepierē!} / [vienlaicīgas darbības] -dam(ie)s {Viņš šāva skriedams | viņš ceļo pa pasauli piepelnīdamies ar ...} / [kopīgi] Ar {tǣvs ar dēlu gāja} / A {A jūs (ko darīsiet)?}
 Nu un (tad)? ---> Nu, a kas?, nuba kas? nuba? (vārds „nu” ar pastiprinājuma partikulu „-b(a)”, kas piemēram vārdā, „jeb(a)”, „neba”), nu ir kas?, nuba kas?
@@ -2555,9 +2567,18 @@ Tīkliņzeķubikses ---> Tīkliņpǣdavenes (tīkliņpēdavenes)
 Garās zeķes ---> Garpǣdavi (garpēdavi)
 Zeķturis ---> Pǣdavturis (pēdavturis)
 
+Zǣns (zēns) puika, puisǣns (puisēns), mazpuika ---> Daudaliņš (apvv. „daudaliņa“ 'jautrs bǣrns', bet vīr. dzimtē)[IZC-K], daudalis, daudǣns (daudēns), audzǣns (audzēns) / [jauneklis, vīrietis] Vecis, večuks, væcais
+Puicisks, zǣnisks, zǣnišķs ---> Daudališķs
+Puiciskums, zǣniskums, zǣnišķums ---> Daudališķums
+Ielas puika, ielas zǣns, ielaszǣns (novc.) ---> Ielasdaudalis, ielas audzǣns, ielaudzǣns, ielasdauda
+Velna puika ---> Vælna vecis,
+Zǣnistaba, zǣnu istaba ---> Daudalateja, daudaliņateja
+
 Zilbe ---> Balsiens [V-T]
 
-Zómbijs (zombijs) ---> Kustmironis (kustīgs mironis) / [Negribīgs cita gribas izpildītājs] Vǣlāk kaut ko pielikšu
+Zómbijs (zombijs) ---> Kustmironis (kustīgs mironis) / [Negribošs cita gribas izpildītājs] Vǣlāk kaut ko pielikšu
+
+Zóōdārzs (zoodārzs) ---> Zvǣrdārzs (zvērdārzs), zvǣrudārzs (zvērudārzs)[V-T]
 
 Zvērēt --> Uzgalvot, aizgalvot, dievoties (jau æsoša sarunvalodas nozīme)
 Zvǣræsts (zvērests) ---> Uzgalvojums, dievojums
