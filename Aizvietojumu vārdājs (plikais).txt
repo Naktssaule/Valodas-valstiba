@@ -588,7 +588,9 @@ Dreskōds, apģǣrba kōds (dreskods, apģērba kods) ---> Izskatnoteikumi, izsk
 Driftēt, driftot ---> Sklendināt ('likt sklenst')[APVV-T1][APVV-T2][IZC-K], sānslīdināt (atvasināts no vārda „sānslīde”; 'likt slīdēt sānis'), sklenst
 Drifts ---> Sklendināšana, (tīša) sānslīde, sklenšana | [pabeigta darbība] sklendinājums, sklendiens
 
-Duets, duō (duo) ---> Divveika, divveikums | Divskande | Divskanējums | [tikai par deju arī] Divdeja [V-T] / Divskandinieki, divskanži, divveicinieki
+Duets, duō (duo) ---> Divsniegums, divveika, divveikums | [tikai par deju arī] Divdeja
+[V-T]
+/ Divatsniedzēji, divveicinieki
 
 Duša ---> Strūktuve, strūktne, šļāktuve, šļācene / [ūdensdziediniecības prócedūra] Strūcināšana
 
@@ -1233,8 +1235,12 @@ Smadzeņu krokas ---> Smadzeņu grumbuļi, smadzeņgrumbuļi, (smadzeņu) grumbs
 Kroku kalni ---> Grumbuļkalni
 
 Kropls, kroplīgs ---> Sagreizis, sagreizināts, sašķībis, [sarunvalodai] sapists
-Kroplums ---> Sagreizums, gaudænums (gaudenums), sašķībums, [sarunvalodai] sapistums
+Kroplums ---> Sagreizums, gaudænums (gaudenums),[ sašķībums, [sarunvalodai] sapistums
 Kroplība ---> Sagreizība, gaudænība (gaudenība)[V-T], sagreizinātība, [sarunvalodai] sapistība
+Kropļot ---> Greizināt, krupināt [APVV-T], gaudænot (gaudenot), [sarunvalodai] šķībināt, pist kopā
+Sakropļot ---> Sagreizināt, sagaudænot, [sarunvalodai] sašķībināt, sapist
+Kropļojums --->Greizinājums, gaudænojums, [sarunvalodai] šķībinājums, sapisums
+Kroplis ---> Sagreizušais, sagreizenis, greizmiesis, gaudenis [NOVC-T], [sarunvalodai] sagreizenis, šķībulis [SARVV-T], greizulis [SARVV-T], sapistenis, tizlis [V-T]
 
 Krunka ---> Grumba [V-T]
 Krunkains --->  Grumbains
@@ -2347,6 +2353,9 @@ Tóp 10 ---> 10 labākie (šādi valodā jau ira ierasts teikt [V-T1][V-T2][V-T3
 Tóp 5 ---> 5 labākie | 5. labākais
 Tóp 2 ---> 2 labākie | 2. labākais
 Tóp 1 ---> Vislabākais
+
+Tórpēda (torpēda) ---> Pældpalaisls, ūdenspalaisls
+Tórpedēt, tórpēdēt (torpedēt, torpēdēt) ---> (Pæld)palaislot
 
 Tósteris (tosteris), grauzdǣtājs (grauzdētājs) ---> Grauzdeklis
 
