@@ -776,10 +776,6 @@ Bezgaumīgs ---> Garšnejutīgs
 Bezgaumīgums ---> Garšnejutīgums
 Bezgaumība ---> Garšnejutība
 
-Gazlaitot, to gaslight ---> Šaubināt [APVV-T], sašaubīt [APVV-T]
-Gazlaitings, gaslighting ---> Šaubināšana, sašaubināšana
-Gazlaiteris, a gaslighter ---> Šaubinātājs, šaubonis, šaubinieks
-
 Gāze ---> Gaisļa [APVV-T], gaisņa ('nepatīkams, nelabs gaiss' arīdz saistīt ar vārdu „gaisoties”, „gaistīties” „gaisls” ir pārējiem. Iedvesmoja apvv. „dukņa”[V-T1][V-T2]. Tvana gāzei īsti neder, jo smakas tai nav, turklāt ne visas gāzes ira kaitīgas. Lai gan galotnei -ņa ne vienmēr negatīva pieskaņa. Sal. ar vārdu „viešņa”.), gaisoņa [V-T1][V-T2], birga [V-T][IZC-K1][IZC-K2][IZC-K3](latgaliski šis vārds ietver arī vārda „dvinga” nozīmes), dvīlis [APVV-T; jānoskaidro izcelsmi]
 Gāzmaska ---> Gaisļassejene, gaisņassejene
 
@@ -875,7 +871,7 @@ Handbōlists (handbolists), rokasbumbists ---> Mætbumbinieks (metbumbinieks), m
 
 Hei! ---> [lai pievērstu uzmanību] Eu! / [sveicināšanai] Væs! (ves!), svei!
 
-Heist, ielaušanās zādzība (letōnikā) ---> Ielauzzaga, izlaupe, [saraunvalodai] grābsna [APVV-T 'aplaupīšana']
+A heist, ielaušanās zādzība (letōnikā) ---> Ielauzzaga, izlaupe, [saraunvalodai] grābsna [APVV-T 'aplaupīšana']
 
 Helikópters (helikopters), helikópteris (helikopteris), helītis ---> Virpspārnis, virpuļspārnis, griežspārnis, [sarunvalodai] virpulene
 
@@ -1111,7 +1107,7 @@ Kepōns (kepons) ---> Naģene [V-T]
 
 Drópkiks (dropkiks), a dropkick ---> Krītamspēriens (spēriens, ko veic krītam, ko kāds veic krisdams), krisdamspēriens
 Drópkikot (dropkikot), to dropkick ---> (Ie)spert krisdams/krītam/kritienā
-A jumpkick, a jump kick, džampkiks, spēriens lēcienā ---> Læcamspēriens, lǣkdamspēriens (lēkdamspēriens), Spærlēciens (sperlēciens)
+A jumpkick, a jump kick, džampkiks, spēriens lēcienā ---> Læcamspēriens, lǣkdamspēriens (lēkdamspēriens), spærlēciens (sperlēciens)
 To jumpkick ---> (Ie)spert lǣkdams/læcam/lēcienā (Iespert lēkdams)
 
 Kinōkamera ---> (Tālrādes) skatieraksteklis, (Skatām)lenštveris, skatieraksteklis (aizvietojums vārdam „videōkamera”)
@@ -1225,9 +1221,6 @@ Krāsotava ---> Triepstītava, triepstītne
 Krēms ---> (Apavu, apav-, saules, saules-, sejas-) ziede [V-T] | [tikai par skaistkopsmes ziedi] Skaistumziede, [sarunvalodai] skaistene / [viriniecībā] Vǣlāk kaut ko pielikšu / [dzēriens] Vǣlāk kaut ko pielikšu
 Tónālais krēms (tonālais krēms) ---> (Sejas) pamatziede, pamata skaistumziede
 CC krēms, krāsu kóriģējošs krēms, krāsu kóntrōle ---> Pielabojamā ziede, plaukasziede, sejasplaucene ('sejasplaukas ziede')
-
-Krindžs, krindž, cringe ---> Viebas [APVV-T] {man nāk viebas}
-Krindžīgs, cringy ---> Viebinošs {viebinošs saturs}, viebīgs (redzēju OKDD diskórdserverī)
 
 Kritērijs ---> Mǣraukla (mēraukla)[V-T], mǣrs (mērs)
 
@@ -1675,13 +1668,13 @@ Ogļhidrāti ---> Ogļūdeņi (tāpat kā lietuviski („angliavandeniai”))[NO
 Ókeāns (okeāns) ---> Ūdenājs ('ūdeņu kopums'; pēc lietuvju parauga), dižjūra [APVV-T], lieljūra [V-T]
 Ókeānisks (okeānisks) ---> Ūdenājisks
 Ókeanónīms (okeanonīms) ---> Ūdenājvārds
-Ókeanolōgs (okeanologs) --->
+Ókeanolōgs (okeanologs) ---> Vǣlāk kaut ko pielikšu
 Ókeanogrāfs (okeanogrāfs) --->
 
 Ókupēt (okupēt) ---> Sagrābt (zemi, valsti; jau æsoša nozīme), iegrābt (zemi, valsti; grābjot ievirzīt, iekļaut savā valdījumā)
 Ókupants (okupants) ---> Zemesgrābis, [nievājošāk] zemesgrābša, zemesgrābaļa
-Ókupācija ---> Zemesgrābe, iegrābe, iegrābtība
-Ókupeklis ---> Grābšudaikts
+Ókupācija (okupācija) ---> Zemesgrābe, iegrābe, iegrābtība
+Ókupeklis (okupeklis) ---> Grābšudaikts
 
 Ónómatópóēze (onomatopoēze), ónómatópeja (onomatopeja) ---> Skaņvārds
 Ónómatōpóētisks (onomatopoētisks) ---> Skaņvārdisks
@@ -2194,18 +2187,6 @@ Sólārijs (solārijs) ---> Sauļotava (agrāk lietots ASV latvju apvienības v�
 Spaiki ---> Smailmati, smaileņi
 
 Spainis ---> Smelene, smæltuve (smeltuve; nezinu kā izskatās)[V-T], smæltava (smeltava)[APVV-T]
-
-Spawn (rotaļātāju rašanās vieta pasaulē) ---> Dzimtuve, rastuve ('vieta, kur rodas rotaļātāji'), rasmene
-Spawnpoint ---> Rasmestašķis (sk. aizvietojumu vārdam „punkts”), dzimsttašķis
-To spawn ---> Rasties, (pie)dzimt / [Likt rasties] Radīt; dzemdēt
-To respawn ---> Pārrasties, atrasties; atdzimt, pārdzimt / [Likt atkal rasties] Atradīt, pārradīt
-To despawn ---> Izgaist / Izgaisināt
-
-Speedhack --->  Gaitātreklis, gaitasātreklis, (gaitas, kustības) virsātreklis, pārātreklis
-
-To speedrun (something) ---> Traukties (kam) cauri, brāzties (kam) cauri, ašpabeigt, ašizpildīt
-A speedrun ---> Caurtrauce, caurbrāze, caurbrāziens, ašbeidze, ašpilde
-A speedrunner ---> Caurtrauķis/-e, caurtraucis/-ene, caurtraucinieks, caurbrāzis/-ene, ašbeidzinieks, caurbrāzinieks, ašpildis
 
 Spēle, igra ---> Rotaļa {vārdu rotaļa [V-T]}, rotņa [NOVCV-T], [īsāk dzejas, dziesmas ritmam] rot'ļa, kaita [APVV-T], žaisla (sk. apvv. „žaisli” 'joki, ākstīšanās'), [sarunvalodai] meņģe [APVV-T 'plosīšanās, mocības, ķibele'; æsot bijis tuvvārds aizguvumam, kā apvv. „meņģis” pašlaik], meņģis [APVV-T],
 Spēlīte ---> Rotaļiņa,
