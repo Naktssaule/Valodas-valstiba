@@ -914,8 +914,9 @@ Hókejs (hokejs) ---> Lædusripa, lædripa, (ledusripa, ledripa; pēc lietuvju a
 Hókejists (hokejists) ---> Lædusripinieks, lædripinieks (ledusripinieks, ledripinieks)
 Lauka hókejs (lauka hokejs) ---> Laukbumbiņa, laukvǣzda (laukvēzda)
 
-Hómónīms (homonīms) ---> Vienizrunis, vienrakstībis, vienrakstībenis
-Hómónīmija (homonīms) ---> Vienizrunība, vienrakstībatne
+Hómónīms (homonīms) ---> Vienrakstāmais, vienrakstībis, vienizrunis, vienrakstībenis
+Hómónīms (homonīms; 'saistīts ar vienrakstībi') ---> Vienrakstībisks, vienrakstāms
+Hómónīmija (homonīms) ---> Vienrakstāmība, vienizrunība, vienrakstībatne
 
 Hórizónts (horizonts) ---> Apvārsnis [V-T] / Iežslānis | Iežslāņi, iežslānājs, iežslāņojums, iežslāniens / Ūdensslānis
 Hórizóntāls (horizontāls) ---> Līmenisks [V-T], gulenisks [V-T], gulisks [APVV-T], guls [APVV-T] | Guļ-(koks, strops, būve), guļus-
@@ -1338,25 +1339,26 @@ Launags, launaglaiks ---> Pavakariņas (apvv.; sal. arī ar apvv. „pabrokastis
 
 Lavīties ---> Manīties, zagties, [sarunvalodai] šmaukt
 
-Lāde, skrīne/skrīnis (lādes nozīmē) ---> Šķirsts [1][2][3][4], ieliktene
+Lāde, skrīne/skrīnis (lādes nozīmē) ---> Šķirsts [​V-T1​][​IZC-K1​][​IZC-K2​][​IZC-K3​], ieliktene
 
 Lādēt ---> Piebāzt (šaujamieroci, aptveri, magazīnu), (pie)pildīt, pielikt / Pildīt (spara), piekraut
-Lādǣtājs (lādētājs) ---> Sparapildis, (spara) pildeklis {sparabrauka, Sparakrājs pildeklis}, sparapildeklis
+Lādǣtājs (lādētājs) ---> Sparapildis, (spara) pildeklis {sparabrauka, sparakrāja pildeklis}, sparapildeklis
 Uzlāde ---> Sparapilde, (spara) uzpilde
 Lādiņš ---> [šāviņā, zemessprāglī, izmæslā] Sprāgstpildiņš, sprāgstpilds | [miluma pildījums patrōnas čaulā] Milumpildiņš, milumpilds / [fizikā] Strāvekļpildiņš, strāvekļpilds, strāvekļsaturs, krāviņš
 Lādiņnesējs ---> Strāvekļnesējs, strāvekļnesis, strāvekļneselis, strāvekļpildenis
-Lejupielādēt, lejuplādēt ---> Nokraut (Avots; Aizvietojumu laikam izpierējis Ingmārs Zemzaris?; šādi saka arī lietuvji), atsūtināt ('likt atsūtīt')
-Lejupielāde, lejuplādē ---> Nokrāve, nokraušana, atsūtināšana / [tikai par darbības iznākumu] Nokrāvums, atsūtinājums
-Augšupielādēt, augšuplādēt ---> Uzkraut (avots tāds pats), uzsūtīt
-Augšupielāde, augšuplāde ---> Uzkrāve, uzkraušana, uzsūte, uzsūtīšana / Uzkrāvums, uzsūtījums
-Ielādēt ---> Iekraut, iesūtīt, iegūt
-Ielāde ---> Iekrāve, iekraušana, iesūte, iesūtīšana, ieguve
+Lejupielādēt, lejuplādēt ---> Atsūtināt ('likt atsūtīt'; lietuvji saka līdzīgi), [sarunvalodai?] nokraut (Avots; šādi saka arī lietuvji)
+Lejupielādēties, lejuplādēties ---> Atsūtīties, [sarunvalodai] nokrauties
+Lejupielāde, lejuplādē ---> Atsūte, atsūtīšanās, atsūtināšana, [sarunvalodai] nokrāve, nokraušana / [tikai par darbības iznākumu] Atsūtinājumsatsūtījums, [sarunvalodai] atsūtenis, nokrāvums
+Augšupielādēt, augšuplādēt ---> Uzsūtīt, [sarunvalodai] uzkraut (avots tāds pats)
+Augšupielādēties, augšuplādēties ---> Uzsūtīties, [sarunvalodai] uzkrauties
+Augšupielāde, augšuplāde ---> Uzsūte, uzsūtīšana, [sarunvalodai] uzkrāve, uzkraušana / Uzsūtījums [sarunvalodai] uzsūtenis, uzkrāvums
+Ielādēt ---> Iekraut, iesūtināt, iesūtīt, iegūt
+Ielāde ---> Iekrāve, iekraušana, iesūte, iesūtināšana, iesūtīšana, ieguve
 Pielādēt ---> Piebāzt (ieroci, aptveri, magazīnu), piepildīt, pielikt
 Pa (stobra) ræsgali lādējams, no (stobra) ræsgaļa lādējams ---> Pa (stobra) ræsgali piebāžams, no (stobra) ræsgaļa piebāžams
-A breechloader, a breech-loader ---> Ræsgalbāžamais (resgalbāžamais ierocis)
 Pa stobru lādējams ---> Pa stobru piebāžams
-Pārlādēt ---> Pārkraut / Pārbāzt (ieroča aptveri arnu magazīnu) / (strāvekliski, strāveklimi) Pārpildīt, pārkraut
-Pārlāde ---> Pārkrāve / Pārbāšana, pārbāze / (strāvekļa, strāvekļ-)Pārpilde
+Pārlādēt ---> Pāratsūtināt, pārsūtināt, [sarunvalodai] pārkraut | [ja runa par vietējām datnēm, nevis to atsūtināšanu no starptīkla] Pārkraut, / Pārbāzt (ieroča aptveri arnu magazīnu) / (strāvekliski, strāveklimi) Pārpildīt, pārkraut
+Pārlāde ---> Pāratsūte, pāratsūtīšanās, pārsūtīšanās, [sarunvalodai] pārkrāve | Pārkāve / Pārbāšana, pārbāze / (strāvekļa, strāvekļ-)Pārpilde
 Izlādēt ---> Izņemt (patrōnas) / Iztukšot, atpildīt, izkraut
 Izlādēties ---> Iztukšoties
 Izlāde ---> Iztukšošanās
