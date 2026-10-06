@@ -8,6 +8,7 @@ Dzeltens - pašaubīgs
 Sarkans - nedær
 Pelēks - visiem gadījumiem arnu nozīmēm nedær
 Plaukas nav - cits vārds, ko varbūt dærǣtu apsvērt
+Viólets ---> Pats vārds aizgūts nav, bet arnu tiek lietots netaisni (latvjiem, baltiem neraksturīgā nozīmē) arnu apdraud citu(s) mūsu izcelsmes vārdu(s).
 Skaņu apzīmējumi:
 
 æ, ǣ = platais e, ē, kā vārdā „sæns”, „dzæltæns”, „æzærs”, „dzæsma” „(viņš, viņa, viņi) dzær”, „ǣsma”, „atvǣrts”, „kvǣls”, „(viņš, viņa, viņi) ǣd”
@@ -304,11 +305,11 @@ Bišku, bišķiņ, bišķi, bišķīt ---> Drusciņ, drusku, [sarunvalodai] maķ
 
 Bize ---> (Mat)pīne [V-T]
 
-Blīvs ---> Biezs, biezæns (biezens), lāns, lānīgs
+Blīvs ---> Biezs [V-T] biezæns (biezens), lāns, lānīgs
 Blīvi ---> Biezi, biezæni (biezeni), lāni, lānīgi
 Blīvums ---> Biezme (lai nejauktos cietu vielu daļinu nozīmi; izskaņa kā vārdam „siltme”, „saldme”, „baisme” g.c), biezums
 Blīvēt ---> Biezināt
-Blīvēties ---> Biezināties
+Blīvēties ---> Biezēt [V-T]
 Blīvēšana ---> Biezināšana
 Blīvējums ---> Biezinājums
 Blīvētājs ---> Biezinātuvis, biezeklis
@@ -324,17 +325,17 @@ Saulesbrilles ---> Saulesacenes, saulacenes, [sarunvalodai] saulenes [V-T], saul
 
 Brīfings ---> Pasaiets, īssaiets [V-T], saietiņš, saietelis
 
-Brīvs ---> Laisms, laists, vaļæns (vaļens) / [neaizņemts laiks] Vaļa {man ira vaļa} / [ir dota piekrišana, netiek ierobežots arnu traucǣts] (At)ļauts / [bez maksas] Bez maksas, velt-, væltæns (veltens) / [tāds, kurā kaut kā nav, kaut kas neizpaužas, kaut ko nesatur] Bez (kā)
+Brīvs ---> Laisms, laists, vaļæns (vaļens) / [neaizņemts laiks] Vaļa {man ira vaļa} / [ira dota piekrišana, netiek ierobežots arnu traucǣts] (At)ļauts / [bez maksas] Bez maksas, velt-, væltæns (veltens) / [tāds, kurā kaut kā nav, kaut kas neizpaužas, kaut ko nesatur] Bez (kā)
 Brīv ---> (At)ļauts, drīkst
-Brīvība ---> Laismība, laisme (apvidos ira vārds „laisma”), laistība, vaļænība (vaļenība) / Vaļība, ļautība, ļāvums
+Brīvība ---> Laismība, laisme (apvidos ira vārds „laisma”), laistība, vaļænība (vaļenība) / Vaļība, ļāvums, ļautība
 Atbrīvot ---> Atlaismināt, atvaļænot (atvaļenot)
 Atbrīvoties ---> Atlaismināties / Tikt vaļā
 Atbrīvošana ---> Atlaismināšana, [dzejiskāk] atlaisme
 Brīvdiena ---> Vaļasdiena
 Brīvlaiks ---> Vaļaslaiks
-Brīvprātīgs ---> Savgribīgs, pašgribīgs
-Brīvprātīgais ---> Savgribīgais, pašgribīgais
-Brīvprātība ---> Savgribība, pašgribība
+Brīvprātīgs ---> Savgribīgs, savgribišķs, pašgribīgs
+Brīvprātīgais ---> Savgribīgais, savgribišķais, pašgribīgais
+Brīvprātība ---> Savgribība, savgribišķība, pašgribība
 Brīvsitiens ---> Ļaut(ai)s sitiens
 Par brīvu ---> Bez maksas, par velti
 Brīvpusdienas ---> Veltpusdienas, (sal. piem. ar apvv. „veltēdis”), bezmaksas pusdienas
@@ -1398,6 +1399,9 @@ Legingi, lenginsi, reitūzenes, jāt(i)nieku bikses, jāšanas bikses ---> Apsp�
 Leģenda ---> Dižnostāsts, dižteika, teiksma [V-T]
 Leģendārs ---> Dižnostāsta/u (kas), dižnostāstisks, dižteikisks, dižteikas/u (kas), teiksmisks / Dižnostastæns (dižnostāstens), dižteikišķs, dižnostāstisķs
 Leģendārums ---> Dižnostāstænums (dižnostāstenums), dižnostāstišķums, dižteiķiškums
+
+Letāls ---> Mirdinošs, nāvējošs [V-T], nāvīgs [V-T]
+Letalitāte, letālums ---> Mirdinošums, nāvējošums, nāvīgums
 
 Læptóps, laptops (laptops), klēpjdatōrs (klēpjdators) ---> Klēpeklis, klēpenis
 
