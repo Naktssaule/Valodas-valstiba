@@ -1,0 +1,257 @@
+
+Pārsvarā grūti arnu neviegli atrodamu vārdu ir apzīmējumu tulkojumi
+
+Saišu apzīmējumi:
+V-T = Vārds tēzaurā
+V-MPV = Vārds mūsdienu pilsētinieciskajā vārdājā
+V-D-T = Vārds dzejiskā nozīmē arnu dzejisks vārds
+SARVV-T = Sarunvalodas vārds tēzaurā
+NOVCV-T = Novæcojis vārds tēzaurā
+NOVCN-T = Novæcojusi nozīme tēzaurā
+APVV-T = Apvidvārds tēzaurā
+PPV-T = Papildu vārdi tēzaurā
+
+[Izmaiņu uzskaitene]
+A
+
+Aimbot, aim hacks, aim assistance ---> Paštēme, paštēmēšana
+
+Annoying (sarunvalodišķāki veidi kā pateikt „kaitinošs”) ---> Ods {tu esi tāds ods!}, blakts {tu esi galīga blakts!}
+
+To assist (šaušanas rotaļās, kā piemēram CS'ā) ---> Līdzkaut, atbalstīt
+An assist ---> Līdzkāve, atbalastījiens
+Assists (rotaļas tašķu (punktu) koklente ir dabīgā sarunā) ---> Līdzkāvis cik {līdzkāvis 13 (pretiniekus)}, atbalstījis cikkārt {atbalstījis 13kārt}
+B
+To bait (Counter-strike termins) ---> Ǣsmināt (ēsmināt; 'padarīt par ēsmu'), izkārt, izklikt
+
+
+Blah, blah, blah!, [dažkārt teikti ar tādu pašu nozīmi; pamatā ASV] yada yada yada!, yaddeyahdah!, yaddy yaddy ya! ---> Ļær, ļær, ļær! [APVV-T][V-GŪGLĒ]; ļæru, ļæru, ļæru! [V-GŪGLĒ]; ļā, ļā, ļā! (gūglē retāk sastopams. laikam no krieviem? lai gan lietuvjiem ira „le, le, le!”), pļā, pļā, pļā!
+
+A bob cut ---> Bóbs [V-T], karē [V-T]
+
+To boost ---> (Pa)stiprināt / Pacelt (uz plæciem) | Uzcelt (uz kaut kā) / [diskórdserveri arnu „Counter-strike” pakāpi] (Pa)kāpināt, (pa)stiprināt (lietuvji savā diskórda tulkojumā raksta šādi)
+A boost ---> Pastiprinājums / Pacēliens | Uzcēliens / Kāpinājums
+A booster ---> Stiprinātājs | [ierīce] Stipreklis / Kāpinātājs
+
+A boss (skatāmrotaļās) ---> Dižpretinieks, galvænais (pretinieks), vadošais (pretinieks), virspretinieks, virsinieks
+A girlboss ---> Nosakone (tāda, kas nosaka kas ir kādi kaut kas notiks), noteicēja, noteice, noteiča, noteiciniece, vadone, vadošā, valdava
+To girlboss ---> Nosakonēt, nosakonot, noteičot, būt nosakonei, valdavot, noteiciniečot
+Like a boss ---> Kā nosakonis, nosakonišķi, noteiciniecišķi, kā noteicinieks, valdonišķi, kā valdonis, [sarunvalodai] kā pisējs, pisējišķi
+
+A breechloader, a breech-loader, (caur ræsgali piebāžams, jeb pielādējams ierocis) ---> Ræsgalbāžamais (ierocis), ræsgalene
+
+A buzz cut, skinpanka frizūra ---> Ezītis [SARVV-T][SARVV-C], nullīte [V-C1][V-C2]
+
+C
+
+A camisole ---> Apakškrekliņš
+
+A chad ---> Tǣvainis (tēvainis)[SARVV-T]
+
+Cheesy (sarunvalodas nozīmei) ---> Sviestains [SARVV-T], sviestīgs [SARVV-T], pārsālīts [SARVV-T „pārsālīt” 'pārspīlēt']
+To cheat (rotaļā) ---> Krāpties, [sarunvalodai] šmaukties [SARVV-T]
+A cheater ---> Šmaucējs [SARVV-T], šmauklis [SARVV-T] | [tāds, kas to dara bieži, vairākkārt] Šmaucinieks
+Cheats, cheat software ---> Krāpeklis, šmauceklis
+
+
+A cougar ---> Jaunoķere, jaunķere, jauniešķere, jauno mediniece, jauniešmediniece
+
+A creep ---> Preteklis, riebeklis / [skatāmrotaļās] Vǣlāk kaut ko pielikšu
+Creepy ---> Preteklīgs, preteklišķs, preteklæns (preteklens)
+
+A crew cut, armijinieku frizūra ---> Apskūts pauris, ap pauri skūti mati
+
+Cringe, krindžs ---> Viebas [APVV-T]{man nāk viebas}
+Cringy, krindžīgs, krindž ---> Viebinošs {viebinošs saturs}, viebīgs (redzēju OKDD diskórdserverī)
+
+To critical hit ---> Skart vājenē, skart vājienē, skart vājvietā, skart vājumā, skart vājībā, iedragāt [V-T], ielauzt [V-T]
+A critical hit ---> Skārums vājenē, skārums vājienē, skārums, vā́jvietā, iedragājums, ielauzums | Skarts vājenē {Divkārt skarts vājenē}
+Critical hit! (rakstījums, kas parādās rotaļā pie pretinieka) ---> Skarts vājenē!, skarts vājienē!, skarts vājvietā!, iedragāts!, ielauzts!
+To mini-crit ---> Skart pavājenē, skart pavājienē, skart pavājā vietā, skart pavājvietā
+A mini-crit ---> Skārums pavājenē, skārums pavājienē, skārums pavājvietā
+D
+
+Dangly earrings ---> Nokaræni auskari
+
+A deadname ---> Neļaužvārds, (ļaudus/ļaudieša) nevārds, neļaudusvārds
+To deadname ---> Dēvēt nevārdā, nevārdot
+
+Deaths (rotaļas tašķu (punktu) koklentē ir dabīgā sarunā) ---> Miris cikkārt {Miris 13kārt}
+
+Deep (parnæstajā nozīmē) ---> Dzælmains [V-T](dzælmainas acis, /ļaudus)
+
+A drop (skatāmrotaļas dota turta, ko rotaļātāja tǣls æsot kaujas laikā pacēlis, nocēlis, piemēram no pretinieka miroņa) ---> Atradums, celksnis [NOVCV-T]
+
+A drow (D&D) ---> Zemzemes elfs
+
+A druid (D&D), druīds (fantāzijas) ---> Dabasburvis
+E
+
+Earbuds ---> (Bāžam)austiņas, ieaustiņas, ieauši (no LVAK naujvārdu vārdāja)
+
+Eldritch ---> Dairs [NOVCV-T][NOVCPPV-T][IZC-K1][IZC-K2], savādbaigs, savādbaiss
+F
+
+„Far out, man!” ---> Visumišķi!, visums!
+
+A femboy, sievpuika (vācišķs ÓKDD kopienas naujdarinājums) ---> Sievišķinieks (atvasināts no vārda „sievišķs”)
+
+To finish (someone) ---> Nobeigt (kādu)
+A finisher, an execution ---> Nāvestrieciens, [sitot] nāvessitiens | [sarunvalodai abiem] Nobeiglis, nobeigslis, nobeidzenis / [nenāvējošs] Galatrieciens, [sitot] galasitiens
+
+Fleksot, to flex ---> Dižoties [V-T]
+
+A flickshot ---> Mætšāviens (metšāviens; laikam ar plato e)[V-T]
+
+A freeze ('skaitļokļa darbības ilgstoša arnu nebeidzama neatveikšanās') ---> Uzkāršanās, uzkārsme
+To freeze ---> Uzkārties [V-T]
+Freezetime (termins rotaļā „Counter-strike”; 'laiks, kad rotaļātāji ira sastindzināti, jeb nevar paiet) ---> Stingatne, sastindze, stingme, stindzība
+
+Friendly-fire ---> Pašuguns (ieteica latvju valodas mācību diskórdservera uzraugs „Sorhead”), savuguns
+
+Frilly ---> Ar vólāniem (dærǣtu aizvietot)
+
+G
+
+To gaslight, gazlaitot ---> Šaubināt [APVV-T], piešaubināt, sašaubīt [APVV-T]
+Gaslighting, gazlaitings ---> Šaubināšana, piešaubināšana, sašaubināšana
+A gaslighter, gazlaiteris ---> Šaubinātājs, piešaubinieks, piešaubinātājs, sašaubinieks, šaubonis, šaubinieks
+
+GG (good game!) ---> Paldies par sacentienu! (PPS!)
+GGWP (good game, well played!) ---> Labi rotaļāts, paldies par sacentienu! (LRPPS!), labi rotņāts!, [sarunvalodai] labi kapāts!, labi rukāts! / Labi sacentāties!, labi sacentāmies!
+GGEZ (good game. easy!) ---> Citkārt pacentieties!; Kā pa taukiem, paldies par uzvaru! (KPT, PPU!); Kā pa sviestu/sliedēm! Paldies par uzvaru! (KPSPPU!; KPS, PPU!), pat neiespringu/-ām, paldies par uzvaru!
+
+A glitch, gličs, gļuks ---> Klupe [V-T], klupiens
+
+To glow up ---> Uzziedēt, uzplaukt, uzzelt
+A glow-up ---> Uzzieds (dzejisks paveids), uzplaukums, uzziedējums, uzzǣlums (uzzēlums)
+
+A golf cap, a tartan golf cap ---> Žókejcæpure (dærǣtu aizvietot)
+
+A gunslinger, veikls šāvējs (letōnikā) ---> Aššāvis, ašrocis (pēc apvv. „greizrocis” 'nemākulis, kas šauj garām' parauga)
+H
+
+A headshot ---> Šāviens galvā
+To headshot (someone) ---> Iešaut galvā / [nogalināt] Nošaut galvā
+A headshot kill ---> Galvā nošautais / Nošauts galvā
+Headshot kills (rotaļas tašķu (punktu) koklentē ir dabīgā sarunā) ---> Galvā nošāvis cik {galvā nošāvis 13}, [sarunvalodai] cik galvu {man ira 13 galvas}
+
+To Hotwire ---> Apiet atslǣgu (apiet atslēgu savienojot vadiņus), iedarbināt vadiņiemi, iedarbināt ar vadiņiem
+Hotwired ---> Atslǣga apieta (atslēga apieta)
+
+A hypocrite ---> Divkosis [V-T]
+Hypocritical ---> Divkosīgs [V-T]
+Hypocrisy ---> Divkosība [V-T]
+I
+
+An intellect devourer, a brain-dog (agrāk), a rochnon (agrāk), intelekta rijējs (šādi dǣvǣts skatlentē „Dungeons and Dragons: Honour Among Thieves”) ---> Smadzeņsuns, prātlaupja suns, prātlaupjsuns, saprātīgo medinieks
+J
+
+Jesus christ! ---> Jēzus, Marija! [V-T]
+
+K
+
+Kills (rotaļas tašķu (punktu) koklentē ir dabīgā sarunā) ---> Iznīcinājis* {iznīcinājis 13 (pretiniekus)}, nogalinājis, nokāvis, [pārn. noz.] nopļāvis, [sarunvalodai] (no/pie)nobeidzis, novācis, nogāzis, (no/pie)žmiedzis, (no/sa)kapājis, nomaitājis, nolicis
+We have a kill! ---> Pretinieks/tēmenis (mērķis) iznīcināts!
+*Karaspǣkā lieto vārdu „iznīcināt”.
+
+A kitten ---> Væcoķere, tǣvķere (tēvķere), væcķere (vecķere), væco mediniece, væcmediniece, tǣvmediniece (tēvmediniece) / [diskórdā] Lutekle, mīlule | [mīļvārdiņš] Miņčuks, minkiņa, mincīte, luteklīte
+K.O.S (kill on sight) ---> (No)šaut bez brīdinājuma, [sarunvalodai] šaut kā rædz {šaujiet kā rædzat}
+
+
+L
+
+To lag, lagot, bremzēties ---> Ķerties, aizķerties
+Lag, lags ---> Ķeršanās, ķersme, aizķeršanās, aizķersme
+
+Lol (laughing out loud 'skaļi smejos', jeb 'rǣcu, zviedzu') ---> Zv (zviedzu), rc (rǣcu) / [izsmejošas attieksmes izrādīšanai] Elu (jānoskaidro izcelsmi)[APVV-T], el [APVV-T]
+Lmao (laughing my ass off 'nozviedzos, norǣcos) ---> Zvn (zviedzos nost, jeb 'zviedzos līdz nāvei, lejup arnu nost no kaut kā'), Rcn (rǣcos nost)
+Rofl (rolling on the floor laughing) ---> Zvr (zviegdams ripinos), rrc (rǣkdams ripinos), zvd (zviedzu dirsā), dzv (dirsā zviedzu), drc (dirsā rǣcu), szv (sazviedzos), src (rǣcos)
+
+Looped earrings, riņķauskari (rætāk sastopams ir iekļauj vācu vārdu) ---> Auskari-grædzæni
+M
+
+A mind flayer, a mindflayer, an illithid ---> Prātlaupis, [sarunvalodai] smadzeņēdis, [nievājoši] smadzeņēža, smadzeņēdaļa | [neitrāls vārds, kas atbilstu vārdam „illithid”] Prātvaldis
+
+N
+
+A nose ring ---> Dæguna durgrædzæns (deguna pīrsinga grædzæns), dæguna duramgrædzæns
+P
+
+A peasant (nievājoši) ---> Zeminieķelis [APVV-T] / [sarunvalodas nozīmei; kāds, kas ira zemas šķiras arnu lieto ko tai raksturīgu] Trūkulis / [sarunvalodas nozīmei; tāds, kas ko neprot] Nepraša [V-T], nemākulis [V-T], nemāķis [APVV-T], [nievājošāk] nemākaļa
+To ping (someone) ---> Piesaukt (kādu), iebakstīt (kādam), piepīkstināt (kādam)
+A ping ---> Piesauciens, iebaksts, iebaktiens, [sarunvalodai] piesauka (apvv. ar nozīmi 'refrēns')
+
+
+Ping ---> [lietotne] Aizkavrādis, aizkavnoteiklis / [laiks] Atbilžlaiks
+
+R
+Rawr! ---> Murr, ņau!, murr!, ņurr! (vārds „murr” apvienots ar „ņau!”) / [lauvas rēciens] Rrr!
+
+
+A roadkill ---> Nobrauktenis [V-C]
+
+To run-boost, to runboost („Counter-strike” termins) ---> Aizlidināt (līdz kaut kurienei); uzlidināt (līdz augstākai vietai); būt skrejceļam {būšu tev skrejceļš}
+
+To run and gun, to run n' gun ---> Šaut skriedamam {viņa šāva skriedama/skriedama šāva}
+S
+
+A scam ---> Krāpšanas veids, [sarunvalodai] krāpiens, apšmauciens, appisiens, krāpeklis ('tas, ar ko krāpj', jeb krāpšanas līdzeklis)
+
+Slop ---> Pļura [APVV-T],
+
+The spawn (rotaļātāju rašanās vieta pasaulē) ---> Dzimtuve, rastuve ('vieta, kur rodas rotaļātāji'), rasmene
+A spawnpoint ---> Rasmestašķis (sk. aizvietojumu vārdam „punkts”), dzimsttašķis
+To spawn ---> Rasties, (pie)dzimt / [Likt rasties] Radīt; dzemdēt
+To respawn ---> Pārrasties, atrasties; atdzimt, pārdzimt / [Likt atkal rasties] Atradīt, pārradīt
+To despawn ---> Izgaist / Izgaisināt
+
+Speedhack ---> Gaitātreklis, gaitasātreklis, (gaitas, kustības) virsātreklis, pārātreklis
+
+To speedrun (something) ---> Traukties (kam) cauri, brāzties (kam) cauri, ašpabeigt, ašizpildīt
+A speedrun ---> Caurtrauka, caurbrāze, caurbrāziens, ašbeidze, ašpilde
+A speedrunner ---> Caurtrauķis/-e, caurtraucis/-e/-ene, caurtraucinieks, caurbrāzis/-ene, ašbeidzinieks, caurbrāzinieks, ašpildis
+
+Stud earrings ---> Iekaltriņauskari (nagliņauskari), auskari-iekaltriņas (auskari-nagliņas), auskari-podziņas
+
+To stutter (par skaitļokli) ---> Raustīties [V-T]
+Stuttering ---> Raustīšanās [V-T], raustības
+T
+
+A teamkill ---> Savakāve, savkāve, pašukāve
+To teamkill ---> Kaut savējo, [saraunvalodai] Nobeigt savējo,
+
+A trade ---> Prečmaiņa [V-T]
+To trade (Counter-strike termins) ---> Atriebt (kādu), mīt nāves (pēc vārdu savienojuma „mīt grædzænus” parauga) / Veikt prečmaiņu, prečmaiņot
+A trade-kill ---> Atriebe [V-T], atriebiens, nāvjumija
+
+Trial by Combat ---> Tiesas divkauja [V-GŪGLE]
+
+To tryhard ---> Svīdelēt [PPV-T], lauzt darbus [V-T]
+A tryhard ---> Svīdelis, svīdoņa, svīdaļa, svīža
+U
+
+An undead ---> Pusmironis, nemironis, pusmirušais
+
+The underdark (D&D) ---> Zemzeme (šādi dǣvǣta skatlentē „Dungeons and Dragons: Honour Among Thieves”)
+V
+
+To upvote ---> Balsot par
+An upvote ---> Balss par
+To downvote ---> Balsot pret
+A downvote ---> Balss pret
+W
+
+Wallhack ---> Caurredze
+
+A wizard ---> Burtinieks (tulkojumos dǣvǣts vienkarši kā burvis, bet tas nav tas pats)[V-T]
+
+Whoa!, woah! ---> Ūja!, [retāk] ūjā!, ujā!, uja! / [sauciens ar ko mudina zirgu apstāties] Tprū!, tpr!, [apvv.] prus!, prū!, prrū!, tpru!, tprus!, tprusi!, trr!, trus!
+
+Womp, womp! (taures skaņas) ---> Šņuk, šņuk! (apzīmē klusu raudāšanu)[V-MPV]
+
+Wow!, vau! (kā suņa rējiens) ---> Bā! [V-T]
+Y
+
+Yawn! ---> Žāv! [V-C]
+

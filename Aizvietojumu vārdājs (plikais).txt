@@ -8,7 +8,6 @@ Dzeltens - pašaubīgs
 Sarkans - nedær
 Pelēks - visiem gadījumiem arnu nozīmēm nedær
 Plaukas nav - cits vārds, ko varbūt dærǣtu apsvērt
-
 Skaņu apzīmējumi:
 
 æ, ǣ = platais e, ē, kā vārdā „sæns”, „dzæltæns”, „æzærs”, „dzæsma” „(viņš, viņa, viņi) dzær”, „ǣsma”, „atvǣrts”, „kvǣls”, „(viņš, viņa, viņi) ǣd”
@@ -37,7 +36,6 @@ V-NPV = Vārds naujprūšu vārdājā
 IZC-K = Izcelsme Karuļa vārdājā
 IZC-W = Izcelsme Viktiónārijā (vietnē „Wiktionary”)
 IZC-C = Izcelsme citā avotā
-
 Vārdu izcelsmju avoti:
 Kónstantīna Karuļa etimólōģijas vārdājs
 
@@ -185,6 +183,8 @@ Attǣls (attēls) ---> Atveids [V-T]
 Attǣlot (attēlot) ---> Atveidināt, parādīt
 Attǣloties (attēloties) ---> Atveidināties, parādīties, atspoguļoties
 Attǣlojums (attēlojums) ---> Atveidinājums
+
+Atiet (ja runa nav par iešanu) ---> Izbraukt | Aizbraukt
 
 Atmósfēra (atmosfēra) ---> Gaisotne (vārds jau ietver divas aizguvuma nozīmes)
 
@@ -427,14 +427,14 @@ Uzbūve ---> Salikums | [miesu] Miesveids
 Iebūvēt ---> Ietaisīt
 Izbūvēt ---> Izsliet, izstatīt, [sarunvalodai] iztaisīt | [dažos gadījumos arī] Iekārtot [V-T], ierīkot [V-T]
 Pārbūvēt ---> Pārsliet, pārcelstīt, [sarunvalodai] pārtaisīt
-Pārbūve ---> Pārsliesme, pārstate, [sarunvalodai] pārtaisme
+Pārbūve ---> Pārsliešana, pārsliesme, pārstate, [sarunvalodai] pārtaisīšana, pārtaisme
 Būvǣtājs (būvētājs) ---> Slējējs, cēlējs, statītājs, celstītājs
 Būv(i)nieks, celtnieks ---> Slejinieks, celinieks, statinieks, celstinieks, uztaisinieks, uztaisis
 Būv(i)niecība, celtniecība ---> Slejiniecība, celiniecība, statiniecība
 Būvǣtava (būvētava) ---> Slietuve, taisītava, taisītne, cæltuve (celtuve), statītava
 Būve ---> Slejene, celtne, slejoklis, slietne, statoklis / Sliesme, celsme [V-T]
 Būvdarbi ---> Slejeņdarbi, celtnesdarbi, slejokļdarbi, slietnesdarbi
-Būvmateriāli ---> Slejlieteņi, ceļamlieteņi, ceļlieteņi, slejekļi, statlieteņi, celsteņi, celstekļi, cælstlieteņi (celstlieteņi),
+Būvmateriāli ---> Slejamlieteņi, ceļamlieteņi, slejlieteņi, ceļlieteņi statlieteņi, celsteņi, cælstlieteņi (celstlieteņi),
 C
 
 Cæna (cena) ---> Kriens [APVV-T][IZC-K], kriena, krienis [APVV-T], maksa, dosla, tirdze [PPV/apvn-T][V-K]
@@ -445,14 +445,14 @@ Pārcænot (pārcenot) ---> Pārkrienot
 
 Cilvēks (cilvēks) ---> Ļaudus, ļaudietis, ļaudenis (abu daudzuskaitam - ļaudis), zmunis (aptuvæni šādi izskatītos laikam bijušais vārds, kas vienas izcelsmes ar lietuvju „žmogus”, žemaišu „žmuogos”, sænlietuvju „žmuo”, prūšu „smoy”, „smonenawins”, „smūnets” (ja nemaldos, prūšu vārdus izrunā ar z. šis laikam ira kas līdzīgs mūsu væcajai rakstībai). varbūt saistīts arī apvv. „žmūglis” ir „žmulis”, lai gan otro laikam ietekmējis vārds „smulis” arnu ira vienas izcelsmes), zmuns, [sarunvalodai] ļaužs [APVV-T], [nievā́joši] ļauželis, ļautiņš [V-T], ļaudelis
 Cilvēciņš ---> Ļaudiņš, (ka vārds „aliņš”, „lietiņš”, apvv. „lædiņš”; varētu izklausīties pārāk līdzīgi vārdam „ļautiņš”) ļaudulis, ļaudutiņš (pēc vārda „mædutiņš”, „lietutiņš”, apvv. „lædutiņš” parauga)
-Cilvēcisks ---> Laudisks / [īpašība] Ļaudišķs, ļaudæns (ļaudens), ļaudīgs
-Cilvēciskums ---> Ļaudišķums, ļaudænums (ļaudenums), ļaudīgums
+Cilvēcisks ---> Ļaudisks / [īpašība] Sk. aizvietojumu vārdam „cilvēcīgs”
+Cilvēciskums ---> Sk. aizvietojumu vārdam „cilvēcīgums”
 Cilvēcīgs ---> Ļaudišķs, ļaudæns (ļaudens), ļaudīgs
 Cilvēcīgums ---> Ļaudišķums, ļaudænums (ļaudenums), ļaudīgums
 Cilvēcība ---> Ļaudišķība, ļaudænība (ļaudenība), ļaudība
 Cilvēciskot ---> Ļaudišķot, ļaudænot (ļaudenot), ļaudīgot, ļaudenišķot
 Cilvǣkveidīgs (cilvēkveidīgs) ---> Ļaudusveidīgs, ļaudusveida, ļaudiešveidīgs, ļaudeņveidīgs, [sarunvalodai] ļaužaveidīgs, ļaužaveida, ļaužveidīgs
-Cilvēce ---> Visļaude, visļaudājs, ļaudība, visļauda, visļaudiens, ļaudājs, ļaudiens
+Cilvēce ---> Ļaudība, visļaude, visļaudājs, visļauda, visļaudiens, ļaudājs, ļaudiens
 Cilvǣktiesības (cilvēktiesības) ---> Ļaudustiesības, [sarunvalodai] ļaužatiesības
 Cilvǣka bǣrns, cilvǣkbǣrns (cilvēka bērns, cilvēkbērns) ---> Ļaudusbǣrns (ļaudusbērns), [sarunvalodai] ļaužabǣrns (ļaužabērns)
 Cilvǣkdiena (cilvēkdiena) ---> Ļaudusdiena, [sarunvalodai] ļaužadiena
@@ -613,7 +613,7 @@ Printeris, drukātājs, iespiedierīce, druķis ---> Iespieslis, iespiedeklis
 Drukātava ---> Spiedinātne, iespiestne, iespiestuve [V-T], spiestuve [V-T], iespiestuve, spiedinātava
 Duets, duō (duo) ---> Divsniegums, divveika, divveikums | [tikai par deju arī] Divdeja [V-T] / Divatsniedzēji, divveicinieki
 
-Duša ---> Strūktuve, strūktne, šļāktuve, šļācene / [ūdensdziediniecības prócedūra] Strūcināšana
+Duša ---> Strūcene, strūktuve, strūktne, šļāktuve, šļācene / [ūdensdziediniecības prócedūra] Strūcināšana
 
 Dvielis ---> Noslauks, slaukāmais
 Pælddvielis ---> Pældslauks (peldslauks), peldesslauks
@@ -1210,8 +1210,8 @@ Kómentārs (komentārs) ---> Apbildums
 Kómentǣtājs (komentētājs) ---> Apbildējs
 Kómentatōrs (komentators), kómentǣtājs (komentētājs) ---> Apbildonis, apbildinieks, apbilstinieks
 
-Kómpānija (kompānija) ---> Kopatne, sabiedrība [V-T], līdzatne, sabūsme | Kopatninieki, sabiedrība, līdzatninieki, sabūsminieki / Sabiedrība {lidsabiedrība [V-T]}
-Kómpanjōns (kompanjons) ---> Kopatninieks, līdzatninieks
+Kómpānija (kompānija) ---> Kopatne, sabiedrība [V-T], līdzatne, sabūsme | Kopatninieki, kopatnieši, sabiedrība, līdzatninieki, sabūsminieki / Sabiedrība {lidsabiedrība [V-T]}
+Kómpanjōns (kompanjons) ---> Kopatninieks, kopatnietis, līdzatninieks, sabūsminieks
 
 Kómunicēt (komunicēt) ---> Sazināties
 Kómunicēties (komunicēties) ---> Sazināties
@@ -1468,7 +1468,7 @@ Lūzeris (zaudǣtājs, neveiksminieks) ---> Zaudoņa, zaudaļa, zauža, ļemurs 
 M
 
 Mačs, spēle ---> Sacentiens
-Matchmaking ---> Savesme (rotaļātāju savešana vienā serverī), savede (apvv. „saveds” 'savešana' sieviešu dzimtē)
+Matchmaking ---> Savešana, savesme (rotaļātāju savešana vienā serverī), savede (apvv. „saveds” 'savešana' sieviešu dzimtē)
 
 Maestrō (maestro) --->  Dižmākslinieks {skaņu dižmākslinieks} / [šahists] Dižšahists / [meistars] Sk. vārda aizvietojumu
 
@@ -1552,8 +1552,8 @@ Medaļa ---> Godazīme, godzīme, godeklis, godals
 Medaļ(i)nieks ---> Godzīminieks
 
 Mediķis ---> Kaišzinis, liginieks, ligzinis
-Medicīna ---> Kaišzinātne, liginiecība, ligzinātne
-Medicīnisks ---> Kaišzinātnisks, liginiecisks | Kaišziņa (kas, piem. palīdzība) / Dziediniecisks, dziedinošs, dziedējošs
+Medicīna ---> Kaišzinība (sal. ar vārdu „prečzinība”, „sǣklzinība”, „purvzinība”, „mežzinība”), kaišzinātne, liginiecība, ligzinātne
+Medicīnisks ---> Kaišzinisks, kaišzinātnisks, liginiecisks | Kaišziņa (kas, piem. palīdzība) / Dziediniecisks, dziedinošs, dziedējošs
 Medikaments, drapes ---> Dziedēklis, zāles
 
 Mehāniķis ---> Iekārtinieks, iekārtiķis / [fizikā] Mijiedarbinieks, mijiedarbiķis
@@ -1575,15 +1575,23 @@ Meistarojums ---> Taiselējums
 
 Meningīts ---> (Galvas) smadzeņapvalku karsonis, smadzeņapvalkkaise, galvas karsonis (labāk dærǣtu vārdam „encefalōmeningīts”)[APVV-T]
 
-Mērķis ---> Tēmenis, tēmeknis / [tas, ko tiecas paveikt, sasniegt] Tieksla, tiektne (vieta, apstākļi, stāvoklis uz kuru tiecas)
-Mērķ- ---> Tiekslisk(ai)s (kas, tieksliskie maksājumi), Tiekslas-(kas)
+Mērķis ---> Tēmenis, tēmeknis / [tas, ko tiecas paveikt, sasniegt] Tieksle, tiekals, tiecals, tiekurs, tiecurs, tiektne (vieta, apstākļi, stāvoklis uz kuru tiecas), tiektre, tiecenis, tiecums
+Mērķ- ---> Tiekslisk(ai)s (kas, tieksliskie maksājumi), Tieksles-(kas)
 Mērķēt ---> Tēmēt
-Mērķtiecīgs ---> Tiekslišķs, tiekslīgs, tiekslsniedzīgs, tieksltiecīgs,
-Mērķtiecīgums ---> Tiekslišķums, tiekslīgums
+Mērķtiecīgs ---> Tiekslišķs, tieksls, tiektrišķs, tiektinšķs, tiekslsniedzīgs, tieksltiecīgs,
+Mērķtiecīgums ---> Tiekslišķums, tiekslums, tiekslīgums
 Mērķtiecība ---> Tiekslišķība, tiekslība
-Galamērķis ---> Galatieksla
+Galamērķis ---> Galatieksle
 Bruņumērķis ---> Sargļutēmenis (sk. aizvietojumu vārdam „bruņas”)
 High-value Target (HVT) ---> Svarīgs tēmēnis
+
+Miers* (par prāta, miesu stāvokli) ---> Rimtība [V-T], rāmība [APVV-T]
+Mierīgs* ---> Rāms [V-T], rimts [V-T]
+Mierināt* ---> Rimdināt [APVV-T], rāmināt [NOVCV-T]
+Nomierināt* ---> Norimdināt [V-T], norāmināt
+Nomierināties* ---> Norimt [V-T], norimties [V-T]
+Apmierināt* ---> Aprimdināt, apremdināt [V-T], apremdēt [V-T]
+(Vairākums valodinieku uzskatot, ka vārdi nav aizgūti, bet gribu saglabāt šīs otras saknes atvasinājumus, kas mums kopīgi ar pārējiem baltiem. Šobrīd pārlieki valda vārds „miers” ir tā atvasinājumi, kas padara valodu vienmuļāku)
 
 Mikrófōns (mikrofons) ---> Skaņtveris
 
@@ -1601,7 +1609,7 @@ Militārisms ---> Vǣlāk kaut ko pielikšu
 Militārrūp(i)niecisks ---> Kararūpiniecisks
 Militārpsihólōģija (militārpsiholoģija) ---> Kariniekpsihólōģija (kariniekpsiholoģija), Karapsihólōģija (karapsiholoģija)
 
-Miskaste ---> Izmestne, atkritne (kā logu tulkojumā), [sarunvalodai] drazene / [sarunvalodas nozīmei] Izgāztuve
+Miskaste ---> Izmestne, izmetene, izsviedene, atkritne (kā logu tulkojumā), [sarunvalodai] drazene / [sarunvalodas nozīmei] Izgāztuve
 
 Mīna ---> Zemessprāglis / [šaujamā, metamā] Šaujamsprāglis
 Kóntaktmīna (kontaktmīna) ---> Saskarsprāglis, skāriensprāglis
@@ -1651,9 +1659,9 @@ Móš, móška (moš, moška; 'varbūt') ---> Varams, var (kā lietuviski)
 Mótócikls, mótōcikls (motocikls), [sarunvalodā] mócis (mocis) ---> Spararitenis
 Mótóciklists, mótōciklists (motociklists) ---> Sparariteņbraucis | [tāds, kas šobrīd brauc] sparariteņbraucējs / [spējinieks] Sparariteninieks
 
-Multiaugļu sula ---> Vairākaugļu sula (lietuviski: įvairių vaisių sultys 'dažādu augļu sula')
-Multiapstrāde ---> Vairākapdarsme (sk aizvietojumu vārdam „apstrāde” ir „strādāt”)
-Vairākuzdevumu apstrāde ---> Vairākapdarsme / [darbu sadale starp vairākiem savstarpēji saistītiem apdarekļiem] Vairākapdarekļošana
+Multiaugļu sula ---> Vairākaugļu sula (lietuviski: įvairių vaisių sultys 'dažādu augļu sula'), dažādaugļu sula
+Multiapstrāde ---> Vairākapdare (sk aizvietojumu vārdam „apstrāde” ir „strādāt”)
+Vairākuzdevumu apstrāde ---> Vairākapdare / [darbu sadale starp vairākiem savstarpēji saistītiem apdarekļiem] Vairākapdarekļošana
 
 Munīcija ---> Šauklas
 
@@ -1867,7 +1875,7 @@ Pilótzivs (pilotzivs) ---> Vadāmiķzivs, vadāmiķene, vadiniekzivs
 
 Pincete ---> Satverklītes, satverkļuki, satverkles (izskaņa daudzuskaitā kā vārdam „knaibles”, „maigles”, „lūkšas”, „spīles” ir „grieznes”)
 
-Pirāts ---> (Jūras, jūr-, gaisa, gais-, visuma, visum-) laupinieks  | Jūrlaupis | Gaislaupis, lidekļulaupis | Visumlaupis / Radoņpārkāpis (iekļauj aizvietojumu vārdam „autōrs”)
+Pirāts ---> (Jūras, jūr-, gaisa, gais-, visuma, visum-) laupinieks | Jūrlaupis | Gaislaupis, lidekļulaupis | Visumlaupis / Radoņpārkāpis (iekļauj aizvietojumu vārdam „autōrs”)
 Pirātisks ---> Laupiniecisks | Jūrlaupisks | Gaislaupisks | Visumlaupisks / Radoņpārkāpisks, radoņpārkāpjošs
 Pirātisms ---> Laupiniecība | Jūrlaupība | Gaislaupība | Visumlaupība / Radoņpārkāpība (iekļauj aizvietojumu vārdam „autōrs”)
 Pirātizdævums (pirātizdevums) ---> Neļautizdævums (neļautizdevums), pārkāpja/u izdævums
@@ -1901,8 +1909,8 @@ Izpostīt ---> Izārdīt, iznīcināt
 Postījums ---> Ārdījums, nīcinājums
 Postaža ---> Noārds, izārds, noārdava, izārdava (izskaņa pēc apvv. „postava” 'postaža' parauga), noārdene, izārdene
 Postītājs, postaž(i)nieks ---> Ārdītājs, nīcinātājs
-Posts ---> Zudība, nīcība / Nelaime
-Nelaime un posts ---> Nelaime ir zudība/nīcība
+Posts ---> Zudība, nīcība, nīksme, nīka / Nelaime
+Nelaime un posts ---> Nelaime ir zudība/nīcība/nīksme
 (Aiz)iet postā ---> (Aiz)iet zudībā/zudumā | [tikai par ļaudu] (Iz)dzist
 
 Pólicists (policists) ---> Kārtībsargs/-ene [V-T], kārtībinieks [V-T], likumsargs [V-T 'tiesībsargājošās iestādes (parasti kārtībsardzes) darbinieks']
@@ -1911,21 +1919,21 @@ Pólicija (policija) ---> Kārtībsardze, kārtībiniecība
 Pórtāls (portāls) ---> Durvjeja, durvjueja, lieldurve, diždurve, priekšdurve, divdurve / [fantastikā] Caurgaistne, gaisteja / [uz skatuves] Vǣlāk kaut ko pielikšu / [tehnikā] Vǣlāk kaut ko pielikšu
 
 Impórtēt (importēt) ---> Ievest [V-T]
-Impórts (imports) ---> Ievesme | Ievædums (ievedums)[V-T], ievæsma (ievesma)
+Impórts (imports) ---> Ievešana, ievesme | Ievædums (ievedums)[V-T], ievæsma (ievesma)
 Impórtprece (importprece) ---> Ievæsta prece, ievæstprece (ievestprece)
 Impórtǣtājs, importieris (importētājs, importieris) ---> Ievedējs [V-T]
 Ekspórtēt (eksportēt) ---> Izvest [V-T]
-Ekspórts (eksports) ---> Izvesme | Izvædums (izvedums)[V-T], izvæsma (izvesma)
+Ekspórts (eksports) ---> Izvešana, izvesme | Izvædums (izvedums)[V-T], izvæsma (izvesma)
 Ekspórtosta (eksportosta) ---> Izvædosta (izvedosta), izvesmes osta
 Ekspórtǣtājs, eksportieris (eksportētājs, eksportieris) ---> Izvedējs
 
-Precīzs ---> Tiekslišķs (visām nozīmēm. aizvietojums vārdam „mērķtiecīgs”. iedvæsma no lietuvju vārda), tieksls, tikrs [APVV-T](sk. vārda „tikrums” nozīmi. saistīts ar vārdu „ticēt”) | Tieššāvīgs, tiešs (šāviens) | Smalkdarbīgs, smalks [V-T]
-Precīza nauda ---> Tieša nauda (jau æsošs),
-Precīzi ---> Tiekslišķi, tieksli, [sarunvalodai] matā [V-T], uz mata [V-T], mats matā [V-T] | Tieššāvīgi, tieši | Smalkdarbīgi, smalki
-Precizitāte ---> Tiekslišķums, tiekslums, tikrums [V-T] | Tieššāvīgums, (šāviena) tiešums | Smalkdarbīgums, smalkums
-Precīzijas (kas) ---> Smalkdarbu (kas), smalkdarbīgais, smalkdarbiskais, smalkais | Smalkdarinātais, smalkdarītais, smalktaisītais
-Precizēt ---> (Pa)tiekslænot (tiekslenot), (pa)tiekslināt ('padarīt tiekslu' (mērķtiecīgu, precīzu)), (pa)tiekslišķot, (pa)tiešināt
-Precizējums ---> Tiekslænojums (tiekslænojums), tiekslinājums, tiekslišķojums, tiešinājums
+Precīzs ---> Tieksls (visām nozīmēm. aizvietojums vārdam „mērķtiecīgs”. iedvæsma no lietuvju vārda), tiekslæns, tiekslišķs, tikrs [APVV-T](sk. vārda „tikrums” nozīmi. saistīts ar vārdu „ticēt”) | Tieššāvīgs, tiešs (šāviens) | Smalkdarbīgs, smalks [V-T]
+Precīza nauda ---> Tieksla nauda, tieša nauda (jau æsošs),
+Precīzi ---> Tieksli, tiekslæni, [sarunvalodai] matā [V-T], uz mata [V-T], mats matā [V-T] | Tieššāvīgi, tieši | Smalkdarbīgi, smalki
+Precizitāte ---> Tiekslums, tikrums [V-T] | Tieššāvīgums, (šāviena) tiešums | Smalkdarbīgums, smalkums
+Precīzijas (kas) ---> Tiekslais (kas), tieksluma (kas), smalkais (kas), smalkdarbu (kas), smalkdarbīgais, smalkdarbiskais
+Precizēt ---> (Pa)tiekslināt ('padarīt tiekslu' (mērķtiecīgu, precīzu)), (pa)tiekslænot (tiekslenot), (pa)tiekslišķot, (pa)tiešināt
+Precizējums ---> Tiekslinājums, tiekslišķojums, tiešinājums
 
 Presēt ---> Spaidīt, slogot, slodzināt
 Presǣtava (presētava) --->
@@ -1939,6 +1947,13 @@ Prógrammēšana (programmēšana) ---> Lietotniniecība
 Prógrammǣtājs, prógrammists (programmētājs, programmists) ---> Lietotninieks, lietotņudaris
 Prógramma (programma) ---> Lietotne
 Prógrammatūra (programmatūra) ---> Lietotnājs, lietotnes, lietotniens
+
+Prógresēt (progresēt) ---> Pavirzīties, priekšupot, priekšupināt (kā vārds „turpināt”)
+Prógresējošs (progresējošs) ----> Virzīgs, attīstīgs, ritošs, risošs
+Prógress (progress) ---> Pavirzība, priekšupvirze, pavirze, priekšupība, augšupeja [V-T]
+Prógresīvs (progresīvs) ---> Priekšupinieks, priekšupiķīgs, pavirziniecisks, priekšupæns (priekšupens)
+Prógresīvais (progresīvais) ---> Priekšupinieks, priekšupiķis, priekšupis/-e
+Prógresivitāte (progresivitāte) ---> Priekšupiniecība, priekšupiķība, priekšupība, pavirziniecība
 
 Prótektōrs (protektors) ---> Sardzeklis {ierīces, riteņvalka sardzeklis} | (Riteņa) valkasargs/valksargs, (riteņvalka) sardzeklis
 
@@ -1964,7 +1979,7 @@ Pulvermuca ---> Milummuca, milasmuca, miltišķmuca
 Pulverizēt ---> Smidzināt
 Pulverizatōrs (pulverizatōrs) ---> Smidzeklis
 
-Punkts ---> Tašķis [APVV-T1][APVV-T2][APVV-T3][APVV-T4][APVV-T5](iedvæsma no lietuvju vārda „taškas” 'punkts' ir tiem mūsu apvidvārdiem. žemaitiski - „poškis”) {sākuma, izejas, atbalsta, kulminācijas, pagrieziena, augstākais, vārīšanās tašķis, lietisku tašķu sistēma (materiālu punktu sistēma)}, zirņuks, zirnulis, galazīme, galeklis, galis, beiglis / [snieguma svēršanas vienība sacensībās i. tml.] Tašķis (šai nozīmei lieto lietuvji), pelnelis, pelnulis, pelnenis, pælnvienība / Vieta | [tieša, tieši noskaidrota] Vietiņa {...kur upes saplūst vienā vietiņā; vietiņa, kur varam nodibināt sakarus ar viņu jūreni}, vietele, kur tieši {noskaidrosim kur tieši sākas Urāli}, vietuks, vietīna / [iekārtota celtne, tælpa, vieta kādam nolūkam] Novietne {pārsiešanas, iesaukšanas, novǣrošanas novietne} / [cǣlonis, iemesls] Pamats {lūzuma, atspēriena pamats}[V-T] / [Maiņas robeža] (rasas, nulles) Mainoklis / [strāvekliskās ķēdes elementu savienojumu vieta] Mæzgls (mezgls)[V-T]
+Punkts ---> Tašķis [APVV-T1][APVV-T2][APVV-T3][APVV-T4][APVV-T5](iedvæsma no lietuvju vārda „taškas” 'punkts' ir tiem mūsu apvidvārdiem. žemaitiski - „poškis”) {sākuma, izejas, atbalsta, kulminācijas, pagrieziena, augstākais, vārīšanās tašķis, lietisku tašķu sistēma (materiālu punktu sistēma)}, zirņuks, zirnulis, galazīme, galeklis, galis, beiglis / [snieguma svēršanas vienība sacensībās i. tml.] Tašķis (šai nozīmei lieto lietuvji), pelnelis, pelnulis, pelnenis, pælnvienība / Vieta | [tieša, tieši noskaidrota] Vietiņa {...kur upes saplūst vienā vietiņā; vietiņa, kur varam nodibināt sakarus ar viņu jūreni}, vietele, kur tieši {noskaidrosim kur tieši sākas Urāli}, vietuks, vietīna / [iekārtota celtne, tælpa, vieta kādam nolūkam] Novietne {pārsiešanas, iesaukšanas, novǣrošanas novietne} / [cǣlonis, iemæsls] Pamats {lūzuma, atspēriena pamats}[V-T] / [Maiņas robeža] (rasas, nulles) Mainoklis / [strāvekliskās ķēdes elementu savienojumu vieta] Mæzgls (mezgls)[V-T]
 Daudzpunkte ---> Daudztašķe
 Punktēt ---> Tašķot
 Punktǣts (punktēts) ---> Tašķots
@@ -2095,6 +2110,18 @@ Rezultativitāte ---> Atdeve
 Rezultēties ---> Beigties (ar ko)
 Rezultējošs ---> Iznākošs, sanākošs
 
+Rēķināt ---> Lēst [V-T], skaišķot (iedvæsma no lietuvju vārda)
+Aprēķināt ---> Aplēst [V-T], izlēst [APVV-T], apšķaišķot, izskaišķot, apskaitīt [APVV-T]
+Rēķins ---> Lǣsums (lēsums), lēse [NOVCV-T] | Lēšana / [] Salǣsums (salēsums) | Salēšana, salēse
+Reizrēķina tabula, reizrēķins ---> Kārtlēsene, kāršotne
+Aprēķins ---> Aplǣsums (aplēsums)[V-T], aplēse [V-T]
+Norēķināt ----> Sk. aizvietojumu vāārdam „atrēķināt” / [appierēt] Apsvērt
+Norēķināties ----> Samaksāt / [atriebties] Atlīdzināties
+Norēķins ---> Maksājums, atskaits [APVV-T] /
+Uzrēķināt ---> Uzlēst [NOVCV-T], uzskaišķot
+Uzrēķins ---> Uzlǣsums (uzlēsums)[NOVCV-T], uzlēse [NOVCV-T]
+Atrēķināt ---> Atlēst, atskaitīt [V-T], atskaišķot
+
 Riba ---> Sānkauls (apvv.; šādi mēs to dēvējām agrāk; lietuvji tā dēvē joprojām („šonkaulis”)), [sarunvalodai] sānelis | sāni {gūt pa sāniem}
 
 Riepa ---> Riteņvalks, riteņapvalks
@@ -2119,13 +2146,21 @@ Sarullēties ---> Saritināties, satīties
 (Ratu, riteņa) rumba ---> Maule (apvv.; no vārda „maut” 'maukt'; šādi dēvē arī latgaļi)
 S
 
+Apmest saltō ---> Apsviesties
+Saltō (salto) ---> Apsvieds, apsviediens, apmetiens, gaiskūlenis, gaisakūlenis
+Dubultsaltō ---> Divkāršapsvieds
+Saltō uz priekšu, priekšupsaltō ---> Apsvieds priekšup, priekšupapsvieds, priekšupsviesme, priekšupsviešanās
+Veikt saltō uz priekšu ---> Apsviesties priekšup
+Atmuguriskais saltō, atpakaļsaltō ---> Atsviešanās, atsvieds, apsvieds atmuguriski, atmuguriskais apsvieds
+Veikt atmugurisko saltō ---> Apsviesties atpakaļ, atsviesties
+
 Salvete ---> Slaučuks
 
 Satelīts, mākslīgais pavadonis ---> Pavadīklis, pavadeklis, pavadoklis
 Satelītiekārta ---> Pavadīklis, pavadošā iekārta
 Satelītattǣls (satelītattēls) ---> Pavadīkļatveids (sk. aizvietojumu vārdam „attǣls”)
 
-Sekss, dzimumakts ---> Miesla [APVV-T][IZC-K], mieslības ('mieslošanās', izskaņa kā piemēram vārdam „viesības” 'viesošanās'), miesle [APVV-T], [sarunvalodai] miesojiens, kniebiens, pisiens, piša | [nepabeigta darbība] Miesošanās, kniebšanās, pišanās
+Sekss, dzimumakts ---> Miesle [APVV-T][IZC-K], mieslības ('mieslošanās', izskaņa kā piemēram vārdam „viesības” 'viesošanās'), miesla [APVV-T], [sarunvalodai] miesojiens, kniebiens, pisiens, piša | [nepabeigta darbība] Miesošanās, kniebšanās, pišanās
 Seksuāls ---> Mieslisks / Miesls [APVV-T], mieslišķs, mieslīgs, mieslæns (mieslens), dzimumtieksms (izskaņa kā piemēram vārdam „līksms”, „drausms”, „baisms”), mieslisks
 Seksualitāte, seksualisms ---> Mieslība {mieslības kómercializācija}, dzimumtieksme, mieslišķība | Mieslības paveids, dzimumtieksmes paveids, mieslības veids, mieslība
 Seksīgs ---> Mieslinošs, uzbudinošs
@@ -2198,12 +2233,12 @@ Sinóptiķis (sinoptiķis) ---> Gaisinieks, gaisreģis, gaisapstāklinieks, laik
 Sinóptisks (sinoptisks) ---> Gaisiniecisks
 Sinóptika (sinoptika), sinóptiskā meteórólōģija --> Gaisiniecība, gaisapstākliniecība, laikreģība
 
-Skelets, ģindenis (lietuvvārds [IZC-C]) ---> Kaulājs [V-T], kauliens, kaulojums, kauliens
+Skelets, ģindenis (lietuvjvārds [IZC-C]) ---> Kaulājs [V-T], kauliens, kaulojums, kauliens
 
 Skola ---> Mācītne, mācīkla (kā lietuviski), mācītava [APVV-T], glītotava
 Skolotājs ---> Mācinieks
-Skol(i)nieks ---> Mācītnenis/-e, mācītnietis/-e, māceklis/-e (kā lietuvju vārds „mokinys”, kas nozīmē arī 'māceklis') | [tikai par meiteni, lai nošķirtu locījumus] Māceklene, mācītnene
-Skol(i)nieciskums ---> Mācītneniskums
+Skol(i)nieks ---> Mācītnenis/-e, mācītnietis/-e, mācītnurs, māceklis/-e (kā lietuvju vārds „mokinys”, kas nozīmē arī 'māceklis') | [tikai par meiteni, lai nošķirtu locījumus] Māceklene, mācītnene
+Skol(i)nieciskums ---> Mācītnenišķums
 Skolǣns (skolēns) ---> Mācītnǣns (mācītnēns), māceklǣns (māceklēns)
 Skolasbiedrs, skolas biedrs ---> Mācītnesbiedrs
 Skolot ---> Izglītot, mācīt (mācītnē)
@@ -2235,7 +2270,7 @@ Nav visas skrūves/skrūvītes kārtībā ---> Nav visu iegriežņu, ne visi ieg
 
 Skurstenis ---> Dūmenis [V-T]
 
-Slikts, švaks ---> [Vispārīgi] Nelabs {nelaba dūša, paliek nelabi, nelabais}[V-T], pliekans [V-T], nelāgs (pārn. n.)[V-T], nebalts (pārn. n.)[V-T], [sarunvalodai] tārpains [V-T], smirdīgs [V-T], sūnains [V-T], čābīgs (jānoskaidro izcelsme)[V-T], kaulains, mīksts [V-T], [jaudīgāk] caureja {tā ira galīga caureja}, caurejains, pļūtas [APVV-T][V-T], pļūtains, sutrains, sutra, maucīgs [V-T], dirsts [V-T] |
+Slikts, švaks ---> [Vispārīgi] Nelabs {nelaba dūša, paliek nelabi, nelabais}[V-T], pliekans [V-T], nelāgs (pārn. n.)[V-T], nebalts (pārn. n.)[V-T], [sarunvalodai] tārpains [V-T], smirdīgs [V-T], sūnains [V-T], čābīgs (jānoskaidro izcelsmi)[V-T], kaulains, mīksts [V-T], [jaudīgāk] caureja {tā ira galīga caureja}, caurejains, pļūtas [APVV-T][V-T], pļūtains, sutrains, sutra, maucīgs [V-T], dirsts [V-T] |
 ['kaitīgs, nepatīkams'] Ļauns {ļauni par kādu runāt; ļaunu nodarīt; nākt par ļaunu}, [ļoti nelabs] drausms {patiešām drausma diena}, drausmīgs |
 ['ar pamazinātām spējām, nesparīgu norisi'] Vājš/vārgs/vārs {vārgs apgaismojums rotaļātājs; viņš vārgi rotaļā; nevāja svētdiena; nevāji, ne?} /
 [anglisks aizguvuma lietojums] Kaitīgs {tu man esi kaitīgs; alkóhōla lietošana ira kaitīga veselībai} | Kaitēt {šitais mums kaitēs} /
@@ -2456,12 +2491,12 @@ Tóp 5 ---> 5 labākie | 5. labākais
 Tóp 2 ---> 2 labākie | 2. labākais
 Tóp 1 ---> Vislabākais
 
-Tórpēda (torpēda) ---> Pældpalaisls, ūdenspalaisls
+Tórpēda (torpēda) ---> Pældpalaisls (peldpalaisls), ūdenspalaisls
 Tórpedēt, tórpēdēt (torpedēt, torpēdēt) ---> (Pæld)palaislot
 
 Tósteris (tosteris), grauzdǣtājs (grauzdētājs) ---> Grauzdeklis
 
-Tramplīns, batuts ---> Palēklis, lakstīkla (no vārda „lakstīt” 'lǣkāt')
+Tramplīns, batuts, atlēktne (novc.) ---> Palēklis, palēktne, lakstīkla (no vārda „lakstīt” 'lǣkāt')
 Tramplīna lēcējs ---> Palēklinieks
 
 Tramvajs ---> Ielvilciens
@@ -2475,7 +2510,7 @@ Transfōbisks (transfobisks) ---> Pretpārdzimtiniecisks, pārdzimtinieku netī�
 Transfōbija (transfobija) ---> Pretpārdzimtiniecība, pārdzimtinieku netīķība, pārdzimtinieknetīķība, pretpārejiniecība
 
 Tranzīts ---> Caurbrauksme, caurbrauka, caurvede
-Tranzītceļš ---> Caurbraucamceļš, caurbrauksmes ceļš, caurbraukceļš, caurbrauktuve
+Tranzītceļš ---> Caurbraucamceļš, caurceļš, caurbrauksmes ceļš, caurbraukceļš, caurbrauktuve
 Tranzītkrava ---> Caurbraucoša krava
 Tranzītpārvadājums ---> Caurpārvadājums
 Transitīvs ---> Pārejošs | [vārds] Pārejošenis, pārejošnis, pārejošs darbībenis / [matemātikā] Vǣlāk kaut ko pielikšu
@@ -2532,15 +2567,15 @@ Vai nu X, vai Y ---> Arnu X, arnu Y, arīdz X, arīdz Y, arba X, arba Y [V-LIET]
 Vai tad? ---> Arnu?, argi?, arīdzan?, arīdz?, arīgi?, arīg?
 
 Vajadzēt ---> Nākties (kā; tāpat kā ar vārdu „trūkt”)[V-T] {izdarīt kā nākas [V-T]} | Pienākties {viņam pienākas dāvana} | Trūkt (kā, piem. trīs lapu) / [tas, ko ira jāizdara, kam jānotiek arnu kā jābūt] Jā- {man jāzina}
-Vajadzība ---> Nāksme (izskaņa -sme lietota kā izskaņa -šanās. sk. vārrdares sadaļu), nākums (ieteica Lauma), nācība
+Vajadzība ---> Nāksma (izskaņa -sme lietota kā izskaņa -šanās. sk. vārrdares sadaļu), nāksme, nākums (ieteica Lauma), nācība
 Vajadzīgs ---> Nāksmæns (nāksmens), nāksmišķs, nācīgs
 Nevajadzīgs ---> Nenāksmæns, lieks, nenāksmišķs
 Vajadzīgums ---> Nāksmænums (nāksmenums), nāksmišķums
-Pēc vajadzības ---> Pēc nāksmes
-Vajadzības gadījumā ---> Nāksmes gadījumā
-Vajadzības izteiksme ---> Nāksmes izteiksme
+Pēc vajadzības ---> Pēc nāksmas
+Vajadzības gadījumā ---> Nāksmas gadījumā
+Vajadzības izteiksme ---> Nāksmas izteiksme
 
-Valis ---> Bangonis ('tāds, kas bandzina, jeb liek ūdenim bangot', pēc lietuvju vārda („banginis”) parauga), viļņonis, dižzivs [NOVCV-T 'ļoti liela zivs']
+Valis ---> Bangonis ('tāds, kas bandzina, jeb liek ūdenim bangoties', pēc lietuvju vārda („banginis”) parauga), viļņonis, dižzivs [NOVCV-T 'ļoti liela zivs']
 
 Vampīrs ---> Asinssūks, asinssūcis, [nievājoši] asinssūcelis, asinssūcaļa, asinssūča / [siksspārnis] sk. aizvietojumu vārdam „vampīrsikspārnis”
 Vampirólōģija (vampiroloģija) ---> Asinssūciniecība
@@ -2678,7 +2713,7 @@ Zvērināt ---> Uzgalvināt, aizgalvināt
 
 Zummers ---> Dūceklis
 
-Zupa ---> Vírums, vira (abi jau æsoši [1][2][3]), strǣba (apvv.; strēba), [sarunvalodai] strebeklis [VV-T]
+Zupa ---> Vírums, vira (abi jau æsoši [1][2][3]), [sarunvalodai] strǣba (apvv.; strēba), strebeklis [VV-T]
 Ž
 
 Žanrs ---> (Mākslas)šķira {skaņumākslas šķira, skatāmlenšu šķira}
@@ -2686,9 +2721,9 @@ Zupa ---> Vírums, vira (abi jau æsoši [1][2][3]), strǣba (apvv.; strēba), [
 Žanriskums ---> (Mākslas)šķiriskums
 Žanrists ---> Mākslinieks
 
-Žǣl (žēl) ---> (Man) iesāpas, sirds iesāpas, (man) dzeļas {man par tevi dzeļas}[V-T1][V-T2], dzǣla (dzēla)[IZC-K] / Skumji
+Žǣl (žēl) ---> (man) sūrst, sūrstina, (Man) iesāpas, sirds iesāpas, (man) dzeļas {man par tevi dzeļas}[V-T1][V-T2], dzǣla (dzēla)[IZC-K] / Skumji
 Nav žǣl ---> Neiesāpas {man, viņam neiesāpas}, nedzeļas, nav dzǣlas
-Žǣlums (žēlums) ---> Iesāpsme, iesāpēšanās, dzǣlums (dzēlums) | Iesāpēties {uznāca žēlums ---> iesāpējās}
+Žǣlums (žēlums) ---> Iesāpsme, iesāpēšanās | Iesāpēties {uznāca žēlums ---> iesāpējās}
 Žēlīgs ---> Iesāpsmæns, saudzīgs, dzǣlīgs (dzēlīgs)
 Žēlīgums ---> Iesāpsmænums, saudzīgums
 Žǣlastība (žēlastība) ---> Iesāpsmība, iesāpsme, dzǣlastība (dzēlastība)[APVV-T]
@@ -2701,14 +2736,14 @@ Nav žǣl ---> Neiesāpas {man, viņam neiesāpas}, nedzeļas, nav dzǣlas
 Žǣls (žēls) ---> Gaužs [V-T], gauds (novæcojis [V-T])
 Žǣlabas, žǣlas (žēlabas, žēlas) ---> Gaudulības, gaudulība
 Žǣlabains (žēlabains) ---> Gaudulīgs [V-T], gaudīgs [V-T], raudulīgs [V-T],
-Apžǣlot (apžēlot) ---> Pasaudzēt, piedot, apdzǣloties (apdzēloties)
+Apžǣlot (apžēlot) ---> Pasaudzēt, piedot
 Apžǣlošana (apžēlošana), žēlība ---> Pasaudzēšana
 Nožǣlot (nožēlot) ---> Atsāpēt [APVV-T], nodzǣlot (nodzēlot)
 Nožǣla (nožēla) ---> Atsāpsme, atsāpes [V-T],
 Nožǣlošana (nožēlošana) ---> Atsāpēšana
-Nožǣlojams (nožēlojams) ---> Bēdīgs {bēdīga paskata ļaudus}, skumīgs, apsāpāms, nodzǣlojams (nodzǣlojams) | Nīkulīgs [V-T]
+Nožǣlojams (nožēlojams) ---> Apskumjams, bēdīgs {bēdīga paskata ļaudus}, skumīgs, apsāpāms, nodzǣlojams (nodzǣlojams) | Nīkulīgs [V-T]
 Diemžǣl (diemžēl) ---> Par nelaimi [V-T]
-Cik žǣl! ---> Cik skumji!, kā iesāpas!
+Cik žǣl! ---> Cik skumji!, kā sūrst!, kā iesāpas!
 Mī un žē! ---> Dievs, mīļais!
 
 Žigls ---> Ašs [V-T] [V-T], šukls [APVV-T][IZC-K], naigs [V-T], mudīgs [V-T], knašs (varbūt aizgūts lejasvācu „knasch” 'steidzīgs, ātrs, veikls', bet Karulis pieļauj, ka varbūt aizgūts no mums, jo tas dzirdǣts tikai bavāriešu izloksnēs)[V-T]
