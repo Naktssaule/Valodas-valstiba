@@ -489,9 +489,6 @@ Balss čats ---> Runātne, sarune
 Četrciparu (kas) ---> Cæturskaitleņu (kas)
 Četrcēlienu (kas) ---> Cæturcēlienu (kas)
 
-Čil, čill, chill ---> Laisks [V-T], kūkotišķs, kūkotīgs, kūkojošs | Kūkonis {viņš ira kūkonis}
-Čilot, čillot, to chill ---> Laiskot [V-T], kūkot [V-T]
-
 Čipsi ---> Kraukšķeņi (vienaskaitā - „kraukšķenis”), kraukšķi (ir dzirdams)
 
 Čólka (čolka), pónijs (ponijs) ---> (Pieres)cirpteļi (iedvæsma no lietuvju vārda („kirpčiai”, jeb atveidojot latviski - „cirpčji”)), cirpteļi, griezteļi, piercirpe ('pierescirpums')
@@ -1579,20 +1576,20 @@ Meistarojums ---> Taiselējums
 
 Meningīts ---> (Galvas) smadzeņapvalku karsonis, smadzeņapvalkkaise, galvas karsonis (labāk dærǣtu vārdam „encefalōmeningīts”)[APVV-T]
 
-Mērķis ---> Tēmenis, tēmeknis / [tas, ko tiecas paveikt, sasniegt] Tieksle, tiekals, tiecals, tiekurs, tiecurs, tiektne (vieta, apstākļi, stāvoklis uz kuru tiecas), tiektre, tiecenis, tiecums
-Mērķ- ---> Tiekslisk(ai)s (kas, tieksliskie maksājumi), Tieksles-(kas)
+Mērķis ---> Tēmenis, tēmiņš, tēmeknis / [tas, ko tiecas paveikt, sasniegt] Tiekums, tieka, tieksle, tiekals, tiekurs, tiektne (vieta, apstākļi, stāvoklis uz kuru tiecas), tiektre, tiecenis, tieksne, tiecums
+Mērķ- ---> Tiekumisk(ai)s {tiekumiskie maksājumi}, tiekas-(kas), tiekslisk(ai)s (kas, tieksliskie maksājumi), tieksles-(kas)
 Mērķēt ---> Tēmēt
-Mērķtiecīgs ---> Tiekslišķs, tieksls, tiektrišķs, tiektinšķs, tiekslsniedzīgs, tieksltiecīgs,
-Mērķtiecīgums ---> Tiekslišķums, tiekslums, tiekslīgums
-Mērķtiecība ---> Tiekslišķība, tiekslība
-Galamērķis ---> Galatieksle
+Mērķtiecīgs ---> Tiekumsniedzīgs, tiekslišķs, tieksls, tiektrišķs, tiekslsniedzīgs, tieksltiecīgs,
+Mērķtiecīgums ---> Tiekumsniedzīgums, tiekslums, tiekslīgums
+Mērķtiecība ---> Tiekumsniedzība, tiekslība
+Galamērķis ---> Galatiekums, galatieka, galatieksle
 Bruņumērķis ---> Sargļutēmenis (sk. aizvietojumu vārdam „bruņas”)
-High-value Target (HVT) ---> Svarīgs tēmēnis
+High-value Target (HVT) ---> Svarīgs tēmenis
 
-Miers* (par prāta, miesu stāvokli) ---> Rimtība [V-T], rāmība [APVV-T]
-Mierīgs* ---> Rāms [V-T], rimts [V-T]
-Mierināt* ---> Rimdināt [APVV-T], rāmināt [NOVCV-T]
-Nomierināt* ---> Norimdināt [V-T], norāmināt
+Miers* (par prāta, miesu stāvokli) ---> Rimtība [V-T], rāmība [APVV-T],
+Mierīgs* ---> Rāms [V-T], rimts [V-T],
+Mierināt* ---> Rimdināt [APVV-T], rāmināt [NOVCV-T], remdināt [V-T]
+Nomierināt* ---> Norimdināt, norāmināt
 Nomierināties* ---> Norimt [V-T], norimties [V-T]
 Apmierināt* ---> Aprimdināt, apremdināt [V-T], apremdēt [V-T]
 (Vairākums valodinieku uzskatot, ka vārdi nav aizgūti, bet gribu saglabāt šīs otras saknes atvasinājumus, kas mums kopīgi ar pārējiem baltiem. Šobrīd pārlieki valda vārds „miers” ir tā atvasinājumi, kas padara valodu vienmuļāku)
@@ -1627,7 +1624,7 @@ Atmīnēt ---> Atsprāgļot
 Móbilizēt (mobilizēt) ---> Iesaukt [V-T]
 Móbilizācija (mobilizācija) ---> Iesaukšana / Iesaukums [V-T]
 
-Módelis (modelis), pōzǣtājs (pozētājs) ---> Raudzeknis [APVV-T1][APVV-T2], parauginieks | [nedzīvs] Raudzeklis [APVV-T] / [samazināts, tiekslišķs kādas lietas atveidojums] Raudzeklītis, raudzeklelis, raudzeklutis, raudzekluzis, raudzeklīns, raudzekļkuks / Paraugs {sparabrauka paraugs}, paveids / [Darbības veids] Vǣlāk kaut ko pielikšu
+Módelis (modelis), pōzǣtājs (pozētājs) ---> Raudzeknis [APVV-T1][APVV-T2], parauginieks | [nedzīvs] Raudzeklis [APVV-T] / [samazināts, tiekumišķs kādas lietas atveidojums] Raudzeklītis, raudzeklelis, raudzeklutis, raudzekluzis, raudzeklīns, raudzekļkuks / Paraugs {sparabrauka paraugs}, paveids / [Darbības veids] Vǣlāk kaut ko pielikšu
 Módelēt (modelēt) --->
 Módelēšana (modelēšana) --->
 Módelējums (modelējums) --->
@@ -1922,22 +1919,22 @@ Pólicija (policija) ---> Kārtībsardze, kārtībiniecība
 
 Pórtāls (portāls) ---> Durvjeja, durvjueja, lieldurve, diždurve, priekšdurve, divdurve / [fantastikā] Caurgaistne, gaisteja / [uz skatuves] Vǣlāk kaut ko pielikšu / [tehnikā] Vǣlāk kaut ko pielikšu
 
-Impórtēt (importēt) ---> Ievest [V-T]
+Impórtēt (importēt) ---> Ievest [V-T], ievedināt ('likt ievest')
 Impórts (imports) ---> Ievešana, ievesme | Ievædums (ievedums)[V-T], ievæsma (ievesma)
 Impórtprece (importprece) ---> Ievæsta prece, ievæstprece (ievestprece)
-Impórtǣtājs, importieris (importētājs, importieris) ---> Ievedējs [V-T]
-Ekspórtēt (eksportēt) ---> Izvest [V-T]
+Impórtǣtājs, importieris (importētājs, importieris) ---> Ievedējs [V-T],
+Ekspórtēt (eksportēt) ---> Izvest [V-T],
 Ekspórts (eksports) ---> Izvešana, izvesme | Izvædums (izvedums)[V-T], izvæsma (izvesma)
 Ekspórtosta (eksportosta) ---> Izvædosta (izvedosta), izvesmes osta
 Ekspórtǣtājs, eksportieris (eksportētājs, eksportieris) ---> Izvedējs
 
-Precīzs ---> Tieksls (visām nozīmēm. aizvietojums vārdam „mērķtiecīgs”. iedvæsma no lietuvju vārda), tiekslæns, tiekslišķs, tikrs [APVV-T](sk. vārda „tikrums” nozīmi. saistīts ar vārdu „ticēt”) | Tieššāvīgs, tiešs (šāviens) | Smalkdarbīgs, smalks [V-T]
-Precīza nauda ---> Tieksla nauda, tieša nauda (jau æsošs),
-Precīzi ---> Tieksli, tiekslæni, [sarunvalodai] matā [V-T], uz mata [V-T], mats matā [V-T] | Tieššāvīgi, tieši | Smalkdarbīgi, smalki
-Precizitāte ---> Tiekslums, tikrums [V-T] | Tieššāvīgums, (šāviena) tiešums | Smalkdarbīgums, smalkums
-Precīzijas (kas) ---> Tiekslais (kas), tieksluma (kas), smalkais (kas), smalkdarbu (kas), smalkdarbīgais, smalkdarbiskais
-Precizēt ---> (Pa)tiekslināt ('padarīt tiekslu' (mērķtiecīgu, precīzu)), (pa)tiekslænot (tiekslenot), (pa)tiekslišķot, (pa)tiešināt
-Precizējums ---> Tiekslinājums, tiekslišķojums, tiešinājums
+Precīzs ---> Tiekumišķs (atvasināts no aizvietojuma vārdam „mērķis”. visām nozīmēm. iedvæsma no lietuvju vārda, kas nozīmē arī 'mērķtiecīgs'), tieksls, tiekslæns, tiekslišķs, tikrs [APVV-T](sk. vārda „tikrums” nozīmi. saistīts ar vārdu „ticēt”) | [tikai par ieroci] Tieššāvīgs, tiešs (šāviens) | Smalkdarbīgs, smalks [V-T]
+Precīza nauda ---> Tiekumišķa nauda, tieša nauda (jau æsošs), tieksla nauda
+Precīzi ---> Tiekumišķi, tieksli, tiekslæni, [sarunvalodai] matā [V-T], uz mata [V-T], mats matā [V-T] | Tieššāvīgi, tieši | Smalkdarbīgi, smalki
+Precizitāte ---> Tiekumišķums, tiekslums, tikrums [V-T] | Tieššāvīgums, (šāviena) tiešums | Smalkdarbīgums, smalkums
+Precīzijas (kas) ---> Tiekumišķais (kas), tiekslais (kas), tieksluma (kas), smalkais (kas), smalkdarbu (kas), smalkdarbīgais, smalkdarbiskais
+Precizēt ---> (Pa)tiecināt, (pa)tiekumināt, (pa)tiekslināt ('padarīt tiekslu' (mērķtiecīgu, precīzu)), (pa)tiekslænot (tiekslenot), (pa)tiekslišķot, (pa)tiešināt
+Precizējums ---> Tiecinājums, tiekuminājums, tiekslinājums, tiekslišķojums, tiešinājums
 
 Presēt ---> Spaidīt, slogot, slodzināt
 Presǣtava (presētava) --->
@@ -2019,7 +2016,7 @@ Reaktīvs ---> Atveicisks / [Tāds, kas saistīts ar ķermeņa impulsa maiņu] ?
 Areaktivitāte ---> Neatveicība
 Reaktīvais granātmetējs ---> ... spridžukmetene
 
-Reāls ---> [tāds, kas ir, pastāv; arī 'patiess'] Īsts, īstæns (īstens) | [tāds, kas ira taisns, nemaldīgs] Patiess / [tāds, kas var būt, notikt] Iespējams, varbūtīgs, varbūtisks, ticams | [tāds, ko var panākt, ieviest] Īstænojams (īstenojams), paveicams / [par attieksmi] Godīgs {būsim reāli ---> būsim godīgi} / [tāds, kas labi der, jeb ko var labi pielietot kādai tiekslai] Lietderīgs {lietderīga palīdzība} / [sarunvalodas nozīmei] Baigs
+Reāls ---> [tāds, kas ir, pastāv; arī 'patiess'] Īsts, īstæns (īstens) | [tāds, kas ira taisns, nemaldīgs] Patiess / [tāds, kas var būt, notikt] Iespējams, varbūtīgs, varbūtisks, ticams | [tāds, ko var panākt, ieviest] Īstænojams (īstenojams), paveicams / [par attieksmi] Godīgs {būsim reāli ---> būsim godīgi} / [tāds, kas labi der, jeb ko var labi pielietot kādam tiekumam] Lietderīgs {lietderīga palīdzība} / [sarunvalodas nozīmei] Baigs
 Reāli ---> [sarunvalodas nozīmēm] Baigi {
 Realitāte ---> Īstænība (īstenība)[V-T] {„atgriezties īstænībā” [V-T]}, tiešāmība [NOVCV-T], tiešamība [V-T] | [taisna, nemaldīga īstænības uztvere] Patiesība {atgriezties patiesībā}
 Realizēt ---> Īstænot (īstenot)[V-T] / [apmainīt pret naudu, preci] Pārdot
@@ -2522,8 +2519,8 @@ Transitivitāte, transitīvums ---> Pārejošums, pārejošība, pārejamība [V
 
 Trāpīt ---> Skart (ko), satikt (ko), sasniegt (ko), gadīt [APVV-T][IZC-K1][IZC-K2] | Tikt (kur), nokļūt (kur), ticināt (kur)
 Netrāpīts ---> Neskarts | Garām!
-Trāpīgs ---> Skarošs, tiekslæns (tiekslens; pēc lietuvju tuvvārda parauga, kas atvasināts no vārda ar nozīmi 'mērķis' (aizvietots ar vārdu „tieksla”). nozīmē arī 'precīzs' ir 'mērķtiecīgs')
-Trāpīgums, trāpība ---> Skarošums, tiekslænums
+Trāpīgs ---> Skarošs, tiekumišķs, tiekumæns (tiekumens; pēc lietuvju tuvvārda parauga, kas atvasināts no vārda ar nozīmi 'mērķis' (aizvietots ar vārdu „tiekums”). nozīmē arī 'precīzs' ir 'mērķtiecīgs')
+Trāpīgums, trāpība ---> Skarošums, tiekumišķums, tiekumænums
 Trāpījums ---> Skārums | Ticiens
 
 Trenēt ---> Vingrināt [V-T]
