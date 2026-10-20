@@ -1391,6 +1391,14 @@ Izlādēties ---> Iztukšoties
 Izlāde ---> Iztukšošanās
 Izlādǣtājs (izlādētājs) ---> Iztukšoklis
 
+Legāls ---> Likumišķs, likumīgs [V-T], likumæns (likumens)
+Legālums, likumiskums ---> Likumišķums, likumīgums [V-T]
+Legalitāte ---> Likumišķība, likumība [V-T],
+Legalizēt ---> Likumišķot
+Legalizēties ---> Likumišķoties
+Legalizācija ---> Likumišķošana / [pabeigtas darbības iznākums] Likumišķojums
+Legālisms ---> Likumišķiniecība
+
 Legingi, lenginsi, reitūzenes, jāt(i)nieku bikses, jāšanas bikses ---> Apspīlenes (no LVAK naujvārdu vārdāja), ciešstilbenes (sk. aizvietojumu vārdam „bikses”), ciešenes
 
 Leģenda ---> Dižnostāsts, dižteika, teiksma [V-T]
@@ -1496,6 +1504,9 @@ Izmantot ---> Lietot | Pielietot (ļaudu, spǣku, izdevību i. tml.) / [Pilnīb�
 Izmantošana ---> Lietošana | (ļaužu, darbaspǣka, pieredzes) Pielietošana
 Izmantotājs ---> Pielietotājs
 
+Manuāls ---> Rocisks
+Manuālis ---> Rociskais / [rokasgrāmata; saraksts] Vǣlāk kaut ko pielikšu
+
 Mape ---> Apvācis (pēc latgaļu parauga), apvācene, apliecene
 
 Mariónete (marionete) ---> Vadāmlelle | Aukliņlelle
@@ -1588,10 +1599,10 @@ High-value Target (HVT) ---> Svarīgs tēmenis
 
 Miers* (par prāta, miesu stāvokli) ---> Rimtība [V-T], rāmība [APVV-T],
 Mierīgs* ---> Rāms [V-T], rimts [V-T],
-Mierināt* ---> Rimdināt [APVV-T], rāmināt [NOVCV-T], remdināt [V-T]
-Nomierināt* ---> Norimdināt, norāmināt
+Mierināt* ---> Remdināt [​V-T​], rāmināt [NOVCV-T], rimdināt [​V-T​]
+Nomierināt* ---> Noremdināt, norāmināt
 Nomierināties* ---> Norimt [V-T], norimties [V-T]
-Apmierināt* ---> Aprimdināt, apremdināt [V-T], apremdēt [V-T]
+Apmierināt* ---> Apremdināt [V-T], apremdēt [V-T]
 (Vairākums valodinieku uzskatot, ka vārdi nav aizgūti, bet gribu saglabāt šīs otras saknes atvasinājumus, kas mums kopīgi ar pārējiem baltiem. Šobrīd pārlieki valda vārds „miers” ir tā atvasinājumi, kas padara valodu vienmuļāku)
 
 Mikrófōns (mikrofons) ---> Skaņtveris
@@ -2722,7 +2733,7 @@ Zupa ---> Vírums, vira (abi jau æsoši [1][2][3]), [sarunvalodai] strǣba (apv
 Žanriskums ---> (Mākslas)šķiriskums
 Žanrists ---> Mākslinieks
 
-Žǣl (žēl) ---> (man) sūrst, sūrstina, (Man) iesāpas, sirds iesāpas, (man) dzeļas {man par tevi dzeļas}[V-T1][V-T2], dzǣla (dzēla)[IZC-K] / Skumji
+Žǣl (žēl) ---> (Man) sūrst, sūrstina, (man) iesāpas, sirds iesāpas, (man) dzeļas {man par tevi dzeļas}[V-T1][V-T2], dzǣla (dzēla)[IZC-K] / Skumji
 Nav žǣl ---> Neiesāpas {man, viņam neiesāpas}, nedzeļas, nav dzǣlas
 Žǣlums (žēlums) ---> Iesāpsme, iesāpēšanās | Iesāpēties {uznāca žēlums ---> iesāpējās}
 Žēlīgs ---> Iesāpsmæns, saudzīgs, dzǣlīgs (dzēlīgs)
